@@ -1,0 +1,1000 @@
+
+0
+taskDesc	rotate left seventy degrees [SEP]
+gold	turn left 70 degrees
+predicted	turn left 70 degrees
+
+1
+taskDesc	can you take another pic <pause> picture [SEP]
+gold	send image
+predicted	send image
+
+2
+taskDesc	robot turn um ninety degrees left [SEP]
+gold	turn left 90 degrees
+predicted	turn left 90 degrees
+
+3
+taskDesc	move back to your left ninety degrees [SEP]
+gold	turn left 90 degrees
+predicted	turn left 90 degrees
+
+4
+taskDesc	and forward four feet [SEP]
+gold	move forward 4 feet
+predicted	move forward 4 feet
+
+5
+taskDesc	rotate one hundred and eighty degrees [SEP]
+gold	turn 180
+predicted	turn 180 degrees left
+
+6
+taskDesc	move to hallway on right [SEP]
+gold	move to hallway on right
+predicted	move into room
+
+7
+taskDesc	move two feet [SEP]
+gold	move forward 2 feet
+predicted	move forward 2 feet
+
+8
+taskDesc	can you turn ten degrees to your right [SEP]
+gold	turn right 10 degrees
+predicted	turn right 10 degrees
+
+9
+taskDesc	move to the second doorway on the left [SEP]
+gold	move to second doorway on the left
+predicted	move into room
+
+10
+taskDesc	go to end of hallway [SEP]
+gold	move to the end of the hallway
+predicted	move to end of hallway
+
+11
+taskDesc	enter room directly on your right [SEP]
+gold	move into room
+predicted	move into room
+
+12
+taskDesc	go forward ten feet [SEP]
+gold	move forward 10ft
+predicted	move forward 10ft
+
+13
+taskDesc	can you turn around [SEP]
+gold	turn 180
+predicted	turn 180
+
+14
+taskDesc	can you face can you face west [SEP]
+gold	turn to face west
+predicted	turn to face west
+
+15
+taskDesc	rotate ninety degrees right, image every thirty [SEP]
+gold	rotate 90 degrees right 	 image every 30
+predicted	rotate 90 degrees right 	 image every 30
+
+16
+taskDesc	let's move four four five feet down [SEP]
+gold	move forward 5 feet
+predicted	move forward 4 feet
+
+17
+taskDesc	can you move forward <pause, tapping> two <long pause> two feet <pause> towards the door [SEP]
+gold	move forward 2 feet
+predicted	move forward 2 feet
+
+18
+taskDesc	to your right turn thirty degrees [SEP]
+gold	turn right 30 degrees
+predicted	turn right 30 degrees
+
+19
+taskDesc	robot turn right <pause> thirteen degrees [SEP]
+gold	turn right 13 degrees
+predicted	turn right 13 degrees
+
+20
+taskDesc	mkay turn left forty five degrees [SEP]
+gold	turn left 45 degrees
+predicted	turn left 45 degrees
+
+21
+taskDesc	turn east and move until you encounter a doorway [SEP]
+gold	go through doorway
+predicted	go through doorway
+
+22
+taskDesc	and take a picuture [SEP]
+gold	send image
+predicted	send image
+
+23
+taskDesc	rotate ninety degrees [SEP]
+gold	turn right 90 degrees
+predicted	turn right 90 degrees
+
+24
+taskDesc	robot turn forty five degrees left [SEP]
+gold	turn left 45 degrees
+predicted	turn left 45 degrees
+
+25
+taskDesc	let's go with the one on the right [SEP]
+gold	go through doorway on your right
+predicted	move to one through the doorway on your left
+
+26
+taskDesc	go through the doorway in front of you and to the right [SEP]
+gold	move into room
+predicted	move into room
+
+27
+taskDesc	move directly south to the end of the hallway [SEP]
+gold	move to the end of the hallway
+predicted	move into room
+
+28
+taskDesc	okay uh can you uh continue moving forward [SEP]
+gold	move forward 3 feet
+predicted	move forward 1 foot
+
+29
+taskDesc	turn southeast [SEP]
+gold	turn to face south east
+predicted	turn to face south; move forward 1 foot
+
+30
+taskDesc	continue to the next room on the right [SEP]
+gold	move into room
+predicted	move into room
+
+31
+taskDesc	move backwards for feet and take a picture yes [SEP]
+gold	move back 4 feet
+predicted	move back 4 feet
+
+32
+taskDesc	travel four feet [SEP]
+gold	move forward 4 feet
+predicted	move forward 4 feet
+
+33
+taskDesc	okay now take another picture [SEP]
+gold	send image
+predicted	send image
+
+34
+taskDesc	exit the doorway closest to you [SEP]
+gold	go through doorway
+predicted	go through doorway
+
+35
+taskDesc	can you move down to um there's a small bump on the wall closest to you according to my map could you move down to that [SEP]
+gold	move to plant
+predicted	move to small white door on the right
+
+36
+taskDesc	okay can you move maybe fifteen degrees to your left [SEP]
+gold	turn left 15 degrees
+predicted	turn left 15 degrees
+
+37
+taskDesc	face south and take a picture [SEP]
+gold	turn to face south
+predicted	turn to face south; send image
+
+38
+taskDesc	go thirty degrees to your left [SEP]
+gold	turn left 30 degrees
+predicted	turn left 30 degrees
+
+39
+taskDesc	turn to the right and take a picture ninety degrees to the right [SEP]
+gold	turn right 90 degrees 	 send image
+predicted	turn right 90 degrees
+
+40
+taskDesc	and move up five feet [SEP]
+gold	move forward 5 feet
+predicted	move forward 5 feet
+
+41
+taskDesc	move forward into the next space [SEP]
+gold	move forward to next space
+predicted	move forward to room in front of you
+
+42
+taskDesc	move to left wall [SEP]
+gold	move to left wall
+predicted	move to left wall
+
+43
+taskDesc	can you do ano <another> turn another ten degree angle to your right [SEP]
+gold	turn right 10 degrees
+predicted	turn right 10 degrees
+
+44
+taskDesc	turn three hundred and sixty degrees to the left and take a picture every ninety degrees [SEP]
+gold	do the following turn left 90 and take a pic 4 times. . .
+predicted	rotate 180 degrees left 	 image every 30
+
+45
+taskDesc	robot turn right 180 degrees [SEP]
+gold	turn right 180
+predicted	turn right 180 degrees
+
+46
+taskDesc	face south [SEP]
+gold	turn to face south
+predicted	turn to face south
+
+47
+taskDesc	move to doorway [SEP]
+gold	go through doorway
+predicted	move to doorway
+
+48
+taskDesc	move inside the room in front of you [SEP]
+gold	move into room
+predicted	move into room
+
+49
+taskDesc	return to the beginning [SEP]
+gold	return to starting point
+predicted	move to beginning of tile
+
+50
+taskDesc	move through the open door to your left [SEP]
+gold	go through doorway on your left
+predicted	move into room
+
+51
+taskDesc	turn due south [SEP]
+gold	turn to face south
+predicted	turn due to south
+
+52
+taskDesc	to the right ninety degrees [SEP]
+gold	turn right 90 degrees
+predicted	turn right 90 degrees
+
+53
+taskDesc	go forward to the nearest doorway on the right [SEP]
+gold	go through doorway on your right
+predicted	move into room
+
+54
+taskDesc	<pause> uh rotate ninety le <left> [SEP]
+gold	turn left 90 degrees
+predicted	turn left 90 degrees
+
+55
+taskDesc	go straight for two meters [SEP]
+gold	move forward 2 meters
+predicted	move forward 2 meters
+
+56
+taskDesc	take photo please [SEP]
+gold	send image
+predicted	send image
+
+57
+taskDesc	and then take a picture [SEP]
+gold	send image
+predicted	move to take a pic
+
+58
+taskDesc	move to bamboo [SEP]
+gold	move to bamboo
+predicted	move to bamboo
+
+59
+taskDesc	go through doorways to the left [SEP]
+gold	move into room
+predicted	move into room
+
+60
+taskDesc	go open door [SEP]
+gold	go through doorway
+predicted	move into room
+
+61
+taskDesc	move forward a foot [SEP]
+gold	move forward 1 foot
+predicted	move forward 2 feet
+
+62
+taskDesc	hm like a foot or to feet [SEP]
+gold	move forward 2 feet
+predicted	move forward 2 feet
+
+63
+taskDesc	turn another forty degrees to your right [SEP]
+gold	turn right 40 degrees
+predicted	turn right 40 degrees
+
+64
+taskDesc	fifty feet [SEP]
+gold	move forward 50 feet
+predicted	move forward 50 feet
+
+65
+taskDesc	turn left forty five <four uh five> degrees [SEP]
+gold	turn left 45 degrees
+predicted	turn left 45 degrees
+
+66
+taskDesc	can you move around the object in front of you and continue to move down [SEP]
+gold	move into room
+predicted	move forward to doorway in front of you
+
+67
+taskDesc	can you move towards um the object positioned along the wall yes [SEP]
+gold	move to ladder
+predicted	move forward to front wall ahead
+
+68
+taskDesc	okay so move forward ten feet [SEP]
+gold	move forward 10ft
+predicted	move forward 10ft
+
+69
+taskDesc	and rotate ninety degrees right [SEP]
+gold	turn right 90 degrees
+predicted	turn right 90 degrees
+
+70
+taskDesc	move to shovel [SEP]
+gold	move to shovel
+predicted	move to shovel
+
+71
+taskDesc	turn northeast and take a picture turn east and take a picture [SEP]
+gold	turn to face north; turn right 45 degrees; send image
+predicted	turn to face east; turn to face north; take a picture
+
+72
+taskDesc	move back through the doorway [SEP]
+gold	move into room
+predicted	move into room
+
+73
+taskDesc	turn left <pause> twenty degrees [SEP]
+gold	turn left 20 degrees
+predicted	turn left 20 degrees
+
+74
+taskDesc	turn to face north [SEP]
+gold	turn to face north
+predicted	turn to face north
+
+75
+taskDesc	robot continue <pause> moving forward to the right of the red bucket [SEP]
+gold	move forward to space to the right of bucket
+predicted	move to right bucket
+
+76
+taskDesc	alright go back to your right ninety degrees [SEP]
+gold	turn right 90 degrees
+predicted	turn right 90 degrees
+
+77
+taskDesc	and proceed forward <pause> ten feet [SEP]
+gold	move forward 10ft
+predicted	move forward 10ft
+
+78
+taskDesc	can you turn north north [SEP]
+gold	turn to face north
+predicted	turn to face north
+
+79
+taskDesc	look south [SEP]
+gold	turn to face south
+predicted	turn to face south
+
+80
+taskDesc	robot send a picture [SEP]
+gold	send image
+predicted	send image
+
+81
+taskDesc	move closer and take a picture [SEP]
+gold	send image of map
+predicted	move into room
+
+82
+taskDesc	take a picture and send it please [SEP]
+gold	send image
+predicted	send image
+
+83
+taskDesc	move forward past the plant and then keep moving until you hit something [SEP]
+gold	move down alley
+predicted	move into room
+
+84
+taskDesc	turn left <pause> ninety degrees [SEP]
+gold	turn left 90 degrees
+predicted	turn left 90 degrees
+
+85
+taskDesc	and then continue on uh west through um that doorway the about four four five feet [SEP]
+gold	move into room
+predicted	move forward 4 feet
+
+86
+taskDesc	uh turn west [SEP]
+gold	turn to face west
+predicted	turn to face west
+
+87
+taskDesc	could you move through the doorway in front of you [SEP]
+gold	go through doorway
+predicted	move into room
+
+88
+taskDesc	and send a pic picture [SEP]
+gold	send image
+predicted	send image
+
+89
+taskDesc	drive through the doorway [SEP]
+gold	move into room
+predicted	move into room
+
+90
+taskDesc	okay i'm ready [SEP]
+gold	participant is ready
+predicted	ready
+
+91
+taskDesc	proceed through the room to your left [SEP]
+gold	move into room
+predicted	move into room
+
+92
+taskDesc	back up one feet [SEP]
+gold	move back 1 foot
+predicted	move back 1 foot
+
+93
+taskDesc	move forward to feet [SEP]
+gold	move forward 2 feet
+predicted	move forward to feet
+
+94
+taskDesc	go back to feet [SEP]
+gold	move back 2 feet
+predicted	move back to feet
+
+95
+taskDesc	the one straight in front of you [SEP]
+gold	move into room
+predicted	move forward to doorway in front of you
+
+96
+taskDesc	travel down the hallway <pause> six feet [SEP]
+gold	move forward 6
+predicted	move forward 6
+
+97
+taskDesc	can you move uh can you turn uh forty five degrees to your right [SEP]
+gold	turn right 45 degrees
+predicted	turn right 45 degrees
+
+98
+taskDesc	uh can you keep going down the hallway five or six feet i think should do it [SEP]
+gold	move forward 5 feet
+predicted	move forward to hallway doorway 5 feet
+
+99
+taskDesc	okay so to your right turn fifteen degrees [SEP]
+gold	turn right 15 degrees
+predicted	turn right 15 degrees
+
+100
+taskDesc	move forward um five feet [SEP]
+gold	move forward 5 feet
+predicted	move forward 5 feet
+
+101
+taskDesc	proceed through opening <pause> to the east [SEP]
+gold	move halfway down hallway stop
+predicted	turn to face east
+
+102
+taskDesc	navigate through the next doorway on the left [SEP]
+gold	go through doorway on your left
+predicted	move into room
+
+103
+taskDesc	can you locate another doorway doorway to your left [SEP]
+gold	turn to face doorway
+predicted	go through doorway on your left
+
+104
+taskDesc	and then turn back north yeah just turn back north [SEP]
+gold	turn to face north
+predicted	turn to face south
+
+105
+taskDesc	move through doorway move through nearest doorway [SEP]
+gold	move into room
+predicted	move into room
+
+106
+taskDesc	move to the middle of the room [SEP]
+gold	move into the center of the current room
+predicted	move into room
+
+107
+taskDesc	can you move further down from the left [SEP]
+gold	move forward 5 feet
+predicted	move forward to doorway in front of you on the left
+
+108
+taskDesc	<pause> robot take a picture [SEP]
+gold	send image
+predicted	send image
+
+109
+taskDesc	and send another pic picture [SEP]
+gold	send image
+predicted	send image
+
+110
+taskDesc	okay can you move maybe like five or ten degrees to your right [SEP]
+gold	turn right 10 degrees
+predicted	turn right 5 degrees
+
+111
+taskDesc	turn left eighty five degrees [SEP]
+gold	turn left 85 degrees
+predicted	turn left 85 degrees
+
+112
+taskDesc	<pause> <whisper: let's see> turn right and take a picture <pause> ninety degrees [SEP]
+gold	turn right 90 degrees 	 send image
+predicted	turn right 90 degrees
+
+113
+taskDesc	the doorway to your right [SEP]
+gold	move to the doorway to the right
+predicted	turn to face doorway to your right
+
+114
+taskDesc	send photo [SEP]
+gold	send image
+predicted	send image
+
+115
+taskDesc	turn thirty degrees to the left [SEP]
+gold	turn left 30 degrees
+predicted	turn left 30 degrees
+
+116
+taskDesc	can you keep moving down till the end of what you can see yep that's good [SEP]
+gold	move down alley
+predicted	move to end of hallway; turn left 90 degrees
+
+117
+taskDesc	robot go back to the start [SEP]
+gold	return to starting point
+predicted	move to start of the room
+
+118
+taskDesc	alright can you move forward till the end of what you can um move to [SEP]
+gold	move to front wall ahead
+predicted	move forward to end of hallway; turn left 90 degrees
+
+119
+taskDesc	navigate to the room on the right please navigate to the next room to the next room on the right [SEP]
+gold	move into room
+predicted	go through doorway on your left
+
+120
+taskDesc	robot move forward two feet [SEP]
+gold	move forward 2 feet
+predicted	move forward 2 feet
+
+121
+taskDesc	do you see any shovels [SEP]
+gold	send image
+predicted	send image
+
+122
+taskDesc	robot turn ninety degrees to the left [SEP]
+gold	turn left 90 degrees
+predicted	turn left 90 degrees
+
+123
+taskDesc	can you turn about forty five degrees uh to the right [SEP]
+gold	turn right 45 degrees
+predicted	turn right 45 degrees
+
+124
+taskDesc	move forward <pause> three feet [SEP]
+gold	move forward 3 feet
+predicted	move forward 3 feet
+
+125
+taskDesc	turn right fifty degrees [SEP]
+gold	turn right 50 degrees
+predicted	turn right 50 degrees
+
+126
+taskDesc	okay another forty five degrees to the right [SEP]
+gold	turn right 45 degrees
+predicted	turn right 45 degrees
+
+127
+taskDesc	pivot left ninety degrees [SEP]
+gold	turn left 90 degrees
+predicted	turn left 90 degrees
+
+128
+taskDesc	rotate to your right ten degrees [SEP]
+gold	turn right 10 degrees
+predicted	turn right 10 degrees
+
+129
+taskDesc	can you stop now [SEP]
+gold	stop
+predicted	stop before objects
+
+130
+taskDesc	<pause> turn south [SEP]
+gold	turn to face south
+predicted	turn to face south
+
+131
+taskDesc	move towards the chair [SEP]
+gold	move to chair
+predicted	move to far-left chair
+
+132
+taskDesc	no [SEP]
+gold	no
+predicted	turn left 90 degrees
+
+133
+taskDesc	and take another photo [SEP]
+gold	send image
+predicted	send image
+
+134
+taskDesc	do you see a hallway on the right if you do go through the hallway [SEP]
+gold	move into room
+predicted	move into room
+
+135
+taskDesc	let's make a sharp left turn [SEP]
+gold	turn left 90 degrees
+predicted	turn left 90 degrees
+
+136
+taskDesc	rotate right thirty degrees [SEP]
+gold	turn right 30 degrees
+predicted	turn right 30 degrees
+
+137
+taskDesc	move halfway down hallway [SEP]
+gold	move halfway down hallway
+predicted	move into room
+
+138
+taskDesc	then turn to the right ninety degrees [SEP]
+gold	turn right 90 degrees
+predicted	turn right 90 degrees
+
+139
+taskDesc	perfect move forward four feet [SEP]
+gold	move forward 4 feet
+predicted	move forward 4 feet
+
+140
+taskDesc	can you stop [SEP]
+gold	stop
+predicted	stop
+
+141
+taskDesc	go through nearest doorway yes [SEP]
+gold	go through doorway
+predicted	move into room
+
+142
+taskDesc	turn left another fifteen degrees [SEP]
+gold	turn left 15 degrees
+predicted	turn left 15 degrees
+
+143
+taskDesc	turn to your left a hundred and seventy degrees [SEP]
+gold	turn left 170 degrees
+predicted	turn left 170 degrees
+
+144
+taskDesc	okay can you move back about four feet [SEP]
+gold	move back 4 feet
+predicted	move back 4 feet
+
+145
+taskDesc	uh turn around turn to the east [SEP]
+gold	turn to face east
+predicted	turn to face east
+
+146
+taskDesc	and then move uh forward three feet through that doorway [SEP]
+gold	move into room
+predicted	move forward 3 feet
+
+147
+taskDesc	go through the doorway forward and to your right [SEP]
+gold	move into hallway on right
+predicted	move into room
+
+148
+taskDesc	okay could you move forward one or two feet and then go through the doorway to the west of you [SEP]
+gold	move into room
+predicted	move into room
+
+149
+taskDesc	<pause> move forward <pause> two feet [SEP]
+gold	move forward 2 feet
+predicted	move forward 2 feet
+
+150
+taskDesc	now take a picture [SEP]
+gold	send image
+predicted	send image
+
+151
+taskDesc	and turn north [SEP]
+gold	turn to face north
+predicted	turn to face north
+
+152
+taskDesc	move toward the red bucket [SEP]
+gold	move to bucket with rope
+predicted	move to bucket with ladder
+
+153
+taskDesc	turn a hundred and eighty degrees to the right [SEP]
+gold	turn right 180
+predicted	turn 180
+
+154
+taskDesc	uh recalibrate [SEP]
+gold	calibrate
+predicted	turn right 45 degrees
+
+155
+taskDesc	uh turn ninety degrees to your left [SEP]
+gold	turn left 90 degrees
+predicted	turn left 90 degrees
+
+156
+taskDesc	move to where you see the first cone <pause> move to the cone on the right a red cone on the right [SEP]
+gold	move forward to cone on the right
+predicted	move to right shoulder of the protagonist
+
+157
+taskDesc	<pause> face northwest [SEP]
+gold	turn to face north west
+predicted	turn to face north east
+
+158
+taskDesc	move to shovel [SEP]
+gold	move to shovel
+predicted	move to shovel
+
+159
+taskDesc	take a picture of the ladder [SEP]
+gold	send image of the ladder
+predicted	send image
+
+160
+taskDesc	move forward until you meet the wall [SEP]
+gold	move to the end of the hallway
+predicted	move to front wall ahead
+
+161
+taskDesc	move in front of the cone [SEP]
+gold	move to cone
+predicted	move forward to doorway in front of you
+
+162
+taskDesc	<pause> turn right by ten degrees [SEP]
+gold	turn right 10 degrees
+predicted	turn right 10 degrees
+
+163
+taskDesc	turn one eighty to the right [SEP]
+gold	turn right 180
+predicted	turn 180
+
+164
+taskDesc	go forward for feet [SEP]
+gold	move forward 4 feet
+predicted	move forward for feet
+
+165
+taskDesc	move through an open doorway doorway to your right [SEP]
+gold	move into room
+predicted	move into room
+
+166
+taskDesc	okay move forward three feet [SEP]
+gold	move to box
+predicted	move forward 3 feet
+
+167
+taskDesc	and show me what you see [SEP]
+gold	send image
+predicted	send image
+
+168
+taskDesc	move to door on left [SEP]
+gold	move to door on left
+predicted	move to door on the left
+
+169
+taskDesc	<pause> robot go forward five feet [SEP]
+gold	move forward 5 feet
+predicted	move forward 5 feet
+
+170
+taskDesc	can you go to the next doorway the one to your left the one closest to you [SEP]
+gold	go through doorway on your left
+predicted	go through doorway on your left
+
+171
+taskDesc	uh turn around please [SEP]
+gold	turn 180
+predicted	turn 180
+
+172
+taskDesc	move to alley cone [SEP]
+gold	move to cone
+predicted	move to alley cone
+
+173
+taskDesc	move to single shoe [SEP]
+gold	move to shoe
+predicted	move to shoes
+
+174
+taskDesc	go back to the plant [SEP]
+gold	move to plant
+predicted	move to plant
+
+175
+taskDesc	stop there [SEP]
+gold	stop
+predicted	move to doorway in front of you
+
+176
+taskDesc	go ahead [SEP]
+gold	go ahead
+predicted	go through doorway
+
+177
+taskDesc	can you um can you turn to face the opposite direction and then move out of the room [SEP]
+gold	go through doorway
+predicted	turn to face doorway on your left
+
+178
+taskDesc	exit room [SEP]
+gold	go through doorway
+predicted	go through doorway
+
+179
+taskDesc	and make a ninety degree turn right please [SEP]
+gold	turn right 90 degrees
+predicted	turn right 90 degrees
+
+180
+taskDesc	move forward until parallel with doorway [SEP]
+gold	move forward until parallel with doorway
+predicted	move forward to doorway in front of you
+
+181
+taskDesc	to your right turn another thirty degrees [SEP]
+gold	turn right 30 degrees
+predicted	turn right 30 degrees
+
+182
+taskDesc	rotate 90 degrees right, image every 45 [SEP]
+gold	rotate 90 degrees right 	 image every 45
+predicted	rotate 90 degrees right 	 image every 45
+
+183
+taskDesc	robot turn around [SEP]
+gold	turn 180
+predicted	turn 180
+
+184
+taskDesc	robot return to the main hallway [SEP]
+gold	move to hallway from entrance you came in
+predicted	move into room
+
+185
+taskDesc	go forward ten ten feet [SEP]
+gold	move forward 10ft
+predicted	move forward 10ft
+
+186
+taskDesc	turn twenty degrees to the right [SEP]
+gold	turn right 20 degrees
+predicted	turn right 20 degrees
+
+187
+taskDesc	navigate to the next doorway on the left [SEP]
+gold	go through doorway on your left
+predicted	move into room
+
+188
+taskDesc	please move forward check the doorways in your area please move forward turn to your left check and see if there's a doorway there go three steps forward [SEP]
+gold	move forward 3 feet
+predicted	move forward to third doorway
+
+189
+taskDesc	go to the opening in the northeast [SEP]
+gold	go through doorway
+predicted	move into room
+
+190
+taskDesc	move forward for feet [SEP]
+gold	move forward 4 feet
+predicted	move forward for feet
+
+191
+taskDesc	make make a slight turn to the right slightly ten degrees [SEP]
+gold	turn right 10 degrees
+predicted	turn right 10 degrees
+
+192
+taskDesc	and then take another photo of the object in front of you [SEP]
+gold	send image
+predicted	move forward to photo of object
+
+193
+taskDesc	please move ten degrees to your right [SEP]
+gold	turn right 10 degrees
+predicted	turn right 10 degrees
+
+194
+taskDesc	could you give me could you turn to your right uhhh hmmm fifty degrees [SEP]
+gold	turn right 50 degrees
+predicted	turn right 50 degrees
+
+195
+taskDesc	can you do a <pause> five degree <pause> turn to your left [SEP]
+gold	turn left 5 degrees
+predicted	turn left 5 degrees
+
+196
+taskDesc	show me what you see [SEP]
+gold	send image
+predicted	send image
+
+197
+taskDesc	so there's an object to my right and i believe your left can you face it [SEP]
+gold	turn left 45 degrees
+predicted	turn to face doorway on your left
+
+198
+taskDesc	move to the right side of the orange cone [SEP]
+gold	move to the right side of the orange cone
+predicted	move to right side of cone
+
+199
+taskDesc	continue moving forward fifty feet until i say stop ten feet [SEP]
+gold	move forward 10ft
+predicted	move back 10ft

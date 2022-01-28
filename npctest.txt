@@ -1,0 +1,564 @@
+Calibrate (2059, 0)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	calibrate (-4.516, 388, w-task_calibrate)
+ready (2060, 1)
+retrieved: 1; relevant: 0 of 0; precision: 0.00; recall: 0.00; F-Score: 0.00
+1	participant is ready (-4.556, 391, w-task_ready)
+ready (2061, 2)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	participant is ready (-4.556, 391, w-task_ready)
+move forward one foot (2062, 3)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	move forward 1 foot (-3.561, 160, w-move_1foot)
+take a picture (2063, 4)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-4.333, 155, w-image)
+face north (2064, 5)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn to face North (-4.118, 429, w-turn_North)
+take a picture (2065, 6)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-4.333, 155, w-image)
+face <pause> west (2066, 7)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn to face West (-3.676, 484, w-turn_West)
+hm take picture (2067, 8)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-4.499, 155, w-image)
+face south (2068, 9)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn to face South (-3.765, 466, w-turn_South)
+take picture (2069, 10)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-4.333, 155, w-image)
+face south east (2070, 11)
+retrieved: 2; relevant: 0 of 1; precision: 0.00; recall: 0.00; F-Score: 0.00
+1	turn to face East (-4.934, 399, w-turn_East)
+2	turn to face South (-5.135, 466, w-turn_South)
+take picture (2071, 12)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-4.333, 155, w-image)
+go to water jug (2072, 13)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	move to water jug (-3.313, 355, w-move_water_jug)
+face east (2073, 14)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn to face East (-3.906, 399, w-turn_East)
+go three feet (2074, 15)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	move forward 3 feet (-5.175, 163, w-move_3feet)
+face bucket (2075, 16)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	move to bucket with rope (-5.761, 191, w-move_bucket)
+take picture (2076, 17)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-4.333, 155, w-image)
+go to plant (2077, 18)
+retrieved: 1; relevant: 0 of 0; precision: 0.00; recall: 0.00; F-Score: 0.00
+1	move to plant (-4.609, 22, Anybody-163)
+turn one eighty (2078, 19)
+retrieved: 2; relevant: 1 of 1; precision: 0.50; recall: 1.00; F-Score: 0.67
+1	turn 180 (-5.011, 395, w-turn_180)
+2	turn right 180 (-5.677, 434, w-turn_right_180)
+take picture (2079, 20)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-4.333, 155, w-image)
+move forward one foot (2080, 21)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	move forward 1 foot (-3.561, 160, w-move_1foot)
+face north (2081, 22)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn to face North (-4.118, 429, w-turn_North)
+take picture (2082, 23)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-4.333, 155, w-image)
+go to dining room table (2083, 24)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	move to table (-3.288, 308, w-move_table)
+rotate < extended pause> ninety degrees left (2084, 25)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn left 90 degrees (-4.607, 408, w-turn_left_90)
+take picture (2085, 26)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-4.333, 155, w-image)
+go to map (2086, 27)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	move to map (-5.372, 286, w-move_map)
+take picture (2087, 28)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-4.333, 155, w-image)
+rotate toward camera towards calendar (2088, 29)
+retrieved: 0; relevant: 0 of 1; precision: 0.00; recall: 0.00; F-Score: 0.00
+take picture (2089, 30)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-4.333, 155, w-image)
+center in front of calendar (2090, 31)
+retrieved: 1; relevant: 0 of 1; precision: 0.00; recall: 0.00; F-Score: 0.00
+1	move into room (-5.676, 277, w-move_room)
+and take picture (2091, 32)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-4.257, 155, w-image)
+go back <pause> to table (2092, 33)
+retrieved: 0; relevant: 0 of 1; precision: 0.00; recall: 0.00; F-Score: 0.00
+face east (2093, 34)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn to face East (-3.906, 399, w-turn_East)
+take picture (2094, 35)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-4.333, 155, w-image)
+rotate forty five degrees <pause> right (2095, 36)
+retrieved: 2; relevant: 1 of 1; precision: 0.50; recall: 1.00; F-Score: 0.67
+1	turn right 45 degrees (-4.708, 435, w-turn_right_45)
+2	turn right 40 degrees (-5.747, 453, w-turn_right_degrees (40))
+head forward (2096, 37)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	How far should I move forward? <beep> (-4.735, 79, r-clarify_distance_forward_move)
+ten feet (2097, 38)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	move forward 10ft (-4.734, 159, w-move_10feet)
+face south (2098, 39)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn to face South (-3.765, 466, w-turn_South)
+go three feet (2099, 40)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	move forward 3 feet (-5.175, 163, w-move_3feet)
+face east (2100, 41)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn to face East (-3.906, 399, w-turn_East)
+take picture (2101, 42)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-4.333, 155, w-image)
+face south (2102, 43)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn to face South (-3.765, 466, w-turn_South)
+go forward to nearest doorwell (2103, 44)
+retrieved: 1; relevant: 0 of 0; precision: 0.00; recall: 0.00; F-Score: 0.00
+1	go through doorway on your right (-5.858, 20, w-move_doorway_right)
+go west<pause> five feet (2104, 45)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn to face West then … move forward 5 feet (-3.845, 486, w-turn_West; w-move_5feet)
+face south (2105, 46)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn to face South (-3.765, 466, w-turn_South)
+take picture (2106, 47)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-4.333, 155, w-image)
+go towards poster on left (2107, 48)
+retrieved: 0; relevant: 0 of 1; precision: 0.00; recall: 0.00; F-Score: 0.00
+take picture (2108, 49)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-4.333, 155, w-image)
+go back to prior position (2109, 50)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	Can you rephrase that? <beep> (-3.339, 148, r-request_rephrase)
+face uh southwest (2110, 51)
+retrieved: 2; relevant: 0 of 1; precision: 0.00; recall: 0.00; F-Score: 0.00
+1	turn to face South West (-4.965, 480, w-turn_target (southwest))
+2	turn to face South West (-5.260, 483, w-turn_target(southwest))
+take picture (2111, 52)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-4.333, 155, w-image)
+go to fire hydrant or not fire hydrant uh go to fire extinguisher (2112, 53)
+retrieved: 1; relevant: 0 of 0; precision: 0.00; recall: 0.00; F-Score: 0.00
+1	move 3 feet towards fire extinguisher (-3.356, 210, w-move_dist_towards_goal (dist=3 feet, goal=fire extinguisher))
+face <pause> east (2113, 54)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn to face East (-3.586, 399, w-turn_East)
+take picture (2114, 55)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-4.333, 155, w-image)
+face west (2115, 56)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn to face West (-3.677, 484, w-turn_West)
+take picture (2116, 57)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-4.333, 155, w-image)
+stop two feet before shovel (2117, 58)
+retrieved: 1; relevant: 0 of 0; precision: 0.00; recall: 0.00; F-Score: 0.00
+1	move forward 2 feet (-5.381, 161, w-move_2feet)
+face north (2118, 59)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn to face North (-4.118, 429, w-turn_North)
+take picture (2119, 60)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-4.333, 155, w-image)
+go two feet north (2120, 61)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	move forward 2 feet (-5.616, 161, w-move_2feet)
+go one foot north (2121, 62)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	move forward 1 foot (-4.510, 160, w-move_1foot)
+face west (2122, 63)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn to face West (-3.677, 484, w-turn_West)
+take picture (2123, 64)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-4.333, 155, w-image)
+go to nearest <pause> doorwell (2124, 65)
+retrieved: 2; relevant: 0 of 1; precision: 0.00; recall: 0.00; F-Score: 0.00
+1	move to nearest doorway (-5.865, 332, w-move_target ("nearest doorway"))
+2	The one to my right? <beep> (-5.880, 44, Anybody-189)
+(calibrate) (2125, 66)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	calibrate (-4.516, 388, w-task_calibrate)
+i’m ready (2126, 67)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	participant is ready (-3.332, 391, w-task_ready)
+take a picture looking forward (2127, 68)
+retrieved: 2; relevant: 1 of 1; precision: 0.50; recall: 1.00; F-Score: 0.67
+1	turn to face East then. . . send image (-4.624, 400, w-turn_East; w-image)
+2	send image (-5.846, 155, w-image)
+rotate to the right <pause> fifteen degrees (2128, 69)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn right 15 degrees (-5.176, 444, w-turn_right_degrees (15))
+then take a photo (2129, 70)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-3.574, 155, w-image)
+rotate to the left ninety degrees (2130, 71)
+retrieved: 1; relevant: 0 of 1; precision: 0.00; recall: 0.00; F-Score: 0.00
+1	turn left 90 degrees (-4.423, 408, w-turn_left_90)
+and take a photo (2131, 72)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-3.866, 155, w-image)
+rotate a hundred and eighty degrees (2132, 73)
+retrieved: 1; relevant: 0 of 1; precision: 0.00; recall: 0.00; F-Score: 0.00
+1	turn 180 (-4.557, 395, w-turn_180)
+and take a photo (2133, 74)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-3.866, 155, w-image)
+move to the east four feet (2134, 75)
+retrieved: 1; relevant: 0 of 0; precision: 0.00; recall: 0.00; F-Score: 0.00
+1	turn to face East then. . . move forward 4 (-4.033, 404, w-turn_East; w-move_forward_distance (4 feet))
+rotate <pause> one hundred degrees to the left (2135, 76)
+retrieved: 1; relevant: 0 of 1; precision: 0.00; recall: 0.00; F-Score: 0.00
+1	turn 180 (-5.306, 395, w-turn_180)
+um take a photo (2136, 77)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-4.247, 155, w-image)
+rotate forty five grees<disfl> degrees to the right (2137, 78)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn right 45 degrees (-4.739, 435, w-turn_right_45)
+and take a photo (2138, 79)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-3.866, 155, w-image)
+and move to the east five feet (2139, 80)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	face East then. . . move forward 5 feet (-4.557, 402, w-turn_East; w-move_5feet)
+rotate to the left forty five degrees (2140, 81)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn left 45 degrees (-4.719, 407, w-turn_left_45)
+and take a photo (2141, 82)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-3.866, 155, w-image)
+take a photo of the east wall (2142, 83)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-3.649, 155, w-image)
+rotate to the left ninety degrees (2143, 84)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn left 90 degrees (-4.423, 408, w-turn_left_90)
+and take a photo (2144, 85)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-3.866, 155, w-image)
+move forward as far as you can (2145, 86)
+retrieved: 2; relevant: 0 of 1; precision: 0.00; recall: 0.00; F-Score: 0.00
+1	move forward as far as you can (-4.690, 270, w-move_forward_target (wall))
+2	move to front wall ahead (-5.301, 272, w-move_front_wall)
+take a photo (2146, 87)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-4.089, 155, w-image)
+take a photo of looking west (2147, 88)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn to face West then. . . send image (-3.414, 485, w-turn_West; w-image)
+take a photo looking south (2148, 89)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn to face South then. . . send image (-3.420, 467, w-turn_South; w-image)
+move forward five feet (2149, 90)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	move forward 5 feet (-4.594, 164, w-move_5feet)
+take a photo (2150, 91)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-4.089, 155, w-image)
+take a picture looking east (2151, 92)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn to face East then. . . send image (-3.391, 400, w-turn_East; w-image)
+proceed forward ten feet (2152, 93)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	move forward 10ft (-4.144, 159, w-move_10feet)
+take a photo (2153, 94)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-4.089, 155, w-image)
+take a photo looking south (2154, 95)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn to face South then. . . send image (-3.420, 467, w-turn_South; w-image)
+rotate to the left ninety degrees (2155, 96)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn left 90 degrees (-4.423, 408, w-turn_left_90)
+move forward two feet (2156, 97)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	move forward 2 feet (-4.271, 161, w-move_2feet)
+take a picture of the north wall (2157, 98)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn to face North send image (-3.439, 430, w-turn_North; w-image)
+move <pause> west <pause> fifteen feet (2158, 99)
+retrieved: 1; relevant: 0 of 0; precision: 0.00; recall: 0.00; F-Score: 0.00
+1	turn to face West then. . . move forward 15 (-3.440, 488, w-turn_West; w-move_forward_distance (15 feet))
+take a photo (2159, 100)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-4.089, 155, w-image)
+move move <pause> forward through doorway (2160, 101)
+retrieved: 1; relevant: 0 of 0; precision: 0.00; recall: 0.00; F-Score: 0.00
+1	move into room (-5.307, 277, w-move_room)
+take a photo (2161, 102)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-4.089, 155, w-image)
+take a photo looking south (2162, 103)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn to face South then. . . send image (-3.420, 467, w-turn_South; w-image)
+move forward <pause> five feet (2163, 104)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	move forward 5 feet (-4.620, 164, w-move_5feet)
+turn right <pause> forty five degrees (2164, 105)
+retrieved: 2; relevant: 1 of 1; precision: 0.50; recall: 1.00; F-Score: 0.67
+1	turn right 45 degrees (-4.642, 435, w-turn_right_45)
+2	turn left 45 degrees (-5.683, 407, w-turn_left_45)
+move forward as far as you can (2165, 106)
+retrieved: 2; relevant: 0 of 0; precision: 0.00; recall: 0.00; F-Score: 0.00
+1	move forward as far as you can (-4.690, 270, w-move_forward_target (wall))
+2	move to front wall ahead (-5.301, 272, w-move_front_wall)
+rotate <pause> forty degrees <pause> to your left (2166, 107)
+retrieved: 2; relevant: 0 of 1; precision: 0.00; recall: 0.00; F-Score: 0.00
+1	turn left 45 degrees (-5.244, 407, w-turn_left_45)
+2	turn right 40 degrees (-5.835, 453, w-turn_right_degrees (40))
+and take a photo (2167, 108)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-3.866, 155, w-image)
+move forward <pause> two feet (2168, 109)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	move forward 2 feet (-4.082, 161, w-move_2feet)
+move forward two feet (2169, 110)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	move forward 2 feet (-4.271, 161, w-move_2feet)
+take a picture towards looking uh east (2170, 111)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn to face East then. . . send image (-3.338, 400, w-turn_East; w-image)
+move south <pause> east <pause> er four feet (2171, 112)
+retrieved: 1; relevant: 0 of 0; precision: 0.00; recall: 0.00; F-Score: 0.00
+1	move forward 4 feet (-5.301, 227, w-move_forward_distance (4 feet))
+take a photo (2172, 113)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-4.089, 155, w-image)
+move east through doorway<disfl> doorway (2173, 114)
+retrieved: 1; relevant: 0 of 0; precision: 0.00; recall: 0.00; F-Score: 0.00
+1	move into room (-5.165, 277, w-move_room)
+take a photo (2174, 115)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-4.089, 155, w-image)
+take a photo of looking south (2175, 116)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn to face South then. . . send image (-3.410, 467, w-turn_South; w-image)
+take a photo looking north (2176, 117)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn to face North send image (-3.485, 430, w-turn_North; w-image)
+rotate uh forty five degrees no ninety degrees <pause> to the right (2177, 118)
+retrieved: 1; relevant: 0 of 1; precision: 0.00; recall: 0.00; F-Score: 0.00
+1	turn right 45 degrees (-5.337, 435, w-turn_right_45)
+take a photo (2178, 119)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-4.089, 155, w-image)
+proceed through opening <pause> to the east (2179, 120)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	move halfway down hallway stop (-3.350, 280, w-move_kitchen_hall_half; w-stop)
+take a photo (2180, 121)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-4.089, 155, w-image)
+(calibrate) (2181, 122)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	calibrate (-4.516, 388, w-task_calibrate)
+I'm ready (2182, 123)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	participant is ready (-3.340, 391, w-task_ready)
+i'm looking for doors can you help me (2183, 124)
+retrieved: 3; relevant: 1 of 1; precision: 0.33; recall: 1.00; F-Score: 0.50
+1	I need your help to find doors. You can tell me to move a certain distance or to move to an object. You can tell me to turn a number of degrees or to face something. <beep> (-5.377, 146, r-request_help (find doors); r-describe_capability_move; r-describe_capability_turn)
+2	You can tell me to turn a number of degrees or to face something. <beep> (-5.385, 127, r-describe_capability_turn)
+3	You can tell me to move a certain distance or to move to an object. <beep> (-5.385, 49, Anybody-199)
+can you face the north wall (2184, 125)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn to face North (-3.370, 429, w-turn_North)
+can i see what you're seeing (2185, 126)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-3.296, 155, w-image)
+can you turn a little bit to your right (2186, 127)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	How much is a little bit? <beep> (-3.826, 86, r-clarify_much_little_bit)
+twenty degrees (2187, 128)
+retrieved: 2; relevant: 1 of 1; precision: 0.50; recall: 1.00; F-Score: 0.67
+1	turn right 20 degrees (-5.641, 448, w-turn_right_degrees (20))
+2	turn left 20 degrees (-5.741, 417, w-turn_left_degrees (20))
+can i see what you're seeing (2188, 129)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-3.296, 155, w-image)
+just take a picture of that (2189, 130)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	Would you like me to move to take a good picture? <beep> (-3.595, 130, r-describe_plan_good_picture)
+can you move now twenty degrees more to the right (2190, 131)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn right 20 degrees (-3.355, 448, w-turn_right_degrees (20))
+can i see what you're seeing (2191, 132)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-3.296, 155, w-image)
+please move forward um five feet (2192, 133)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	move forward 5 feet (-3.557, 164, w-move_5feet)
+and can i see what you're seeing (2193, 134)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-3.296, 155, w-image)
+please turn forty five degrees i'm sorry turn forty five degrees to your right (2194, 135)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn right 45 degrees (-3.313, 435, w-turn_right_45)
+please move another forty five degrees to your right (2195, 136)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn right 45 degrees (-3.831, 435, w-turn_right_45)
+and can i see what you're looking at (2196, 137)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-3.296, 155, w-image)
+move to your left <pause> fifteen degrees (2197, 138)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn left 15 degrees (-4.398, 413, w-turn_left_degrees (15))
+and give me a visual (2198, 139)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-3.297, 155, w-image)
+please take a picture (2199, 140)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-3.672, 155, w-image)
+could you move <pause> twenty five degrees to your right please (2200, 141)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn right 25 degrees (-4.053, 449, w-turn_right_degrees (25))
+and give me a visual (2201, 142)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-3.297, 155, w-image)
+please turn another twenty five degrees to your right (2202, 143)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn right 25 degrees (-3.807, 449, w-turn_right_degrees (25))
+and give me a visual (2203, 144)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-3.297, 155, w-image)
+ten degrees to your right (2204, 145)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn right 10 degrees (-4.546, 437, w-turn_right_degrees (10))
+and a visual (2205, 146)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-3.711, 155, w-image)
+please move ten degrees to your right (2206, 147)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn right 10 degrees (-4.143, 437, w-turn_right_degrees (10))
+and take another photo (2207, 148)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-3.438, 155, w-image)
+and you took a photo correct (2208, 149)
+retrieved: 1; relevant: 0 of 0; precision: 0.00; recall: 0.00; F-Score: 0.00
+1	yes (-3.288, 493, w-yes)
+please move fifteen degrees to your right (2209, 150)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn right 15 degrees (-3.833, 444, w-turn_right_degrees (15))
+and take another ph<disfl> and uh let me see what you see (2210, 151)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-3.297, 155, w-image)
+please move forward <pause> umm fff <pause> three feet (2211, 152)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	move forward 3 feet (-3.316, 163, w-move_3feet)
+rotate to your right <pause> ten degrees (2212, 153)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn right 10 degrees (-3.994, 437, w-turn_right_degrees (10))
+and let me see what you're seeing (2213, 154)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-3.296, 155, w-image)
+rotate <pause> twenty five degrees to your right (2214, 155)
+retrieved: 2; relevant: 1 of 1; precision: 0.50; recall: 1.00; F-Score: 0.67
+1	turn right 25 degrees (-4.693, 449, w-turn_right_degrees (25))
+2	turn right 20 degrees (-5.515, 448, w-turn_right_degrees (20))
+and give me a visual (2215, 156)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-3.297, 155, w-image)
+please move <pause> twenty degrees to your right (2216, 157)
+retrieved: 2; relevant: 1 of 1; precision: 0.50; recall: 1.00; F-Score: 0.67
+1	turn right 20 degrees (-4.759, 448, w-turn_right_degrees (20))
+2	turn right 25 degrees (-5.476, 449, w-turn_right_degrees (25))
+and give me a visual (2217, 158)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-3.297, 155, w-image)
+five degrees more to your right (2218, 159)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn right 5 degrees (-4.712, 454, w-turn_right_degrees (5))
+and <pause> give me a visual and take a photo (2219, 160)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-3.296, 155, w-image)
+fifteen degrees to your right (2220, 161)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn right 15 degrees (-4.324, 444, w-turn_right_degrees (15))
+and give me a visual (2221, 162)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-3.297, 155, w-image)
+thirty degrees to your right and can you keep the camera on so i can see without having to ask each time (2222, 163)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	Our connection is too slow for me to send video data. <beep> (-3.388, 128, r-describe_capability_video)
+please move twenty <pause>five degrees to your right (2223, 164)
+retrieved: 2; relevant: 1 of 1; precision: 0.50; recall: 1.00; F-Score: 0.67
+1	turn right 25 degrees (-4.286, 449, w-turn_right_degrees (25))
+2	turn right 20 degrees (-5.786, 448, w-turn_right_degrees (20))
+please show me what you can see (2224, 165)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-3.312, 155, w-image)
+could you give me <disfl> could you turn to your right uhhh hmmm <pause> fifty degrees (2225, 166)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn right 50 degrees (-3.316, 455, w-turn_right_degrees (50))
+please send me a visual (2226, 167)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-3.297, 155, w-image)
+please turn forty five degrees to your right (2227, 168)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn right 45 degrees (-4.096, 435, w-turn_right_45)
+move five deg <disfl> five feet forward (2228, 169)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	move forward 5 feet (-3.323, 164, w-move_5feet)
+ten degrees to your right (2229, 170)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn right 10 degrees (-4.546, 437, w-turn_right_degrees (10))
+and move five feet forward (2230, 171)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	move forward 5 feet (-4.642, 164, w-move_5feet)
+please give me a visual (2231, 172)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-3.296, 155, w-image)
+turn five degrees to your right (2232, 173)
+retrieved: 2; relevant: 1 of 1; precision: 0.50; recall: 1.00; F-Score: 0.67
+1	turn right 45 degrees (-5.769, 435, w-turn_right_45)
+2	turn right 5 degrees (-5.845, 454, w-turn_right_degrees (5))
+and move forward <pause> eight feet (2233, 174)
+retrieved: 1; relevant: 0 of 0; precision: 0.00; recall: 0.00; F-Score: 0.00
+1	move forward 8ft (-3.827, 233, w-move_forward_distance (8 feet))
+please send me a visual (2234, 175)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-3.297, 155, w-image)
+mhm move five feet forward (2235, 176)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	move forward 5 feet (-4.594, 164, w-move_5feet)
+five degrees to your left (2236, 177)
+retrieved: 1; relevant: 0 of 1; precision: 0.00; recall: 0.00; F-Score: 0.00
+1	turn left 45 degrees (-5.564, 407, w-turn_left_45)
+and move five feet forward (2237, 178)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	move forward 5 feet (-4.642, 164, w-move_5feet)
+move three feet forward (2238, 179)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	move forward 3 feet (-4.247, 163, w-move_3feet)
+and <pause>fifteen degrees <pause>turn turn to your left (2239, 180)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	turn left 15 degrees (-4.147, 413, w-turn_left_degrees (15))
+and give me a visual (2240, 181)
+retrieved: 1; relevant: 1 of 1; precision: 1.00; recall: 1.00; F-Score: 1.00
+1	send image (-3.297, 155, w-image)
+turn fifteen degrees to your left (2241, 182)
+retrieved: 2; relevant: 1 of 1; precision: 0.50; recall: 1.00; F-Score: 0.67
+1	turn left 15 degrees (-4.561, 413, w-turn_left_degrees (15))
+2	turn right 15 degrees (-5.872, 444, w-turn_right_degrees (15))

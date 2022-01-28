@@ -1,0 +1,1923 @@
+can you turn left thirty degrees [SEP] turn left 30 degrees [SEP] turn left thirty degrees <\s> 
+robot continue into the beginning of the hallway [SEP] How far should I proceed down the hallway? <beep> [SEP] how far should i continue into the hallway? <\s> 
+yes send me a photo so i could see [SEP] send image [SEP] send image <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+<pause> t turn left forty five degrees [SEP] turn left 45 degrees [SEP] turn left forty five degrees <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+go back to your starting position [SEP] return to starting point [SEP] return to starting point <\s> 
+and travel <pause> five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+can you go around and take a photo behind the tv [SEP] No. My LIDAR map is showing no space behind the TV. Do you want me to move around the left or right side of the TV? <beep> [SEP] no.  my lidar map is showing no space behind the tv.  do you want me to move around the left or right side of the tv? <\s> 
+turn around a hundred and eighty degrees [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+<pause> through east [SEP] turn to face East [SEP] turn to face east <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+move forward fifteen feet [SEP] move forward 15ft [SEP] move forward fifteen feet <\s> 
+can you take a photo of what you see [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+move southeast [SEP] How far southeast should I go? <beep> [SEP] how far southeast should i go? <\s> 
+robot take a picture [SEP] send image [SEP] send image <\s> 
+go forward three feet [SEP] move forward 3 feet [SEP] move forward three feet <\s> 
+move forward ten feet [SEP] move forward 10ft [SEP] move forward ten feet <\s> 
+take photo [SEP] none [SEP] send image <\s> 
+rotate one hundred and eighty degrees right, image every thirty [SEP] rotate 180 degrees right, image every 30 [SEP] rotate one hundred and eighty degrees right <\s> image every thirty <\s> 
+turn left forty five degrees [SEP] turn left 45 degrees [SEP] turn left forty five degrees <\s> 
+move to office calendar [SEP] none [SEP] move to office calendar  <\s> 
+and take a picture but keep the rest of the room in focus [SEP] send image [SEP] send image <\s> 
+take picture [SEP] none [SEP] send image <\s> 
+take a picture <pause> in front of you [SEP] send image [SEP] send image <\s> 
+uh move forward ten feet to [SEP] move forward 10ft [SEP] move forward ten feet <\s> 
+face north [SEP] turn to face North [SEP] turn to face north <\s> 
+<pause> make a u turn [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+move forward uhh <pause> five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+pivot one hundred and eighty degrees taking a picture every fourty [SEP] rotate 180 degrees left, image every 45 [SEP] do the following four times: turn left four5 degrees; send image <\s> 
+turn fifteen degrees right [SEP] none [SEP] turn right fifteen degrees <\s> 
+robot turn around [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take photo [SEP] none [SEP] send image <\s> 
+turn left and go two feet [SEP] How far should I turn to the left? <beep> [SEP] how far should i turn left?  ninety degrees? <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+can you stop [SEP] stop [SEP] stop <\s> 
+can you do a <pause> five degree <pause> turn to your left [SEP] turn left 5 degrees [SEP] turn left five degrees <\s> 
+<pause> fff face west [SEP] turn to face West [SEP] turn to face west <\s> 
+turn right forty five degrees [SEP] turn right 45 degrees [SEP] turn right forty five degrees <\s> 
+move forward uhh ten feet [SEP] move forward 10ft [SEP] move forward ten feet <\s> 
+do you think there's some type of container that a soldier might be able to use to move things [SEP] I think that you are better at recognizing containers than I am. I can help you find a container if you guide me. [SEP] i think that you are better at recognizing containers than i am.  i can help you find a container if you guide me. <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move to the second doorway on the left [SEP] move to second doorway on the left [SEP] move to second doorway on the left <\s> 
+go back out of the door and proceed down further down the hallway to the next door <pause> on your right [SEP] move to next doorway on your right via returning to the hall [SEP] move to next doorway on your right via returning to the hall <\s> 
+face the door in front of you and then take a picture [SEP] move forward to door in front of you, send image [SEP] move forward to door in front of you; send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+can you turn ten more degrees to your right [SEP] turn right 10 degrees [SEP] turn right ten degrees <\s> 
+okay can you move at least fifty feet forward [SEP] move forward 50 feet [SEP] move forward fifty feet <\s> 
+back up to the wall behind you [SEP] move back to back wall behind you [SEP] move back to back wall behind you <\s> 
+stop there [SEP] stop [SEP] stop <\s> 
+move to tv   hall doorway [SEP] none [SEP] move to tv   hall doorway  <\s> 
+turn right thirty degrees [SEP] turn right 30 degrees [SEP] turn right thirty degrees <\s> 
+move into conf room [SEP] none [SEP] move into conf room  <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+pivot right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees  <\s> 
+go back two feet [SEP] move back 2 feet [SEP] move back two feet <\s> 
+fantastic please take a photo fido [SEP] send image [SEP] send image <\s> 
+turn right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees  <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move to orange cone in doorway [SEP] move to orange cone [SEP] move to orange cone in the first doorway <\s> 
+<pause> robot move forward <pause> five ff feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+turn to face tv   hall doorway [SEP] none [SEP] turn to face tv   hall doorway  <\s> 
+rotate right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees <\s> 
+face east [SEP] turn to face East [SEP] turn to face east <\s> 
+say again [SEP] say again [SEP] say again  <\s> 
+take a photo [SEP] send image [SEP] send image <\s> 
+move to books [SEP] move to books [SEP] move to books  <\s> 
+turn to the right [SEP] none [SEP] how far should i turn to the right?  <beep> <\s> 
+can you do another five degree turn to your right [SEP] turn right 5 degrees [SEP] turn right five degrees <\s> 
+can you do a five degree turn to your right [SEP] turn right 5 degrees [SEP] turn right five degrees <\s> 
+turn right <pause> forty five degrees [SEP] none [SEP] turn right forty five degrees <\s> 
+turn forty five degrees to the <pause> left [SEP] turn left 45 degrees [SEP] turn left forty five degrees <\s> 
+<pause> can you take a picture [SEP] send image [SEP] send image <\s> 
+take another picture [SEP] send image [SEP] send image <\s> 
+rotate three hundred and sixty degrees left, image every thirty [SEP] rotate 360 degrees left, image every 30 [SEP] rotate three hundred and sixty degrees left <\s> image every thirty <\s> 
+move forward five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+rotate left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+mm move forward <pause> five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+move forward five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+<pause> turn <pause> forty five degrees to your left [SEP] turn left 45 degrees [SEP] turn left forty five degrees <\s> 
+rotate ninety degrees left, image every thirty [SEP] rotate 90 degrees left, image every 30 [SEP] rotate ninety degrees left <\s> image every thirty <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+can you take a photo [SEP] send image [SEP] send image <\s> 
+move forward into the next room [SEP] move into room [SEP] move forward to next space ahead <\s> 
+<pause> turn right forty degrees [SEP] turn right 45 degrees [SEP] turn right forty degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and send me a photo of the hallway [SEP] none [SEP] send image <\s> 
+turn left [SEP] none [SEP] how far left should i turn?  you can tell me to turn to face something that you see. <\s> 
+rotate ninety degrees right, image every forty five [SEP] rotate 90 degrees right, image every 45 [SEP] rotate ninety degrees right <\s> image every forty five <\s> 
+robot turn a hundred eighty degrees [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+<pause> take a picture [SEP] send image [SEP] send image <\s> 
+turn around and go back out of the door that you came into [SEP] turn 180; move to door [SEP] turn one hundred and eighty; move to door <\s> 
+robot proceed into this room [SEP] How far should I move forward? <beep> [SEP] how far should i proceed into the room? <\s> 
+and take picture [SEP] none [SEP] send image <\s> 
+move to room sign for office [SEP] none [SEP] move to room sign for office  <\s> 
+turn right [SEP] none [SEP] how far should i turn right? <\s> 
+the wall straight ahead [SEP] move to front wall ahead [SEP] move to front wall ahead <\s> 
+can you take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move three forward [SEP] move forward 3 feet [SEP] move forward three feet <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+face north [SEP] turn to face North [SEP] turn to face north <\s> 
+turn to face shoe start   hall doorway [SEP] none [SEP] turn to face shoe start   hall doorway  <\s> 
+rotate right forty five degrees [SEP] turn right 45 degrees [SEP] turn right forty five degrees <\s> 
+go forward a foot and a half [SEP] move forward 1.5 feet [SEP] move forward one.five feet <\s> 
+turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+take photo [SEP] none [SEP] send image <\s> 
+move forward [SEP] none [SEP] i'm not sure where or when to stop moving forward. you can tell me to move a certain distance or to an object that you see. <\s> 
+turn right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees  <\s> 
+robot continue down this hallway to the next doorway on the left [SEP] move to the end of the hallway; move to next door on left [SEP] move to the end of the tv hallway; move to next door on left <\s> 
+take another picture [SEP] send image [SEP] send image <\s> 
+and move forward five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+can you do a twenty degree angle to the right [SEP] Can you rephrase that? <beep> [SEP] can you rephrase that?  <beep> <\s> 
+move to nearest door [SEP] move to nearest door [SEP] move to nearest door <\s> 
+move to foyer   kitchen doorway [SEP] none [SEP] move to foyer   kitchen doorway  <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+is it round [SEP] I'm not sure. [SEP] i'm not sure. <\s> 
+move forward ten feet [SEP] move forward 10ft [SEP] move forward ten feet <\s> 
+turn a hundred and eighty degrees <pause> north [SEP] none [SEP] turn to face north <\s> 
+and take a photo [SEP] send image [SEP] send image <\s> 
+rotate ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees <\s> 
+face south [SEP] turn to face South [SEP] turn to face south <\s> 
+and take a photo [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+<pause>rotate left twenty degrees [SEP] turn left 20 degrees [SEP] turn left twenty degrees <\s> 
+can you take a photo [SEP] send image [SEP] send image <\s> 
+back up three feet [SEP] move back 3 feet [SEP] move back three feet <\s> 
+move forward until parallel with foyer   kitchen doorway [SEP] none [SEP] move forward until parallel with foyer   kitchen doorway  <\s> 
+and travel eight feet [SEP] move forward 8ft [SEP] move forward eight feet <\s> 
+take another pictu <picture> [SEP] send image [SEP] send image <\s> 
+turn to face kitchen   hall doorway [SEP] none [SEP] turn to face kitchen   hall doorway  <\s> 
+move to conference calendar [SEP] none [SEP] move to conference calendar  <\s> 
+make a right <pause> well about three feet and a quick left [SEP] How far should I turn to the right? <beep> [SEP] how far should i turn to the right? <\s> 
+robot face south [SEP] turn to face South [SEP] turn to face south <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move to dark room crate [SEP] none [SEP] move to dark room crate  <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+turn <pause> right [SEP] none [SEP] how far should i turn to the right?  <beep> <\s> 
+back up four feet [SEP] none [SEP] i move back four feet <\s> 
+turn left forty degrees [SEP] turn left 45 degrees [SEP] turn left forty degrees <\s> 
+move forward one foot [SEP] move forward 1 foot [SEP] move forward one foot <\s> 
+<pause> <whisper: let's see> turn right [SEP] How far should I turn to the right? <beep> [SEP] how far should i turn to the right?  <beep> <\s> 
+what type of sensors do you have [SEP] none [SEP] i don't have arms <\s> just wheels! i see objects all around me; i need your help to decide which are important. i can't manipulate objects. <\s> 
+go back to the start point [SEP] return to starting point [SEP] return to starting point <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+<pause> turn to the left [SEP] none [SEP] i'm unsure where or when i should stop turning.  <beep> <\s> 
+rotate right twenty degrees [SEP] turn right 20 degrees [SEP] turn right twenty degrees <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+turn right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees  <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+send me a picture [SEP] send image [SEP] send image <\s> 
+move into the room to your right [SEP] move forward to room ahead on the right [SEP] move forward to room ahead on the right <\s> 
+rotate one hundred and eighty degrees right, image every forty five [SEP] rotate 180 degrees right, image every 45 [SEP] rotate one hundred and eighty degrees right <\s> image every forty five <\s> 
+turn right [SEP] none [SEP] how far should i turn to the right?  <beep> <\s> 
+rotate three hundred and sixty degrees to your left taking a picture every forty [SEP] rotate 360 degrees right, image every 30 [SEP] do the following eight times: turn left forty five degrees; send image <\s> 
+go out into the center of the hallway on your left [SEP] move to center of the hallway on your left [SEP] move to center of the hallway on your left <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+stop there [SEP] stop [SEP] stop <\s> 
+can you move two more feet towards the white door [SEP] move forward 2 feet [SEP] move forward two feet <\s> 
+rotate right <pause> twenty degrees [SEP] turn right 20 degrees [SEP] turn right twenty degrees <\s> 
+and send me a photo [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+show me your surroundings [SEP] I'm not sure what you mean. Would you like me to send you a picture? <beep> [SEP] i'm not sure what you mean.  would you like me to send you a picture? <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn around a hundred and eighty degrees [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+turn to face foyer   hall doorway [SEP] none [SEP] turn to face foyer   hall doorway  <\s> 
+send photo [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+stop [SEP] stop [SEP] stop <\s> 
+move to room one cone [SEP] none [SEP] move to room one cone  <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+what about move two feet closer [SEP] move forward 2 feet [SEP] move forward two feet <\s> 
+stop [SEP] stop [SEP] stop <\s> 
+robot take a photo [SEP] send image [SEP] send image <\s> 
+can you do one eighty turn [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+robot move forward five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+turn right one hundred and eighty degrees [SEP] turn right 180 [SEP] turn right one hundred and eighty <\s> 
+robot turn <pause> left <pause> and take a picture ninety degrees left and take a picture correction [SEP] none [SEP] turn left ninety degrees <\s> 
+can you move <pause> east [SEP] How far to the East should I go? <beep> [SEP] how far to the east should i go? <\s> 
+rotate one hundred and eighty degrees left, image every forty five [SEP] rotate 180 degrees left, image every 45 [SEP] rotate one hundred and eighty degrees left <\s> image every forty five <\s> 
+okay turn right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+robot take a picture [SEP] send image [SEP] send image <\s> 
+move do move south [SEP] How far south should I go? <beep> [SEP] how far south should i go? <\s> 
+<pause> turn to your right [SEP] none [SEP] how far should i turn to the right? would you like me to face something? <\s> 
+move forward three feet [SEP] move forward 3 feet [SEP] move forward three feet <\s> 
+can you turn another twenty degrees to your left [SEP] turn left 20 degrees [SEP] turn left twenty degrees <\s> 
+go to end of hallway [SEP] move to the end of the hallway [SEP] move to end of hallway in front of you <\s> 
+robot turn forty five degrees to the left to the door [SEP] turn to face door on left [SEP] turn to face door on left <\s> 
+move to shovel start door [SEP] none [SEP] move to shovel start door  <\s> 
+turn right a hundred and eighty degrees [SEP] turn right 180 [SEP] turn right one hundred and eighty <\s> 
+face east [SEP] turn to face East [SEP] turn to face east <\s> 
+pivot right forty [SEP] turn right 40 degrees [SEP] turn right ninety degrees  <\s> 
+back up three feet [SEP] move back 3 feet [SEP] move back three feet <\s> 
+turn left one hundred and eighty degrees [SEP] turn left 180 [SEP] turn left one hundred and eighty <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+office [SEP] none [SEP] office  <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move into dark room [SEP] none [SEP] move into dark room  <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+move to alley door two [SEP] none [SEP] move to alley door two  <\s> 
+turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+send a picture [SEP] none [SEP] send image <\s> 
+rotate left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+go to the other door [SEP] move to other door [SEP] move to other door <\s> 
+turn right one hundred and eighty degrees [SEP] turn right 180 [SEP] turn right one hundred and eighty <\s> 
+robot continue <pause> moving forward to the right of the red bucket [SEP] move forward to space to the right of bucket [SEP] move forward to space to the right of bucket <\s> 
+<pause> move <pause> two feet from the wall ahead [SEP] move forward to 2 feet from wall ahead [SEP] move forward to two feet from wall ahead <\s> 
+go west ten feet [SEP] turn to face West; move forward 10 feet [SEP] turn to face west; move forward ten feet <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+face the end of the hallway [SEP] turn to face end of hallway [SEP] turn to face end of hallway <\s> 
+<pause> turn to the right fifteen degrees [SEP] turn right 15 degrees [SEP] turn right fifteen degrees <\s> 
+<pause> move forward one foot [SEP] none [SEP] move forward one foot <\s> 
+move to far right chair [SEP] none [SEP] move to far right chair  <\s> 
+robot face east [SEP] turn to face East [SEP] turn to face east <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+move to office   hall doorway [SEP] none [SEP] move to office   hall doorway  <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+<pause> take a picture [SEP] send image [SEP] send image <\s> 
+<pause> robot face west [SEP] turn to face West [SEP] turn to face west <\s> 
+move to foyer plant [SEP] none [SEP] move to foyer plant  <\s> 
+and send me a photo [SEP] send image [SEP] send image <\s> 
+turn a hundred and sixty degrees left [SEP] turn left 160 degrees [SEP] turn left one hundred and sixty degrees <\s> 
+back up five feet [SEP] move back 5ft [SEP] move back five feet <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and take photo [SEP] none [SEP] send image <\s> 
+can you turn at least maybe ten more degrees to your left [SEP] turn left 10 degrees [SEP] turn left ten degrees <\s> 
+go closer move north [SEP] How far north should I go? <beep> [SEP] how far north should i go? <\s> 
+okay can you detect any water sources near you [SEP] I think that you are better at recognizing water sources than I am. I can help you find water sources if you guide me. [SEP] i think that you are better at recognizing water sources than i am.  i can help you find water sources if you guide me. <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+move into tv hallway [SEP] none [SEP] move into tv hallway  <\s> 
+how did you get to this building from last time [SEP] I'm not sure. My history shows a starting point within the building. Would you like me to return to the start? <beep> [SEP] i'm not sure.  my history shows a starting point within the building.  would you like me to return to the start? <\s> 
+turn right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+go back three feet [SEP] move back 3 feet [SEP] move back three feet <\s> 
+stop [SEP] stop [SEP] stop <\s> 
+robot turn ninety degrees left [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+turn right [SEP] none [SEP] how far should i turn to the right?  <beep> <\s> 
+move forward five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and travel three feet [SEP] move forward 3 feet [SEP] move forward three feet <\s> 
+turn right <pause> like <pause> ten degrees [SEP] turn right 10 degrees [SEP] turn right ten degrees <\s> 
+<sigh; long pause> turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+rotate one hundred and eighty [SEP] turn 180 [SEP] rotate one hundred and eighty  <\s> 
+turn to face north [SEP] none [SEP] turn to face north  <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+move to room three box [SEP] none [SEP] move to room three box  <\s> 
+turn west [SEP] turn to face West [SEP] turn to face west <\s> 
+move forward <pause> ten feet [SEP] move forward 10ft [SEP] move forward ten feet <\s> 
+<pause> turn right eighty degrees [SEP] turn right 80 degrees [SEP] turn right eighty degrees <\s> 
+turn southwest [SEP] turn to face South West [SEP] turn to face southwest <\s> 
+and take a photo [SEP] send image [SEP] send image <\s> 
+robot take a photo [SEP] send image [SEP] send image <\s> 
+and take a picture of the object [SEP] send image [SEP] send image <\s> 
+take a photo of what's in front of you and send it to me [SEP] send image [SEP] send image <\s> 
+and then take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and take a photo [SEP] send image [SEP] send image <\s> 
+move to where you see the first cone <pause> move to the cone on the right a red cone on the right [SEP] move forward to cone on the right [SEP] move forward to cone on the right <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+go forward five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+<pause> robot move <pause> three feet past the doorway [SEP] move forward 3 feet [SEP] move forward three feet <\s> 
+move halfway down kitchen hallway [SEP] none [SEP] move halfway down kitchen hallway  <\s> 
+<pause> turn fifteen degrees to your left [SEP] turn left 15 degrees [SEP] turn left fifteen degrees <\s> 
+robot take a photo [SEP] send image [SEP] send image <\s> 
+robot move forward <pause> ten feet [SEP] move forward 10ft [SEP] move forward ten feet <\s> 
+turn twenty degrres left [SEP] turn left 20 degrees [SEP] turn left twenty degrees <\s> 
+<pause> can you turn <pause> left ten degrees again [SEP] turn left 10 degrees [SEP] turn left ten degrees <\s> 
+can you take a photo [SEP] send image [SEP] send image <\s> 
+turn right eighty degrees [SEP] turn right 80 degrees [SEP] turn right eighty degrees <\s> 
+move forward <pause> five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+turn right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees  <\s> 
+move forward at this time [SEP] How far should I move forward? You can tell me to move to an object that you see or a distance. I can send you a photo to start, ok? <beep> [SEP] how far should i move forward?  you can tell me to move to an object that you see or a distance.  i can send you a photo to start <\s> ok? <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+robot move forward two feet [SEP] move forward 2 feet [SEP] move forward two feet <\s> 
+pivot left one hundred er correction pivot right one hundred and eighty degrees taking a picture every forty [SEP] rotate 180 degrees right, image every 45 [SEP] do the following four times: turn right four5 degrees; send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+robot take a picture [SEP] send image [SEP] send image <\s> 
+move forward twenty feet [SEP] move forward 20 [SEP] move forward twenty feet  <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+move forward until parallel with cleaning room   office doorway [SEP] none [SEP] move forward until parallel with cleaning room   office doorway  <\s> 
+move to the end of the office hallway [SEP] none [SEP] move to the end of the office hallway  <\s> 
+rotate right ninety degrees [SEP] turn right 90 degrees [SEP] rotate right ninety degrees <\s> 
+turn left one hundred degrees [SEP] turn left 100 degrees [SEP] turn left one hundred degrees <\s> 
+move forward [SEP] none [SEP] you can tell me to move a certain distance or to move to an object.  <beep> <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move forward until parallel with shoe start   tv doorway [SEP] none [SEP] move forward until parallel with shoe start   tv doorway  <\s> 
+and turn left <pause> ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+move to easel with hardhats [SEP] move to easel with hardhats [SEP] move to easel with hardhats  <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn one hundred eighty degrees [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+<pause> turn <pause> turn eighty five degrees right [SEP] turn right 85 degrees [SEP] turn right eighty five degrees <\s> 
+can you turn ten degrees to your right [SEP] turn right 10 degrees [SEP] turn right ten degrees <\s> 
+okay turn to your right forty five degrees [SEP] turn right 45 degrees [SEP] turn right forty five degrees  <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+turn <pause> ninety degrees to the right [SEP] turn right 90 degrees [SEP] turn right ninety degrees <\s> 
+<pause> rotate right <small pause> twenty degrees [SEP] turn right 20 degrees [SEP] turn right twenty degrees <\s> 
+move north around this obstacle [SEP] move north around the obstacle [SEP] move north around the obstacle <\s> 
+turn to face alley door two [SEP] none [SEP] turn to face alley door two  <\s> 
+move to single shoe [SEP] move to shoe [SEP] move to single shoe  <\s> 
+turn left thirty degrees [SEP] turn left 30 degrees [SEP] turn left thirty degrees <\s> 
+turn left [SEP] none [SEP] how far should i turn left?  you can tell me to turn a certain number of degrees or to face an object. <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn right forty five degrees [SEP] turn right 45 degrees [SEP] turn right forty five degrees  <\s> 
+move forward three feet [SEP] move forward 3 feet [SEP] move forward three feet <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+can you take a photo [SEP] send image [SEP] send image <\s> 
+robot turn ninety degrees to the left [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+can you take a photo [SEP] send image [SEP] send image <\s> 
+go left two feet go left two feet i want you to move around yellow cone and go forward <pause> two feet yes do that move [SEP] none [SEP] move to yellow cone; turn right ninety degrees; move forward one foot; turn right ninety degrees; move forward two feet <\s> 
+robot move forward five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+move forward ten feet [SEP] move forward 10ft [SEP] move forward ten feet <\s> 
+send photo [SEP] send image [SEP] send image <\s> 
+can you turn at least <pause> thirty degrees <pause> to your right [SEP] turn right 30 degrees [SEP] turn right thirty degrees <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+turn fifteen degrees left [SEP] none [SEP] turn left fifteen degrees <\s> 
+move forward about a foot [SEP] move forward 1 foot [SEP] move forward one foot <\s> 
+turn thirty degrees to the left [SEP] turn left 30 degrees [SEP] turn left thirty degrees <\s> 
+rotate right forty five degrees [SEP] turn right 45 degrees [SEP] rotate right forty five degrees  <\s> 
+take a photo [SEP] send image [SEP] send image <\s> 
+robot turn left ninety degrees [SEP] none [SEP] turn right ninety degrees <\s> 
+turn to the right another thirty degrees [SEP] turn right 30 degrees [SEP] turn right thirty degrees <\s> 
+take another photo [SEP] send image [SEP] send image <\s> 
+turn right <pause> eighty degrees [SEP] none [SEP] turn right eighty degrees <\s> 
+can you move back two feet [SEP] none [SEP] move back two feet <\s> 
+turn right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees  <\s> 
+turn left [SEP] none [SEP] turn left ninety degrees <\s> 
+and take a photo in front and behind you [SEP] none [SEP] send image <\s> 
+and turn on video camera [SEP] Our connection is too slow for me to send video data. <beep> [SEP] would you like me to send a photo? <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+turn to your left and proceed back down the hallway [SEP] How far should I proceed down the hallway? <beep> [SEP] how far should i proceed down the hallway? <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+rotate right ten degrees [SEP] turn right 10 degrees [SEP] turn right ten degrees <\s> 
+and face north [SEP] turn to face North [SEP] turn to face north <\s> 
+turn forty five degrees right [SEP] none [SEP] turn right forty five degrees <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+can you move back at least two feet [SEP] none [SEP] move back two feet <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+a hundred and eighty degrees to the right [SEP] turn 180 [SEP] turn right one hundred and eighty <\s> 
+send photo [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+can you move two feet backwards [SEP] none [SEP] move back two feet <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+robot move back ff fifty feet not fifty feet hm robot move back <pause> two feet robot back up [SEP] none [SEP] move back two feet <\s> 
+face northeast [SEP] turn to face North East [SEP] turn to face northeast <\s> 
+can you take a photo [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+cleaning room [SEP] none [SEP] cleaning room  <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+the doorway to your right [SEP] move into room [SEP] move to the doorway to the right <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn left forty five degrees [SEP] turn left 45 degrees [SEP] turn left forty five degrees <\s> 
+rotate left forty degrees [SEP] turn left 40 degrees [SEP] turn left forty degrees <\s> 
+move back ten feet [SEP] move back 10 [SEP] move back ten feet <\s> 
+move halfway down stairwell hallway [SEP] none [SEP] move halfway down stairwell hallway  <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move closer to the newspaper [SEP] move to newspaper [SEP] move to newspaper <\s> 
+take photo [SEP] none [SEP] send image <\s> 
+send photo [SEP] send image [SEP] send image <\s> 
+t take a picture [SEP] send image [SEP] send image <\s> 
+<pause> could i get a picture [SEP] send image [SEP] send image <\s> 
+move north go to the next doorway [SEP] How far north should I go? <beep> [SEP] how far north should i go? <\s> 
+turn ninety [SEP] turn left 90 degrees [SEP] which way should i turn ninety degrees? <\s> 
+and move forward <pause> four feet [SEP] move forward 4 feet [SEP] move forward four feet <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+<pause> take a photo [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+rotate left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+go through doorway on left [SEP] move to doorway [SEP] move to doorway <\s> 
+turn left uhh thirty five degrees [SEP] turn right 35 degrees [SEP] turn left thirty five degrees <\s> 
+move forward <pause> three feet [SEP] move forward 3 feet [SEP] move forward three feet <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+send a picture [SEP] none [SEP] send image <\s> 
+end session [SEP] end task [SEP] end task <\s> 
+take a picuture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn to face stairwell   hall doorway [SEP] none [SEP] turn to face stairwell   hall doorway  <\s> 
+move forward three feet [SEP] move forward 3 feet [SEP] move forward three feet <\s> 
+face north [SEP] turn to face North [SEP] turn to face north <\s> 
+move closer to the door towards the fire extinguisher take a picture about three feet [SEP] move 3 feet towards fire extinguisher [SEP] move three feet towards fire extinguisher <\s> 
+move toward the red bucket [SEP] move to bucket with rope [SEP] move to bucket with rope <\s> 
+take another picture [SEP] send image [SEP] send image <\s> 
+turn ninety degrees <pause> left <pause> [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+<pause> turn right [SEP] none [SEP] how far should i turn to the right?  <beep> <\s> 
+can you take a photo [SEP] send image [SEP] send image <\s> 
+send photo [SEP] send image [SEP] send image <\s> 
+robot take a picture [SEP] send image [SEP] send image <\s> 
+robot take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move ahead [SEP] How far forward should I go? <beep> [SEP] how far forward should i go?  <beep> <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+stairwell hallway [SEP] none [SEP] stairwell hallway  <\s> 
+turn to face south [SEP] none [SEP] turn to face south  <\s> 
+send a picture [SEP] none [SEP] send image <\s> 
+please turn to your left [SEP] How far should I turn to the left? <beep> [SEP] how far should i turn to the left?  <beep> <\s> 
+<pause>rotate right <pause> ff thirty degrees [SEP] turn right 30 degrees [SEP] turn right thirty degrees <\s> 
+turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+end session [SEP] end task [SEP] end task <\s> 
+stop take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+<pause> turn <pause> eighty degrees right [SEP] turn right 80 degrees [SEP] turn right eighty degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+go into the room in front of you [SEP] move forward to room in front of you [SEP] move forward to room ahead <\s> 
+turn right forty five degrees [SEP] turn right 45 degrees [SEP] turn right forty five degrees <\s> 
+move to the first cone on your left [SEP] I'm not sure which object you are referring to. Can you describe it in another way, using color or its location? <beep> [SEP] move to first cone on left <\s> 
+turn left eighty degrees [SEP] turn left 80 degrees [SEP] turn left eighty degrees <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+turn to the cone on your right [SEP] turn to face cone on right [SEP] turn to face cone on right <\s> 
+<pause> turn to your left forty five degrees [SEP] turn left 45 degrees [SEP] turn left forty five degrees <\s> 
+turn to your right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees  <\s> 
+move to the end of the tv hallway [SEP] none [SEP] move to the end of the tv hallway  <\s> 
+turn right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees <\s> 
+turn left forty five degrees [SEP] turn left 45 degrees [SEP] turn left forty five degrees <\s> 
+turn to your right forty five degrees [SEP] turn right 45 degrees [SEP] turn right forty five degrees  <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+turn right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees <\s> 
+move to the end of the hallway [SEP] move to the end of the hallway [SEP] move to end of the hallway <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+take a pic <cut off picture> [SEP] send image [SEP] send image <\s> 
+rotate three hundred and sixty degrees taking a picture every fourty [SEP] rotate 360 degrees right, image every 30 [SEP] do the following eight times: turn left forty five degrees; send image <\s> 
+<pause> take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+turn left sixty degrees [SEP] turn left 60 degrees [SEP] turn left sixty degrees <\s> 
+move forward until parallel with shovel start door [SEP] none [SEP] move forward until parallel with shovel start door  <\s> 
+move forward until parallel with alley door two [SEP] none [SEP] move forward until parallel with alley door two  <\s> 
+is there anything that indicates that the environment has been recently occupied [SEP] none [SEP] hmm <\s> 
+move to the end of the stairwell hallway [SEP] none [SEP] move to the end of the stairwell hallway  <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+back up two feet [SEP] move back 2 feet [SEP] move back two feet <\s> 
+move back fifteen feet [SEP] move back 15 feet [SEP] move back fifteen feet <\s> 
+turn southeast [SEP] turn to face South East [SEP] turn to face southeast <\s> 
+<pause> turn to your left one hundred and twenty degrees [SEP] turn left 120 degrees [SEP] turn left one hundred and twenty degrees <\s> 
+fido take a photo every thirty degrees [SEP] I'm not sure what you mean by a photo every 30 degrees. Should I turn around here 360 degrees? <beep> [SEP] i'm not sure what you mean by a photo every thirty degrees.  should i turn around here three hundred and sixty degrees? <\s> 
+go to the farthest orange object [SEP] move to farthest cone [SEP] move to farthest cone <\s> 
+take another picture [SEP] send image [SEP] send image <\s> 
+send pic [SEP] send image [SEP] send image <\s> 
+to the left [SEP] none [SEP] how far should i pivot left? you can tell me to pivot to face something that you see or a number of degrees. <\s> 
+move backwards <pause> five feet [SEP] move back 5ft [SEP] move back five feet <\s> 
+pivot right forty five degrees and go through the doorway on your right [SEP] move forward to doorway on the right [SEP] move forward to doorway on the right <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn ninety degrees to your right [SEP] none [SEP] turn right ninety degrees <\s> 
+turn to face shoe start external door [SEP] none [SEP] turn to face shoe start external door  <\s> 
+move back three feet [SEP] move back 3 feet [SEP] move back three feet <\s> 
+robot do you read arabic [SEP] No. Do you? [SEP] no.  do you? <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+rotate three hundred and sixty degrees to your right taking a picture every forty five degrees [SEP] rotate 360 degrees right, image every 45 [SEP] do the following eight times: turn right forty five degrees; send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+<deep breath> turn right fifty degrees [SEP] turn right 50 degrees [SEP] turn right fifty degrees <\s> 
+rotate left ninety degrees [SEP] turn left 90 degrees [SEP] rotate left ninety degrees <\s> 
+<pause> <whisper: let's see> turn right and take a picture <pause> ninety degrees [SEP] turn right 90 degrees, send image [SEP] turn right ninety degrees <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+is that a map in front of you [SEP] I'm not sure. Would you like me to get closer and send another photo? <beep> [SEP] i'm not sure.  would you like me to get closer and send another photo? <\s> 
+can you take a picture uh three hundred and sixty degrees except for the wall that's behind you er in front of you i mean [SEP] Would you like photos every 30 degrees? <beep> [SEP] would you like photos every thirty degrees? <\s> 
+turn left [SEP] none [SEP] turn left ninety degrees <\s> 
+construction room [SEP] none [SEP] construction room  <\s> 
+foyer [SEP] none [SEP] foyer  <\s> 
+can you move forward <pause> to take a picture to take a picture of the object [SEP] I'm not sure which object you are referring to. <beep> [SEP] i'm not sure which object you are referring to. <beep> <\s> 
+send image [SEP] send image [SEP] send image  <\s> 
+move to green arrow [SEP] move to green arrow [SEP] move to green arrow  <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+robot take a picture [SEP] send image [SEP] send image <\s> 
+find next doorway on your left [SEP] move to next doorway on left [SEP] move to next doorway on left <\s> 
+<pause> turn ninety degrees right [SEP] turn right 90 degrees [SEP] turn right ninety degrees <\s> 
+back up five feet [SEP] move back 5ft [SEP] move back five feet <\s> 
+robot take a picture [SEP] send image [SEP] send image <\s> 
+<pause> turn forty five degrees right [SEP] none [SEP] turn right forty five degrees <\s> 
+ninety degrees to the left [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+robot turn right <pause> thirteen degrees [SEP] turn right 13 degrees [SEP] turn right thirteen degrees <\s> 
+robot turn to the left [SEP] none [SEP] i'm unsure where or when i should stop turning.  <beep> <\s> 
+go through the doorway on your left [SEP] move forward to doorway on left [SEP] turn to face doorway on left <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn to face foyer   kitchen doorway [SEP] none [SEP] turn to face foyer   kitchen doorway  <\s> 
+go forward two feet [SEP] move forward 2 feet [SEP] move forward two feet <\s> 
+send me a picture of what you see [SEP] send image [SEP] send image <\s> 
+can you a take a picture [SEP] none [SEP] send image <\s> 
+turn right forty five degrees [SEP] turn right 45 degrees [SEP] turn right forty five degrees  <\s> 
+do a three hundred and sixty degree turn [SEP] turn right 360 degrees [SEP] turn right three hundred and sixty degrees <\s> 
+can you take a photo [SEP] send image [SEP] send image <\s> 
+<pause> robot turn around [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+face west [SEP] turn to face West [SEP] turn to face west <\s> 
+can you take a photo [SEP] send image [SEP] send image <\s> 
+and take a photo [SEP] send image [SEP] send image <\s> 
+<pause> turn right by ten degrees [SEP] turn right 10 degrees [SEP] turn right ten degrees <\s> 
+and send me a photo [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+turn twenty degrees to the right [SEP] turn right 20 degrees [SEP] turn right twenty degrees <\s> 
+turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+robot turn ninety degrees to the left [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+yes can you take a picture can you move forward to take a picture and then take a picture [SEP] How far forward should I go? <beep> [SEP] how far forward should i go?  <beep> <\s> 
+move through the doorway directly in front of you [SEP] move forward to doorway in front of you [SEP] move forward to doorway in front of you <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move forward five feet [SEP] move forward 5 feet [SEP] move forward five feet  <\s> 
+can you take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+hm move forward ten feet [SEP] move forward 10ft [SEP] move forward ten feet <\s> 
+and continue to the farther wall [SEP] I'm not sure what you mean by the farther wall. Where should I continue to? <beep> [SEP] i'm not sure what you mean by the farther wall.  where should i continue to? <\s> 
+move to shoe start external door [SEP] none [SEP] move to shoe start external door  <\s> 
+and then take a picture [SEP] send image [SEP] send image <\s> 
+<pause> turn forty five degrees to the right [SEP] turn right 45 degrees [SEP] turn right forty five degrees <\s> 
+face west [SEP] turn to face West [SEP] turn to face west <\s> 
+take a photo [SEP] send image [SEP] send image <\s> 
+turn ninety degrees to the left [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+turn right a hundred and thirty degrees [SEP] turn right 130 degrees [SEP] turn right one hundred and thirty degrees <\s> 
+can you take a photo [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+robot take a picture [SEP] send image [SEP] send image <\s> 
+go forward two feet [SEP] move forward 2 feet [SEP] move forward two feet <\s> 
+turn around and take another photo a closer look at those dvds or those boxes on top of the wood [SEP] move to objects; send image [SEP] move to objects; send image <\s> 
+turn to face alley door one [SEP] none [SEP] turn to face alley door one  <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+go through the hallway in front of you [SEP] move forward to hallway in front of you [SEP] move forward to hallway in front of you <\s> 
+okay move back uhh maybe five feet [SEP] move back 5ft [SEP] move back five feet <\s> 
+travel down the hallway <pause> six feet [SEP] move forward 6 [SEP] move forward six feet <\s> 
+<pause> turn twenty degrees to your right [SEP] turn right 20 degrees [SEP] turn right twenty degrees <\s> 
+turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+send a picture [SEP] none [SEP] send image <\s> 
+move to where you see the first cone [SEP] I'm not sure which object you are referring to. Can you describe it in another way, using color or its location? <beep> [SEP] i'm not sure which object you are referring to.  can you describe it in another way <\s> using color or its location? <\s> 
+back up two p back up two feet [SEP] none [SEP] move back two feet <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn around one hundred and eighty degrees [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+rotate right <long pause> sixty degrees [SEP] turn right 60 degrees [SEP] turn right sixty degrees <\s> 
+turn left <pause> ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+robot send a picture [SEP] send image [SEP] send image <\s> 
+move to newspaper [SEP] move to newspaper [SEP] move to newspaper  <\s> 
+move to the hallway in the doorway in front of you [SEP] move forward to hallway through the doorway in front of you [SEP] move forward to hallway through the doorway in front of you <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+<pause> proceed into the door to your right [SEP] move forward to door on your right [SEP] move forward to door on your right <\s> 
+stop there [SEP] stop [SEP] stop <\s> 
+take another photo [SEP] send image [SEP] send image <\s> 
+take picture [SEP] none [SEP] send image <\s> 
+turn left ten degrees [SEP] turn left 10 degrees [SEP] turn left ten degrees <\s> 
+and take another photo [SEP] send image [SEP] send image <\s> 
+move forward three feet [SEP] move forward 3 feet [SEP] move forward three feet <\s> 
+go back into the room [SEP] move into room [SEP] move back to room <\s> 
+turn to your right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+robot turn right one hundred and eighty degrees [SEP] none [SEP] turn right one hundred and eighty <\s> 
+and take a photo [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+and move <pause> four feet forward [SEP] none [SEP] move forward four feet <\s> 
+turn left [SEP] none [SEP] how far should i turn left in the other room? <\s> 
+and proceed forward <pause> ten feet [SEP] move forward 10ft [SEP] move forward ten feet <\s> 
+move forward until parallel with foyer   hall doorway [SEP] none [SEP] move forward until parallel with foyer   hall doorway  <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn to the right twenty five degrees [SEP] turn right 25 degrees [SEP] turn right twenty five degrees <\s> 
+move to cleaning room   office doorway [SEP] none [SEP] move to cleaning room   office doorway  <\s> 
+move closer to the table [SEP] How much closer should I get? <beep> [SEP] about how much closer to the table should i move? <\s> 
+back up two feet [SEP] move back 2 feet [SEP] move back two feet <\s> 
+rotate right one hundred and eighty [SEP] turn right 180 [SEP] rotate right one hundred and eighty  <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move to nearest hallway [SEP] move to nearest hallway [SEP] move to nearest hallway <\s> 
+rotate right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees <\s> 
+robot take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+can you another five degree turn to the right [SEP] turn right 5 degrees [SEP] turn right five degrees <\s> 
+pivot left fourty [SEP] turn left 45 degrees [SEP] turn left forty five degrees <\s> 
+take a photo [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees  <\s> 
+and send a picture [SEP] send image [SEP] send image <\s> 
+move to open office luggage [SEP] none [SEP] move to open office luggage  <\s> 
+turn fifteen degrees right [SEP] none [SEP] turn right fifteen degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+<pause> face east [SEP] turn to face East [SEP] turn to face east <\s> 
+turn to your left [SEP] none [SEP] turn left ninety degrees <\s> 
+back up one foot [SEP] move back 1 foot [SEP] move back one foot <\s> 
+yes can you please send me a picture [SEP] send image [SEP] send image <\s> 
+can you move <pause> two feet towards the white door [SEP] move forward 2 feet [SEP] move forward two feet <\s> 
+can you take a photo [SEP] send image [SEP] send image <\s> 
+send a pic picture [SEP] send image [SEP] send image <\s> 
+proceed to yellow cone <inhale> and stop [SEP] move to cone [SEP] move forward until parallel with yellow cone <\s> 
+can you take a picture in a thirty degree angle [SEP] Which direction should I turn? <beep> [SEP] which direction should i turn?  <beep> <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+can you take a photo [SEP] send image [SEP] send image <\s> 
+take a picture of the red sign [SEP] none [SEP] send image <\s> 
+robot send a photo [SEP] send image [SEP] send image <\s> 
+back up two feet [SEP] move back 2 feet [SEP] move back two feet <\s> 
+move to bamboo [SEP] move to bamboo [SEP] move to bamboo  <\s> 
+can you move <pause> back one feet [SEP] move back 1 foot [SEP] move back one foot <\s> 
+robot turn a hundred and eighty degrees [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+<pause> back up five feet [SEP] move back 5ft [SEP] move back five feet <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move to alley door one [SEP] none [SEP] move to alley door one  <\s> 
+turn thirty degrees [SEP] turn right 30 degrees [SEP] which direction should i turn?  <beep> <\s> 
+go forward ten feet [SEP] move forward 10ft [SEP] move forward ten feet <\s> 
+turn to your right <pause> and take a picture <pause> one hundred and eighty degrees [SEP] turn 180; send image [SEP] turn right one hundred and eighty <\s> 
+conference room [SEP] none [SEP] conference room  <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+rotate one hundred and eighty degrees left, image every thirty [SEP] rotate 180 degrees left, image every 30 [SEP] rotate one hundred and eighty degrees left <\s> image every thirty <\s> 
+can you do a thirty degree angle to your left [SEP] turn left 30 degrees [SEP] turn left thirty degrees <\s> 
+move to metal crates [SEP] move to crates [SEP] move to metal crates  <\s> 
+turn to the right and take a picture ninety degrees to the right [SEP] turn right 90 degrees, send image [SEP] turn right ninety degrees <\s> 
+robot take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+and move three feet forward [SEP] move forward 3 feet [SEP] move forward three feet <\s> 
+robot move past the door past the cone <pause> yellow cone on your right [SEP] move forward past yellow cone [SEP] move forward past yellow cone <\s> 
+can you take a photo [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move forward eh five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+<pause> leave the room and go left [SEP] How far left should I go? <beep> [SEP] how far left should i go? <\s> 
+turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+proceed to the end [SEP] I'm not sure what you mean by proceed to the end. How far should I move? <beep> [SEP] i'm not sure what you mean by proceed to the end.  how far should i move? <\s> 
+send a picture [SEP] none [SEP] send image <\s> 
+robot move forward one feet [SEP] none [SEP] move forward one foot <\s> 
+and take a photo of the item on the right on the wall [SEP] none [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move back out of the doorway [SEP] move back to doorway [SEP] move back to doorway <\s> 
+kitchen [SEP] none [SEP] kitchen  <\s> 
+and take a photo [SEP] send image [SEP] send image <\s> 
+shoe start room [SEP] none [SEP] shoe start room  <\s> 
+turn <pause> robot turn to the <pause> left forty five degrees [SEP] turn left 45 degrees [SEP] turn left forty five degrees <\s> 
+move forward three feet [SEP] move forward 3 feet [SEP] move forward three feet <\s> 
+move to sleeping bag [SEP] move to sleeping bag [SEP] move to sleeping bag  <\s> 
+face the door on your right [SEP] face door on right [SEP] move forward to doorway on the right <\s> 
+turn forty five degrees left [SEP] none [SEP] turn left forty five degrees <\s> 
+turn to the right [SEP] none [SEP] how far should i turn to the right? <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+rotate right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees  <\s> 
+turn around and go back the opposite direction [SEP] turn 180 degrees [SEP] i can turn around and then how far should i go back the opposite direction?  you can tell me to move to any object or part of the building you can see <\s> or a distance to move. <\s> 
+move forward one foot [SEP] move forward 1 foot [SEP] move forward one foot <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+<pause> <sigh> turn to the left uh fifteen degrees [SEP] turn left 15 degrees [SEP] turn left fifteen degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+<pause> robot turn right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees <\s> 
+turn to face cleaning room   office doorway [SEP] none [SEP] turn to face cleaning room   office doorway  <\s> 
+uh move um five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+rotate one hundred eighty degrees [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a pict <picture> [SEP] send image [SEP] send image <\s> 
+turn left forty five degrees [SEP] turn left 45 degrees [SEP] turn left forty five degrees <\s> 
+move back two feet [SEP] none [SEP] move back two feet <\s> 
+turn to your right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees  <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take another picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+<pause> take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move to room sign for tv room [SEP] none [SEP] move to room sign for tv room  <\s> 
+go forward four feet [SEP] move forward 4 feet [SEP] move forward four feet <\s> 
+send photo [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+move <pause> forward <pause> three feet [SEP] move forward 3 feet [SEP] move forward three feet <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+<pause> turn ten degrees to your left [SEP] turn left 10 degrees [SEP] turn left ten degrees <\s> 
+turn around [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+i'm ready [SEP] none [SEP]  would you like me to send a picture so you can see the room? <\s> 
+can you take a photo [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+robot turn ninety degrees to the left [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+turn left thirty degrees [SEP] turn left 30 degrees [SEP] turn left thirty degrees <\s> 
+robot <pause> turn right <pause> twenty degrees [SEP] turn right 20 degrees [SEP] turn right twenty degrees <\s> 
+and send me a picture [SEP] send image [SEP] send image <\s> 
+yes [SEP] send image [SEP] yes  <\s> 
+robot turn around [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+can you take a photo [SEP] send image [SEP] send image <\s> 
+and move three feet forward [SEP] move forward 3 feet [SEP] move forward three feet <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+<pause> and move forward five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+rotate three hundred and sixty degrees to your left taking a picture every forty [SEP] rotate 360 degrees right, image every 30 [SEP] do the following eight times: turn left forty five degrees; send image <\s> 
+turn right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees  <\s> 
+can you turn twenty degrees <pause> to your left [SEP] turn left 20 degrees [SEP] turn left twenty degrees <\s> 
+can you step back two feet [SEP] none [SEP] move back two feet <\s> 
+proceed forward to orange cone [SEP] move forward to orange cone ahead [SEP] move forward to orange cone ahead <\s> 
+go through doorway [SEP] move into room [SEP] move forward to doorway ahead of you <\s> 
+move to conference table [SEP] none [SEP] move to conference table  <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn forty five degrees to the right [SEP] turn right 45 degrees [SEP] turn right forty five degrees  <\s> 
+rotate right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees  <\s> 
+move to alley plant [SEP] none [SEP] move to alley plant  <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take photo [SEP] none [SEP] send image <\s> 
+and go to your left [SEP] How far left should I go? <beep> [SEP] how far left should i go? <\s> 
+and take a photo [SEP] send image [SEP] send image <\s> 
+turn right fifteen degrees [SEP] turn right 15 degrees [SEP] turn right fifteen degrees <\s> 
+move <pause> one foot forward [SEP] move forward 1 foot [SEP] move forward one foot <\s> 
+face the left side of the orange cone [SEP] move to the left side of the orange cone [SEP] move to the left side of the orange cone <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move to room sign for kitchen [SEP] none [SEP] move to room sign for kitchen  <\s> 
+face the doorway in front of you and to your right [SEP] move forward to doorway in front of you and to the right [SEP] move forward to doorway in front of you and to the right <\s> 
+<sigh> travel one foot <pause> [SEP] move forward 1 foot [SEP] move forward one foot <\s> 
+robot take a picture [SEP] send image [SEP] send image <\s> 
+back up five feet [SEP] move back 5ft [SEP] move back five feet <\s> 
+<pause> rotate right [SEP] How far should I rotate right? <beep> [SEP] how far should i rotate right? <beep> <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+go backwards <pause> two feet [SEP] move back 2 feet [SEP] move back two feet <\s> 
+send me a photo [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and send me a photo [SEP] send image [SEP] send image <\s> 
+turn around [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+can you take a photo [SEP] send image [SEP] send image <\s> 
+robot move forward uh five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+turn right one hundred and eighty [SEP] turn right 180 [SEP] turn right one hundred and eighty  <\s> 
+<pause> turn right [SEP] none [SEP] how far should i turn to the right?  <beep> <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move to room sign for dark room [SEP] none [SEP] move to room sign for dark room  <\s> 
+move forward ten feet [SEP] move forward 10ft [SEP] move forward ten feet <\s> 
+turn right twenty degrees [SEP] turn right 20 degrees [SEP] turn right twenty degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move to crocs [SEP] move to crocs [SEP] move to crocs  <\s> 
+turn ninety degrees to your left [SEP] none [SEP] turn left ninety degrees <\s> 
+move three feet [SEP] move forward 3 feet [SEP] move forward three feet <\s> 
+to the right twenty degrees [SEP] turn right 20 degrees [SEP] turn right twenty degrees <\s> 
+can you take a photo [SEP] send image [SEP] send image <\s> 
+move to the doorway like opening [SEP] move to doorway [SEP] move to doorway <\s> 
+to the right fourty [SEP] turn right 40 degrees [SEP] turn right forty five degrees  <\s> 
+take photo [SEP] none [SEP] send image <\s> 
+go forward five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+turn to your right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees  <\s> 
+turn left twenty degrees [SEP] turn left 20 degrees [SEP] turn left twenty degrees <\s> 
+move forward until parallel with shoe start   hall doorway [SEP] none [SEP] move forward until parallel with shoe start   hall doorway  <\s> 
+turn left forty five <four uh five> degrees [SEP] turn left 45 degrees [SEP] turn left forty five degrees <\s> 
+and then take a picture [SEP] send image [SEP] send image <\s> 
+<pause> face <pause> east [SEP] turn to face East [SEP] turn to face east <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+can you zoom in into that picture slash blue thing [SEP] I can't zoom in, but I can move closer, ok? <beep> [SEP] i can't zoom in <\s> but i can move closer <\s> ok? <\s> 
+turn forty five degrees left [SEP] none [SEP] turn left forty five degrees <\s> 
+send phot [SEP] send image [SEP] send image <\s> 
+go into the room in front of you [SEP] move forward to room in front of you [SEP] move forward to room in front of you <\s> 
+go to the nearest orange object [SEP] move to nearest cone [SEP] move to nearest cone <\s> 
+move forward five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+<pause> turn right <pause> by thirty degrees [SEP] turn right 30 degrees [SEP] turn right thirty degrees <\s> 
+go through the door on your right [SEP] move forward to doorway on right [SEP] move forward to doorway on right <\s> 
+send photo [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+move forward ten feet [SEP] move forward 10ft [SEP] move forward ten feet <\s> 
+move into the center of the current room [SEP] move into the center of the current room [SEP] move into the center of the current room  <\s> 
+return to your starting position [SEP] return to starting point [SEP] return to starting point <\s> 
+move to alley start position [SEP] none [SEP] move to alley start position  <\s> 
+turn to your right [SEP] none [SEP] how far should i turn to the right?  <beep> <\s> 
+and turn to the right forty five degrees [SEP] turn right 45 degrees [SEP] turn right forty five degrees  <\s> 
+robot turn ninety degrees to the left [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+<pause> turn left ninety degrees [SEP] none [SEP] turn left ninety degrees <\s> 
+move to the right side of the orange cone [SEP] move to the right side of the orange cone [SEP] move to the right side of the orange cone <\s> 
+robot take a photo [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+no can you turn ten degrees to your right [SEP] turn right 10 degrees [SEP] turn right ten degrees <\s> 
+can you take a photo [SEP] send image [SEP] send image <\s> 
+turn northeast and take a picture turn east and take a picture [SEP] turn to face North; turn right 45 degrees; send image [SEP] turn to face north; turn right forty five degrees; send image <\s> 
+can you take a photo [SEP] send image [SEP] send image <\s> 
+tv hallway [SEP] none [SEP] tv hallway  <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+send photo [SEP] send image [SEP] send image <\s> 
+and proceed forward <pause> three feet [SEP] move forward 3 feet [SEP] move forward three feet <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+move forward three feet [SEP] move forward 3 feet [SEP] move forward three feet <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move forward to the cone [SEP] move forward to cone [SEP] move forward to cone <\s> 
+rotate ninety degrees left [SEP] none [SEP] turn left ninety degrees <\s> 
+robot explore the area [SEP] I'm not sure where you want me to go. <beep> [SEP] i'm not sure where you want me to go.  <beep> <\s> 
+robot turn left [SEP] How far should I turn to the left? <beep> [SEP] how far should i turn to the left?  <beep> <\s> 
+turn right twenty degrees [SEP] turn right 20 degrees [SEP] turn right twenty degrees <\s> 
+move forward until parallel with alley door one [SEP] none [SEP] move forward until parallel with alley door one  <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+thirty degrees right [SEP] none [SEP] i couldn't hear all of that.  should i turn thirty degrees right? <\s> 
+and take a photo [SEP] send image [SEP] send image <\s> 
+take another picture [SEP] send image [SEP] send image <\s> 
+can you turn at least ten degrees to your right [SEP] turn right 10 degrees [SEP] turn right ten degrees <\s> 
+turn ninety degrees to the right [SEP] turn right 90 degrees [SEP] turn right ninety degrees  <\s> 
+go forward five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+move to shopping bag [SEP] move to shopping bag [SEP] move to shopping bag  <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn to your right about ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees  <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move seven feet forward [SEP] none [SEP] move forward seven feet <\s> 
+move to office chair [SEP] none [SEP] move to office chair  <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+<pause> take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+towards. . . [SEP] none [SEP] towards  <\s> 
+okay can you move back at least uh fff fifty yards [SEP] I'm not sure if I can move that far back. <beep> [SEP] i'm not sure if i can move that far back. <beep> <\s> 
+move to shoe start room shovel [SEP] none [SEP] move to shoe start room shovel  <\s> 
+robot turn right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees <\s> 
+move to dark room   conference room doorway [SEP] none [SEP] move to dark room   conference room doorway  <\s> 
+robot take a picture [SEP] send image [SEP] send image <\s> 
+is there any humans in the building with you [SEP] I'm not sure. I haven't detected any people but we haven't fully explored the space. [SEP] i'm not sure.  i haven't detected any people but we haven't fully explored the space. <\s> 
+no [SEP] no [SEP] no  <\s> 
+pivot left one hundred and eighty degrees taking a picture every fourty [SEP] rotate 180 degrees left, image every 45 [SEP] do the following four times: turn left four5 degrees; send image <\s> 
+turn left uh ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+move forward three feet [SEP] move forward 3 feet [SEP] move forward three feet <\s> 
+turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+move forward until parallel with kitchen   hall doorway [SEP] none [SEP] move forward until parallel with kitchen   hall doorway  <\s> 
+move forward [SEP] none [SEP] how far should i move forward? <\s> 
+travel two feet [SEP] move forward 2 feet [SEP] move forward two feet <\s> 
+robot face <pause> west [SEP] none [SEP] turn to face west <\s> 
+robot take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+robot take a picture [SEP] send image [SEP] send image <\s> 
+move to wall clock [SEP] move to wall clock [SEP] move to wall clock  <\s> 
+<pause> can you <small pause> go through <small pause> that opening [SEP] There's an obstruction preventing me from doing that. <beep> [SEP] there's an obstruction preventing me from doing that.  <beep> <\s> 
+now move to the second orange cone at the end of the hallway [SEP] move to cone [SEP] move to other object at the end of the hallway <\s> 
+send photo [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+did you pass any cones [SEP] If you describe an object, you can help me to learn what it is. <beep> [SEP] if you describe an object <\s> you can help me to learn what it is.  <beep> <\s> 
+robot continue to the first doorway [SEP] move to first doorway [SEP] move to first doorway <\s> 
+turn right fifteen degrees [SEP] turn right 15 degrees [SEP] turn right fifteen degrees <\s> 
+turn right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees  <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+take another picture [SEP] send image [SEP] send image <\s> 
+go to the center of the room [SEP] move into the center of the current room [SEP] move into the center of the current room <\s> 
+move to office side crate [SEP] none [SEP] move to office side crate  <\s> 
+<pause>move forward six feet [SEP] move forward 6 [SEP] move forward  six feet <\s> 
+turn to face dark room   hall doorway [SEP] none [SEP] turn to face dark room   hall doorway  <\s> 
+send photo [SEP] send image [SEP] send image <\s> 
+move forward two feet [SEP] move forward 2 feet [SEP] move forward two feet <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+robot proceed two meters [SEP] move forward 2 meters [SEP] move forward two meters <\s> 
+ok [SEP] ok [SEP] ok  <\s> 
+okay can you turn um ninety degrees to your left [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+turn north [SEP] turn to face North [SEP] turn to face north <\s> 
+move into cleaning room [SEP] none [SEP] move into cleaning room  <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+go forward five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+move three feet forward [SEP] none [SEP] move forward three feet <\s> 
+participant is ready [SEP] participant is ready [SEP] participant is ready  <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move into tv room [SEP] none [SEP] move into tv room  <\s> 
+stop [SEP] stop [SEP] stop  <\s> 
+are you a male or a female [SEP] I do not have a gender. [SEP] i do not have a gender. <\s> 
+robot turn around [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+go to the room that's on your right uh there is a white door and a red sign [SEP] move forward to red sign on the white door on your right [SEP] move forward to red sign on the white door on your right <\s> 
+turn right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees  <\s> 
+<pause> can you take a photo [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+<pause> can you move forward towards the orange object just maybe five feet [SEP] move 5 feet towards cone [SEP] move five feet towards room one cone <\s> 
+rotate left forty five degrees [SEP] turn left 45 degrees [SEP] rotate left forty five degrees  <\s> 
+turn right twenty degrees [SEP] turn right 20 degrees [SEP] turn right twenty degrees <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+and take a photo [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+<pause> turn south [SEP] turn to face South [SEP] turn to face south <\s> 
+<pause, inhale> go one hundred eighty degrees [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+first doorway on left [SEP] move forward to first doorway on the left [SEP] move forward to first doorway on the left <\s> 
+robot face west <pause> [SEP] none [SEP] turn to face west <\s> 
+then. . . [SEP] none [SEP] then  <\s> 
+<pause> take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+move forward <pause> ten feet [SEP] move forward 10ft [SEP] move forward ten feet <\s> 
+take another picture [SEP] send image [SEP] send image <\s> 
+robot go to that white sign that's in the picture and take a picture of it also do you speak any other languages go to the end of the hallway that is to your right and take a picture of the white sign that's on the doorway or on the uh wall [SEP] none [SEP] move forward to white sign at the end of the hallway to your right; send image <\s> 
+move forward five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+robot move forward <pause> five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+move twenty feet down the hallway [SEP] move forward 20 [SEP] move forward twenty feet <\s> 
+move forward <pause> about ten feet [SEP] move forward 10ft [SEP] move forward ten feet <\s> 
+<pause> turn left and take a picture fifteen degrees [SEP] turn left 15 degrees [SEP] turn left fifteen degrees <\s> 
+robot take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+what's that white sign in the room on your left [SEP] I'm not sure what you are referring to. Can you describe it another way, using proximity to me or another object? <beep> [SEP] i'm not sure what you are referring to.  can you describe it another way <\s> using proximity to me or another object? <\s> 
+turn right [SEP] none [SEP] how far should i turn right? <\s> 
+can you take a photo [SEP] send image [SEP] send image <\s> 
+turn thirty degrees right [SEP] none [SEP] turn right thirty degrees <\s> 
+to the end of the hallway and make a right [SEP] How far should I turn right once I get to the end of the hallway? <beep> [SEP] how far should i turn right once i get to the end of the hallway? <\s> 
+can you move back a half a foot [SEP] move back .5 foot [SEP] move back .five foot <\s> 
+robot <pause> turn <long pause> l left forty five degrees [SEP] turn left 45 degrees [SEP] turn left forty five degrees <\s> 
+robot face north [SEP] turn to face North [SEP] turn to face north <\s> 
+move to map [SEP] move to map [SEP] move to map  <\s> 
+move forward two feet [SEP] move forward 2 feet [SEP] move forward two feet <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and take a photo [SEP] send image [SEP] send image <\s> 
+move forward five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+turn to the right thirty degrees [SEP] turn right 30 degrees [SEP] turn right thirty degrees <\s> 
+calibrate [SEP] calibrate [SEP] calibrate  <\s> 
+and take picture [SEP] none [SEP] send image <\s> 
+turn right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees <\s> 
+robot turn left <pause> ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+rotate left one hundred and eighty degrees taking a picture every forty [SEP] rotate 180 degrees left, image every 45 [SEP] do the following four times: turn left four5 degrees; send image <\s> 
+can you take a photo [SEP] send image [SEP] send image <\s> 
+go left two feet [SEP] I'm not sure what you mean by go left two feet. Do you want me to turn to the left 90 degrees and then proceed forward two feet? <beep> [SEP] i'm not sure what you mean by go left two feet.  do you want me to turn to the left ninety degrees and then proceed forward two feet? <\s> 
+rotate ninety degrees right, image every thirty [SEP] rotate 90 degrees right, image every 30 [SEP] rotate ninety degrees right <\s> image every thirty <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move forward about <pause> eight feet [SEP] move forward 8ft [SEP] move forward eight feet <\s> 
+robot move forward <pause> two feet [SEP] move forward 2 feet [SEP] move forward two feet <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn to face shovel start door [SEP] none [SEP] turn to face shovel start door  <\s> 
+move to hallway on left [SEP] move to hallway on left [SEP] move to hallway on left <\s> 
+send photo [SEP] send image [SEP] send image <\s> 
+go forward four feet [SEP] move forward 4 feet [SEP] move forward four feet <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+robot confirm that the object in front of you is a ladder [SEP] I think that you are more familiar with ladders than I am. Would you like me to move back from this object to get another photo? <beep> [SEP] i think that you are more familiar with ladders than i am.  would you like me to move back from this object to get another photo? <\s> 
+stop [SEP] stop [SEP] stop <\s> 
+turn ninety degrees left [SEP] none [SEP] turn left ninety degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn one hundred and eighty degrees [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+can you take a photo [SEP] send image [SEP] send image <\s> 
+robot move forward ten feet and take a picture every five seconds over [SEP] Can you repeat that? <beep> [SEP] can you rephrase that?  <beep> <\s> 
+go forward about three feet [SEP] move forward 3 feet [SEP] move forward three feet <\s> 
+turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+rotate three hundred and sixty degrees left, image every forty five [SEP] rotate 360 degrees right, image every 30 [SEP] rotate three hundred and sixty degrees left <\s> image every forty five <\s> 
+go to the walla [SEP] The one directly ahead of me? <beep> [SEP] do you mean the wall facing me? <\s> 
+office hallway [SEP] none [SEP] office hallway  <\s> 
+go through the doorway on your left [SEP] move forward to doorway on left [SEP] move forward to doorway on left <\s> 
+take a photo [SEP] send image [SEP] send image <\s> 
+take another picture [SEP] send image [SEP] send image <\s> 
+move forward uh five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move forward two feet [SEP] move forward 2 feet [SEP] move forward two feet  <\s> 
+move into construction room [SEP] none [SEP] move into construction room  <\s> 
+and take a photo [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+send photo [SEP] send image [SEP] send image <\s> 
+move to dark room   hall doorway [SEP] none [SEP] move to dark room   hall doorway  <\s> 
+rotate three hundred and sixty degrees to your left taking a picture every forty [SEP] rotate 360 degrees right, image every 30 [SEP] do the following eight times: turn left forty five degrees; send image <\s> 
+go in to the door on your left [SEP] move to doorway on the left [SEP] move to doorway on the left <\s> 
+move to foyer   hall doorway [SEP] none [SEP] move to foyer   hall doorway  <\s> 
+via. . . [SEP] via. . . [SEP] via  <\s> 
+face north [SEP] turn to face North [SEP] turn to face north <\s> 
+turn south [SEP] turn to face South [SEP] turn to face south <\s> 
+send photo [SEP] send image [SEP] send image <\s> 
+<pause> robot turn <pause> a hundred and eighty degrees <pause> to your left [SEP] turn left 180 [SEP] turn left one hundred and eighty <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+turn to the right forty five degrees [SEP] none [SEP] turn right forty five degrees  <\s> 
+then take a picture [SEP] send image [SEP] send image <\s> 
+can you turn ten degrees to your left [SEP] turn left 10 degrees [SEP] turn left ten degrees <\s> 
+<pause> move towards the wall and turn right [SEP] I'm not sure how far I should move or turn right. <beep> [SEP] i'm not sure how far i should move or turn right. would you like me to move into the hallway space ahead and to the right? <\s> 
+robot turn <pause> left <pause> [SEP] How far should I turn to the left? <beep> [SEP] how far should i turn to the left?  <beep> <\s> 
+robot move forward one foot [SEP] move forward 1 foot [SEP] move forward one foot <\s> 
+back up to the wall behind you [SEP] move back to back wall behind you [SEP] move back to back wall behind you <\s> 
+<sigh> face east [SEP] turn to face East [SEP] turn to face east <\s> 
+robot move forward <pause> five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+robot take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move to ironman poster [SEP] none [SEP] move to ironman poster  <\s> 
+and take another picture [SEP] send image [SEP] send image <\s> 
+turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+end task [SEP] end task [SEP] end task  <\s> 
+move forward three feet [SEP] move forward 3 feet [SEP] move forward three feet <\s> 
+turn left forty degrees [SEP] turn left 45 degrees [SEP] turn left forty degrees <\s> 
+turn left twenty degrees [SEP] turn left 20 degrees [SEP] turn left twenty degrees <\s> 
+move forward until parallel with shoe start external door [SEP] none [SEP] move forward until parallel with shoe start external door  <\s> 
+robot turn right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn left twenty degrees [SEP] turn left 20 degrees [SEP] turn left twenty degrees <\s> 
+turn to face closed foyer door [SEP] none [SEP] turn to face closed foyer door  <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+move one foot forward [SEP] none [SEP] move forward one foot <\s> 
+move to cup on chair [SEP] move to cup on chair [SEP] move to cup on chair  <\s> 
+take picture [SEP] none [SEP] send image <\s> 
+turn right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees <\s> 
+take a pic <picture> [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move to table with kitchen items [SEP] move to table with kitchen items [SEP] move to table with kitchen items  <\s> 
+turn left seventy degrees [SEP] turn left 70 degrees [SEP] turn left seventy degrees <\s> 
+also do you speak any other languages [SEP] I do not speak. I can recognize some English words. [SEP] i do not speak.  i can recognize some english words. <\s> 
+return to your starting position [SEP] return to starting point [SEP] move to alley start position <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+tv room [SEP] none [SEP] tv room  <\s> 
+rotate ninety degrees left, image every forty five [SEP] rotate 90 degrees left, image every 45 [SEP] rotate ninety degrees left <\s> image every forty five <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+rotate right <pause> forty degrees [SEP] turn right 40 degrees [SEP] turn right forty degrees <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+can you move one and a half feet forward [SEP] move forward 1.5 feet [SEP] move forward one.five feet <\s> 
+robot turn um ninety degrees left [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+can you take a photo [SEP] send image [SEP] send image <\s> 
+send a picture [SEP] none [SEP] send image <\s> 
+<pause> turn one hundred and eighty degrees [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+move forward and stop in front of orange object [SEP] move forward to orange object; send image [SEP] move forward to orange object; send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+can you do another five degree to your left [SEP] turn left 5 degrees [SEP] turn left five degrees <\s> 
+take a photo [SEP] send image [SEP] send image <\s> 
+and go forward ten feet [SEP] move forward 10ft [SEP] move forward ten feet <\s> 
+turn right thirty degrees [SEP] turn right 30 degrees [SEP] turn right thirty degrees <\s> 
+turn forty five degrees to the right [SEP] turn right 45 degrees [SEP] turn right forty five degrees <\s> 
+move toward the round red barrel [SEP] move to bucket with rope [SEP] move to bucket with rope <\s> 
+<pause> move forward four feet [SEP] move forward 4 feet [SEP] move forward four feet <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+to the right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees  <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+go east twenty feet [SEP] turn to face East; move forward 20 feet [SEP] turn to face east; move forward twenty feet <\s> 
+robot take a photo [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+are you able to knock over or tip over that object [SEP] I cannot manipulate objects in the environment without jeopardizing my safety. Should I get closer? <beep> [SEP] i cannot manipulate objects in the environment without jeopardizing my safety.  should i get closer? <\s> 
+are you calibrated to detect shoes [SEP] No. I need your help to find shoes. [SEP] no.  i need your help to find shoes. <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+move forward two feet [SEP] move forward 2 feet [SEP] move forward two feet <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+return to starting point [SEP] return to starting point [SEP] return to starting point  <\s> 
+and send photo [SEP] send image [SEP] send image <\s> 
+move to furthest hallway [SEP] move to furthest hallway [SEP] move to furthest hallway <\s> 
+move forward five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+send photo [SEP] send image [SEP] send image <\s> 
+rotate left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+calibrate [SEP] calibrate [SEP] calibrate <\s> 
+turn to face west [SEP] none [SEP] turn to face west  <\s> 
+robot turn forty five degrees right [SEP] turn right 45 degrees [SEP] turn right forty five degrees  <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+correction [SEP] stop [SEP] stop <\s> 
+move forward four feet [SEP] move forward 4 feet [SEP] move forward four feet <\s> 
+go forward through the doorway [SEP] move into room [SEP] move forward to doorway ahead <\s> 
+sent a picture [SEP] none [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+move into stairwell hallway [SEP] none [SEP] move into stairwell hallway  <\s> 
+robot face east [SEP] turn to face East [SEP] turn to face east <\s> 
+turn ten degrees left [SEP] none [SEP] turn left ten degrees <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+turn northwest [SEP] turn to face North West [SEP] turn to face northwest <\s> 
+send photo [SEP] send image [SEP] send image <\s> 
+turn ninety degrees right [SEP] none [SEP] turn right ninety degrees <\s> 
+send photo [SEP] send image [SEP] send image <\s> 
+<go ahead and get started> take a picture [SEP] send image [SEP] send image <\s> 
+can you send me another photo [SEP] send image [SEP] send image <\s> 
+can you take a photo [SEP] send image [SEP] send image <\s> 
+and take a photo [SEP] send image [SEP] send image <\s> 
+please back up one foot [SEP] move back 1 foot [SEP] move back one foot <\s> 
+<pause> robot turn right nine ty <ninety> degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+robot face north [SEP] turn to face North [SEP] turn to face north <\s> 
+turn to your right <pause> [SEP] none [SEP] how far should i rotate right? <beep> <\s> 
+turn right ten degrees [SEP] turn right 10 degrees [SEP] turn right ten degrees <\s> 
+robot move forward one foot [SEP] move forward 1 foot [SEP] move forward one foot <\s> 
+and send me a photo [SEP] send image [SEP] send image <\s> 
+turn  forty five degrees left [SEP] none [SEP] turn left forty five degrees <\s> 
+move forward three feet [SEP] move forward 3 feet [SEP] move forward three feet <\s> 
+and turn on video camera [SEP] Our connection is too slow for me to send video data. <beep> [SEP] our bandwidth will currently not support the video feed. <\s> 
+turn thirty degrees right [SEP] none [SEP] turn right thirty degrees <\s> 
+robot take a picture [SEP] send image [SEP] send image <\s> 
+move back four feet [SEP] move back 4 feet [SEP] move back four feet <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move forward into the next room [SEP] move into room [SEP] move forward to next room <\s> 
+can you do a ten degree angle to your right [SEP] turn right 10 degrees [SEP] turn right ten degrees <\s> 
+turn ninety degrees right [SEP] none [SEP] turn right ninety degrees  <\s> 
+robot take a picture [SEP] send image [SEP] send image <\s> 
+turn around [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+go straight ahead [SEP] How far forward should I go? <beep> [SEP] how far should i go straight ahead? <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+uh recalibrate [SEP] calibrate [SEP] calibrate <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+<pause> back up <pause, exhale> one foot [SEP] move back 1 foot [SEP] move back one foot <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+turn to face cleaning room   hall doorway [SEP] none [SEP] turn to face cleaning room   hall doorway  <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+turn left forty five degrees [SEP] turn left 45 degrees [SEP] turn left forty five degrees <\s> 
+turn right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees <\s> 
+robot turn left ninety degrees [SEP] none [SEP] turn left ninety degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+head toward the yellow cone [SEP] move to yellow cone [SEP] move to yellow cone <\s> 
+travel through doorway five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+robot stop [SEP] stop [SEP] stop <\s> 
+<pause> send a picture [SEP] send image [SEP] send image <\s> 
+away from. . . [SEP] away from. . . [SEP] away from  <\s> 
+move to tv [SEP] none [SEP] move to tv  <\s> 
+and move forward five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+uhhh go forward ten feet [SEP] move forward 10ft [SEP] move forward ten feet <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+go back out into the hallway [SEP] none [SEP] move back to hall <\s> 
+robot turn forty five degrees <pause> east [SEP] none [SEP] turn left forty five degrees <\s> 
+turn left forty five degrees [SEP] turn left 45 degrees [SEP] turn left forty five degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn around [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+rotate left one hundred and eighty [SEP] turn left 180 [SEP] rotate left one hundred and eighty  <\s> 
+how many doors did you pass [SEP] I think you are more familiar with doors than I am. [SEP] i think you are more familiar with doors than i am. <\s> 
+take another picture [SEP] send image [SEP] send image <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+move to hallway on right [SEP] move to hallway on right [SEP] move to hallway on right <\s> 
+robot take a picture [SEP] send image [SEP] send image <\s> 
+turn left uh ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+move forward t uhh ten feet [SEP] move forward 10ft [SEP] move forward ten feet <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and take a photo <laughter> [SEP] send image [SEP] send image <\s> 
+and<pause> turn to your left turn forty five degrees to your left [SEP] turn left 45 degrees [SEP] turn left forty five degrees <\s> 
+move into foyer [SEP] none [SEP] move into foyer  <\s> 
+turn around [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+can you take <clears throat> can you take sss several <pause> sss steps forward uh just one feet [SEP] move forward 1 foot [SEP] move forward one foot <\s> 
+robot face north [SEP] turn to face North [SEP] turn to face north <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+can you turn five degrees to your left [SEP] turn left 45 degrees [SEP] turn left five degrees <\s> 
+send me a photo of what you see [SEP] send image [SEP] send image <\s> 
+<pause> turn <pause> thirty degrees <pause> south [SEP] none [SEP] turn right thirty degrees <\s> 
+move forward until parallel with cleaning room   hall doorway [SEP] none [SEP] move forward until parallel with cleaning room   hall doorway  <\s> 
+and take a photo [SEP] send image [SEP] send image <\s> 
+move to picture of buildings [SEP] move to picture [SEP] move to picture of buildings  <\s> 
+turn around [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+go through the other door [SEP] move to other door [SEP] move to other door <\s> 
+move forward three feet [SEP] move forward 3 feet [SEP] move forward three feet <\s> 
+move to the end of the hall [SEP] move to end of the hall ahead [SEP] move to end of the hall ahead <\s> 
+go forward robot [SEP] How far forward should I go? You can tell me to move a distance or to move to an object. Would you like me to send a picture so you can see the space? <beep> [SEP] how far forward should i go?  you can tell me to move a distance or to move to an object.  would you like me to send a picture so you can see the space? <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move forward one foot [SEP] move forward 1 foot [SEP] move forward one foot  <\s> 
+move forward one foot [SEP] move forward 1 foot [SEP] move forward one foot <\s> 
+robot continue to the second doorway in the hallway [SEP] move to second doorway [SEP] move to second doorway <\s> 
+robot back up five feet [SEP] move back 5ft [SEP] move back five feet <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+hmm turn around <pause> [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+move to the end of alley [SEP] move down alley [SEP] move to the end of alley  <\s> 
+robot take a picture [SEP] send image [SEP] send image <\s> 
+move to stairwell   hall doorway [SEP] none [SEP] move to stairwell   hall doorway  <\s> 
+can you take a photo [SEP] send image [SEP] send image <\s> 
+move forward five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+<deep breath> turn ninety degrees left [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+<pause> turn right <pause> forty five degrees [SEP] turn right 45 degrees [SEP] turn right forty five degrees <\s> 
+back up three feet [SEP] move back 3 feet [SEP] move back three feet <\s> 
+go through the doorway [SEP] none [SEP] which doorway?  <beep> <\s> 
+<pause> take a picture [SEP] send image [SEP] send image <\s> 
+move to room two crate [SEP] none [SEP] move to room two crate  <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn left <pause> twenty degrees [SEP] turn left 20 degrees [SEP] turn left twenty degrees <\s> 
+send me a picture [SEP] send image [SEP] send image <\s> 
+<pause> turn forty five degrees right [SEP] none [SEP] turn right forty five degrees <\s> 
+and travel five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+turn left [SEP] none [SEP] how far to the left should i turn?  you can tell me about how many degrees <\s> or to turn to face something. <\s> 
+can you take a picture [SEP] send image [SEP] send image <\s> 
+and then take a picture [SEP] send image [SEP] send image <\s> 
+move to kitchen chair [SEP] none [SEP] move to kitchen chair  <\s> 
+turn left forty five degrees [SEP] turn left 45 degrees [SEP] turn left forty five degrees <\s> 
+take a pic <picture> [SEP] send image [SEP] send image <\s> 
+go back out of the doorway you entered into and go back down the hallway to the left [SEP] How far should I go down the hallway? <beep> [SEP] about how far down the hallway should i go? <\s> 
+<pause> turn right forty five degrees [SEP] turn right 45 degrees [SEP] turn right forty five degrees <\s> 
+robot [SEP] none [SEP] can you repeat that?  <beep> <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+uh move forward [SEP] none [SEP] i'm not sure where or when to stop moving forward.  <beep> <\s> 
+do you see a yellow flashlight [SEP] I'm not sure. [SEP] i'm not sure. <\s> 
+move forward and to the right down the hall [SEP] I'm not sure where or when to stop moving forward. <beep> [SEP] i'm not sure where or when to stop moving forward.  <beep> <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+go further inside the doorway to your left about <pause> four feet [SEP] move to the room; turn left 90 degrees; move forward 4 feet [SEP] move to the room; turn left ninety degrees; move forward four feet <\s> 
+turn a hundred and eighty degrees to your left [SEP] turn 180 [SEP] turn left one hundred and eighty <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a photo [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take photo [SEP] none [SEP] send image <\s> 
+turn left forty five degrees [SEP] turn left 45 degrees [SEP] turn left forty five degrees <\s> 
+robot go forward <pause> ten feet [SEP] move forward 10ft [SEP] move forward ten feet <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+turn around and then go back out of the door <pause> and proceed down the hallway to your left [SEP] How far should I proceed down the hallway to the left? <beep> [SEP] how far should i proceed down the hallway to the left? <\s> 
+continue down the hallway to the first entrance on the left first doorway on the left the doorway immediately to your left [SEP] move to doorway to left [SEP] move to doorway to left <\s> 
+okay can you move at least fifty feet forward [SEP] move forward 50 feet [SEP] i'm not sure if i can move that far forward.  <beep> <\s> 
+travel straight [SEP] I'm not sure where or when to stop moving forward. <beep> [SEP] i'm not sure where or when to stop moving forward.  <beep> <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+do you detect any type of hazardous gas sources [SEP] none [SEP] i do not have a sensor to detect hazardous gases. <\s> 
+robot take a photo [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move forward ten feet through the doorway [SEP] move forward 10ft [SEP] move forward ten feet <\s> 
+move into office [SEP] none [SEP] move into office  <\s> 
+dark room [SEP] none [SEP] dark room  <\s> 
+back up two feet [SEP] move back 2 feet [SEP] move back two feet <\s> 
+move to kitchen   hall doorway [SEP] none [SEP] move to kitchen   hall doorway  <\s> 
+move forward two feeet [SEP] move forward 2 feet [SEP] move forward two feet <\s> 
+back up three feet [SEP] move back 3 feet [SEP] move back three feet <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+pivot left fourty [SEP] turn left 45 degrees [SEP] turn left forty five degrees <\s> 
+move to the end of the hallway [SEP] move to the end of the hallway [SEP] move to the left end of hallway <\s> 
+turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+and take a photo [SEP] send image [SEP] send image <\s> 
+send photo [SEP] send image [SEP] send image <\s> 
+stop [SEP] stop [SEP] stop <\s> 
+can you move forward maybe two feet [SEP] move forward 2 feet [SEP] move forward two feet <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a photo [SEP] send image [SEP] stop <\s> 
+move forward until parallel with office   hall doorway [SEP] none [SEP] move forward until parallel with office   hall doorway  <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn right nine uh forty five degrees [SEP] turn right 45 degrees [SEP] turn right forty five degrees  <\s> 
+robot turn ninety degrees left [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+can you take a photo [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+and take a photo [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn left [SEP] none [SEP] how far should i turn let? <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+travel three feet [SEP] move forward 3 feet [SEP] move forward three feet <\s> 
+continue to move down the hallway go down the end of the hallway where it appears to be a clock on the wall [SEP] move to end of hallway; turn to face clock [SEP] move to end of hallway; turn to face clock <\s> 
+move to closed foyer door [SEP] none [SEP] move to closed foyer door  <\s> 
+face east [SEP] turn to face East [SEP] turn to face east <\s> 
+move to shoe start   hall doorway [SEP] none [SEP] move to shoe start   hall doorway  <\s> 
+turn around a hundred and eighty degrees [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+can you turn five degree <degrees> to your right [SEP] turn right 5 degrees [SEP] turn right five degrees <\s> 
+robot turn right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees <\s> 
+can you do a thirty degree angle to your right [SEP] turn right 30 degrees [SEP] turn right thirty degrees <\s> 
+can you t [SEP] Can you repeat that? <beep> [SEP] can you repeat that?  <beep> <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+back up three feet [SEP] move back 3 feet [SEP] move back three feet <\s> 
+and take a photo of the map on the wall [SEP] send image [SEP] send image <\s> 
+<pause> face south [SEP] turn to face South [SEP] turn to face south <\s> 
+travel four feet [SEP] move forward 4 feet [SEP] move forward four feet <\s> 
+turn right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees  <\s> 
+stop [SEP] stop [SEP] stop <\s> 
+then take a photo [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+turn right forty degrees [SEP] turn right 45 degrees [SEP] turn right forty degrees <\s> 
+can you do a <pause> twenty degree angle to your right [SEP] turn right 20 degrees [SEP] turn right twenty degrees <\s> 
+move forward ten feet [SEP] move forward 10ft [SEP] move forward ten feet  <\s> 
+turn um forty five degrees <laughter> to your right [SEP] turn right 45 degrees [SEP] turn right forty five degrees  <\s> 
+move forward <pause> fifteen feet [SEP] move forward 15ft [SEP] move forward fifteen feet <\s> 
+turn right twenty degrees [SEP] turn right 20 degrees [SEP] turn right twenty degrees <\s> 
+turn right <pause> twenty five degrees [SEP] turn right 25 degrees [SEP] turn right twenty five degrees <\s> 
+turn ninety degrees right [SEP] none [SEP] turn right ninety degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and take a photo [SEP] send image [SEP] send image <\s> 
+turn to your right forty five degrees [SEP] turn right 45 degrees [SEP] turn right forty five degrees  <\s> 
+send photo [SEP] send image [SEP] send image <\s> 
+travel straight fff five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+send a picture [SEP] none [SEP] send image <\s> 
+turn fifteen degrees to your right [SEP] turn right 15 degrees [SEP] turn right fifteen degrees <\s> 
+move into office hallway [SEP] none [SEP] move into office hallway  <\s> 
+back up one foot [SEP] move back 1 foot [SEP] move back one foot <\s> 
+go to the wall facing you [SEP] move to front wall ahead [SEP] move to front wall ahead <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move back twenty feet [SEP] move back 20 feet [SEP] move back twenty feet <\s> 
+and get uh send me a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+pivot right ninety degrees taking a picture every forty [SEP] rotate 90 degrees right, image every 45 [SEP] do the following two times: turn right forty five degrees; send image <\s> 
+move halfway down office hallway [SEP] none [SEP] move halfway down office hallway  <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+change of command [SEP] cancel command [SEP] cancel command <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+go down the hallway that's in front of you on the right [SEP] How far should I go down the hallway? <beep> [SEP] how far should i go down the hallway?  <beep> <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+and send me a picture [SEP] send image [SEP] send image <\s> 
+<pause> move forward [SEP] none [SEP] i'm not sure where or when to stop moving forward.  <beep> <\s> 
+<pause> turn left left fifteen degrees [SEP] turn left 15 degrees [SEP] turn left fifteen degrees <\s> 
+move to desk with computer [SEP] move to desk with computer [SEP] move to desk with computer  <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn to the right [SEP] none [SEP] turn right ninety degrees  <\s> 
+move one foot closer [SEP] move forward 1 foot [SEP] move forward one foot <\s> 
+<pause> turn forty five degrees [SEP] turn left 45 degrees [SEP] turn right forty five degrees <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+back up two feet [SEP] move back 2 feet [SEP] move back two feet <\s> 
+go back out into the hallway through the door on your right [SEP] move to hallway via door on right [SEP] move to hallway via door on right <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+<pause> move forward <pause> two feet [SEP] move forward 2 feet [SEP] move forward two feet <\s> 
+turn left [SEP] none [SEP] you can tell me to turn a number of degrees or to face something.  <beep> <\s> 
+turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees  <\s> 
+<pause> turn right and take a picture ninety degrees [SEP] turn right 90 degrees, send image [SEP] turn right ninety degrees <\s> 
+move to the first cone on your left [SEP] I'm not sure which object you are referring to. Can you describe it in another way, using color or its location? <beep> [SEP] i'm not sure which object you are referring to.  can you describe it in another way <\s> using location or color? <\s> 
+robot take a picture [SEP] send image [SEP] send image <\s> 
+turn to your left [SEP] none [SEP] how far should i turn to the left? <\s> 
+<pause> how far away are you from the object in front of you [SEP] I'm not sure. [SEP] i'm not sure. <\s> 
+can you turn ten degrees to your right [SEP] turn right 10 degrees [SEP] turn right ten degrees <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+turn around [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+move two feet forward [SEP] none [SEP] move forward two feet <\s> 
+can you take a picture [SEP] send image [SEP] send image <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+can you do a forty degree angle to the right [SEP] turn right 40 degrees [SEP] turn right forty degrees <\s> 
+stop there [SEP] stop [SEP] stop <\s> 
+turn left fifteen degrees [SEP] turn left 15 degrees [SEP] turn left fifteen degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move forward ten feet [SEP] move forward 10ft [SEP] move forward ten feet <\s> 
+what type of material is that in front of you [SEP] Which object are you referring to? Can you describe it using shape or color? <beep> [SEP] which object are you referring to? can you describe it using shape or color? <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+robot take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture behind you [SEP] turn 180; send image [SEP] turn one hundred and eighty; send image <\s> 
+face west [SEP] turn to face West [SEP] turn to face west <\s> 
+robot move about one foot [SEP] move forward 1 foot [SEP] move back one foot <\s> 
+turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and continue to second doorway [SEP] move to second doorway [SEP] move to second doorway <\s> 
+robot turn around [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+robot exit this room [SEP] exit the room [SEP] i'm not sure where or when to stop going right down the hallway.  how far should i go? <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+can you take a picture [SEP] send image [SEP] send image <\s> 
+move to alley door three [SEP] none [SEP] move to alley door three  <\s> 
+uh turn around please [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+<pause> take a photo [SEP] send image [SEP] send image <\s> 
+take a pictu <picture> [SEP] send image [SEP] send image <\s> 
+are you alone [SEP] I'm not sure. I haven't detected any people but we haven't fully explored the space. [SEP] i'm not sure.  i'm not detecting any people. <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+can you take a step two feet back [SEP] none [SEP] move back two feet <\s> 
+move toward the yellow cone [SEP] turn to face yellow cone [SEP] turn to face yellow cone <\s> 
+turn left forty five degrees [SEP] turn left 45 degrees [SEP] turn left forty five degrees  <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and picture [SEP] send image [SEP] send image <\s> 
+move to the end of the kitchen hallway [SEP] none [SEP] move to the end of the kitchen hallway  <\s> 
+cancel command [SEP] cancel command [SEP] cancel command  <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+robot turn left and take a picture ninety degrees [SEP] none [SEP] turn left ninety degrees <\s> 
+robot move forward three feet <pause> [SEP] move forward 3 feet [SEP] move forward three feet <\s> 
+can you take a photo [SEP] send image [SEP] send image <\s> 
+take photo [SEP] none [SEP] send image <\s> 
+i am ready [SEP] participant is ready [SEP] i'm ready too.  would you like me to send a picture so you can see the space? <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move to yellow cone [SEP] move to yellow cone [SEP] move to yellow cone  <\s> 
+turn right fifty degrees [SEP] turn right 50 degrees [SEP] turn right fifty degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn right sixty degrees [SEP] turn right 60 degrees [SEP] turn right sixty degrees <\s> 
+can you take a photo of where you are [SEP] send image [SEP] send image <\s> 
+continue to move down the hallway [SEP] How far should I continue down the hallway? Would you like me to reach something that you see or go a certain distance? <beep> [SEP] how far should i continue down the hallway? would you like me to reach something that you see or go a certain distance? <\s> 
+back up five feet [SEP] move back 5ft [SEP] move back five feet <\s> 
+robot <pause> turn nine <pause> robot turn ninety degrees left [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+move into kitchen hallway [SEP] none [SEP] move into kitchen hallway  <\s> 
+turn left fifty degrees [SEP] turn left 50 degrees [SEP] turn left fifty degrees <\s> 
+turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+nope stop stop [SEP] stop [SEP] stop <\s> 
+move to furthest door [SEP] move to furthest door [SEP] move to furthest door <\s> 
+<pause> turn around [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+robot turn a hundred and eighty degrees [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+<pause> turn right [SEP] none [SEP] how far should i turn to the right?  <beep> <\s> 
+turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+do you see any objects [SEP] none [SEP] there's too much lag in our communications for instantaneous instructions.  <beep> <\s> 
+turn to face conf room   hall doorway [SEP] none [SEP] turn to face conf room   hall doorway  <\s> 
+move to cleaning room luggage [SEP] none [SEP] move to cleaning room luggage  <\s> 
+go ahead [SEP] go ahead [SEP] go ahead  <\s> 
+rotate three hundred and sixty degrees to your left taking a picture every forty [SEP] rotate 360 degrees right, image every 30 [SEP] do the following eight times: turn left forty five degrees; send image <\s> 
+turn right ten degrees [SEP] turn right 10 degrees [SEP] turn right ten degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+face east [SEP] turn to face East [SEP] turn to face east <\s> 
+and send a pic picture [SEP] send image [SEP] send image <\s> 
+move back five feet [SEP] move back 5ft [SEP] move back five feet <\s> 
+rotate right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees <\s> 
+take photo [SEP] none [SEP] send image <\s> 
+turn left sixty degrees [SEP] turn left 60 degrees [SEP] turn left sixty degrees <\s> 
+and then take a picture [SEP] send image [SEP] send image <\s> 
+turn one eighty to the right [SEP] turn right 180 [SEP] turn right one hundred and eighty <\s> 
+move forward seven feet [SEP] move forward 7 [SEP] move forward seven feet <\s> 
+and take a photo [SEP] send image [SEP] send image <\s> 
+move to stairs side crate [SEP] none [SEP] move to stairs side crate  <\s> 
+move east fifteen feet [SEP] none [SEP] move forward fifteen feet <\s> 
+pivot right [SEP] You can tell me to turn a number of degrees or to face something. <beep> [SEP] turn right ten degrees <\s> 
+turn east [SEP] turn to face East [SEP] turn to face east <\s> 
+turn right ten degrees [SEP] turn right 10 degrees [SEP] turn right ten degrees <\s> 
+move to ladder [SEP] move to ladder [SEP] move to ladder  <\s> 
+face east [SEP] turn to face East [SEP] turn to face east <\s> 
+move to the end of the hallway and make a right [SEP] When you say make a right, would you like me to turn right 90 degrees? <beep> [SEP] when you say make a right <\s> would you like me to turn right ninety degrees? <\s> 
+can you take a photo [SEP] send image [SEP] send image <\s> 
+move forward four feet [SEP] move forward 4 feet [SEP] move forward four feet  <\s> 
+turn left twenty degrees [SEP] turn left 20 degrees [SEP] turn left twenty degrees <\s> 
+turn left another fifteen degrees [SEP] turn left 15 degrees [SEP] turn left fifteen degrees <\s> 
+robot take a picture [SEP] send image [SEP] send image <\s> 
+and take a photo [SEP] send image [SEP] send image <\s> 
+robot face south [SEP] turn to face South [SEP] turn to face south <\s> 
+turn right uhh forty five degrees [SEP] turn right 45 degrees [SEP] turn right forty five degrees <\s> 
+go forward two feet [SEP] move forward 2 feet [SEP] move forward two feet <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+<pause> back up t two feet [SEP] none [SEP] move back two feet <\s> 
+robot face east [SEP] turn to face East [SEP] turn to face east <\s> 
+do you think there's uh some type of container that a soldier might be able to use to move things [SEP] I see objects all around me; I need your help to decide which are important. <beep> [SEP] i see objects all around me; i need your help to decide which are important. <beep> <\s> 
+<pause> take a picture [SEP] send image [SEP] send image <\s> 
+move to the middle of the room [SEP] move into the center of the current room [SEP] move into the center of the current room <\s> 
+okay can you move back just a little [SEP] How much is a little bit? <beep> [SEP] how much is a little bit?  <beep> <\s> 
+move back to back wall behind you [SEP] move back to back wall behind you [SEP] move back to back wall behind you  <\s> 
+robot take a picture [SEP] send image [SEP] send image <\s> 
+robot turn around [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+move back one foot [SEP] move back 1 foot [SEP] move back one foot  <\s> 
+go through the doorway on your left [SEP] move forward to doorway on left [SEP] move forward to doorway on the left <\s> 
+robot move forward <pause> uh [SEP] Can you repeat that? <beep> [SEP] can you repeat that?  <beep> <\s> 
+<pause> back up two feet [SEP] none [SEP] move back two feet <\s> 
+can you take a photo [SEP] send image [SEP] send image <\s> 
+<pause> turn ninety degrees right [SEP] turn right 90 degrees [SEP] turn right ninety degrees <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+explore the room [SEP] I need your help to explore the room and tell me what to do first. Should I send you a picture so you can see what's here? <beep> [SEP] i need your help to explore the room and tell me what to do first.  should i send you a picture so you can see what's here? <\s> 
+robot move forward one foot [SEP] move forward 1 foot [SEP] move forward one foot <\s> 
+<pause> turn around [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+rotate to the left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+robot face south [SEP] turn to face South [SEP] turn to face south <\s> 
+turn a hundred and eighty degrees [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+robot proceed to the other doorway [SEP] move forward to other doorway [SEP] move forward to other doorway <\s> 
+move to budapest poster [SEP] none [SEP] move to budapest poster  <\s> 
+robot face south [SEP] turn to face South [SEP] turn to face south <\s> 
+turn to the left and go back down the hallway [SEP] How far left should I turn? You can tell me to turn to face something that you see. <beep> [SEP] how far should i turn to the left? you can tell me to turn to face something <\s> or a number of degrees or towards a particular direction. <\s> 
+turn left forty five degrees [SEP] turn left 45 degrees [SEP] turn left forty five degrees <\s> 
+turn to face east [SEP] none [SEP] turn to face east  <\s> 
+turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+robot take a picture [SEP] send image [SEP] send image <\s> 
+robot return to the main hallway [SEP] move to hallway from entrance you came in [SEP] move to hallway from entrance you came in <\s> 
+move forward [SEP] none [SEP] how far forward should i go?  you can tell me to move to something that you see.  i can send you a picture so you can see the space <\s> ok? <\s> 
+take a photo [SEP] send image [SEP] send image <\s> 
+turn around and go back the opposite direction move to the middle of the building yes [SEP] none [SEP] move to middle of the alley <\s> 
+take another photo [SEP] send image [SEP] send image <\s> 
+robot go back to the start [SEP] return to starting point [SEP] return to starting point <\s> 
+move forward five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+can you take a photo [SEP] send image [SEP] send image <\s> 
+turn left eighty degrees [SEP] turn left 80 degrees [SEP] turn left eighty degrees <\s> 
+move to blue arabic sign [SEP] none [SEP] move to blue arabic sign  <\s> 
+move to stop sign [SEP] move to stop sign [SEP] move to stop sign  <\s> 
+turn right twenty five degrees [SEP] turn right 25 degrees [SEP] turn right twenty five degrees <\s> 
+and send another pic picture [SEP] send image [SEP] send image <\s> 
+send a picture [SEP] none [SEP] send image <\s> 
+turn forty five degrees to your right [SEP] none [SEP] turn right forty five degrees <\s> 
+turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+take a photo [SEP] send image [SEP] send image <\s> 
+robot take a picture [SEP] send image [SEP] send image <\s> 
+from this angle do you think there's some type of container that a soldier might be able to use to move things [SEP] I think you are more familiar with containers than I am. [SEP] i think you are more familiar with containers than i am. <\s> 
+turn to your right thirty five degrees [SEP] turn right 30 degrees [SEP] turn right thirty five degrees <\s> 
+<pause> take a picture [SEP] send image [SEP] send image <\s> 
+turn one hundred eighty degrees [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+<pause> take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move forward ten feet [SEP] move forward 10ft [SEP] move forward ten feet <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+thirty degrees to your right [SEP] turn right 30 degrees [SEP] turn right thirty degrees <\s> 
+and take a photo [SEP] send image [SEP] send image <\s> 
+robot turn around [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+and take a photo [SEP] send image [SEP] send image <\s> 
+turn right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees  <\s> 
+<long pause> turn right [SEP] When you say make a right, would you like me to turn right 90 degrees? <beep> [SEP] you can tell me to turn a number of degrees or to face something.  <beep> <\s> 
+move to shoe start room cone [SEP] none [SEP] move to shoe start room cone  <\s> 
+turn forty five degrees to the right [SEP] turn right 45 degrees [SEP] turn right forty five degrees  <\s> 
+robot take a picture [SEP] send image [SEP] send image <\s> 
+move into kitchen [SEP] none [SEP] move into kitchen  <\s> 
+robot move forward to the cone on your the yellow cone on your l right side [SEP] move to yellow cone [SEP] move to yellow cone <\s> 
+turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move closer to the hard hats about four feet [SEP] move 4 feet towards easel with hardhats [SEP] move four feet towards easel with hardhats <\s> 
+can you tell me the first object you see [SEP] I'm unsure which object you mean. <beep> [SEP] i'm unsure which object you mean.  <beep> <\s> 
+stop there [SEP] stop [SEP] stop <\s> 
+robot turn forty five <xxx unintelligible> degrees left [SEP] turn left 45 degrees [SEP] turn left forty five degrees <\s> 
+send a picture [SEP] none [SEP] send image <\s> 
+turn left [SEP] none [SEP] how far should i turn to the left?  <beep> <\s> 
+take a photo [SEP] send image [SEP] send image <\s> 
+and send photo [SEP] send image [SEP] send image <\s> 
+robot face north [SEP] turn to face North [SEP] turn to face north <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+move to end of hallway [SEP] none [SEP] move to end of hallway <\s> 
+can you take another pic <pause> picture [SEP] send image [SEP] send image <\s> 
+turn to face dark room   conference room doorway [SEP] none [SEP] turn to face dark room   conference room doorway  <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+make a ninety degree turn [SEP] Which direction should I turn? <beep> [SEP] which direction should i turn?  <beep> <\s> 
+and turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+move to room sign for shoe start room [SEP] none [SEP] move to room sign for shoe start room  <\s> 
+can you take a photo [SEP] send image [SEP] send image <\s> 
+robot <pause> face north [SEP] turn to face North [SEP] turn to face north <\s> 
+and take a photo [SEP] send image [SEP] send image <\s> 
+go through doorway directly in front through doorway like opening directly in front of you [SEP] move to doorway [SEP] move to doorway <\s> 
+and take a photo of the item hanging off the desk [SEP] send image [SEP] send image <\s> 
+move forward into the room on your right [SEP] move forward to room through the closest door at right [SEP] move forward to room through the closest door at right <\s> 
+turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+can you move back one feet [SEP] move back 1 foot [SEP] move back one foot <\s> 
+turn ninety degrees left [SEP] none [SEP] turn left ninety degrees <\s> 
+turn thirty degrees to the left [SEP] turn left 30 degrees [SEP] turn left thirty degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+to the left thirty degrees [SEP] turn left 30 degrees [SEP] turn left thirty degrees <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+rotate right <pause> ten degrees [SEP] turn right 10 degrees [SEP] turn right ten degrees <\s> 
+make a right [SEP] How far should I turn to the right? <beep> [SEP] how far should i turn right? <\s> 
+turn right seventy degrees [SEP] turn right 70 degrees [SEP] turn right seventy degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move forward five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+go back out of the door that you came into [SEP] move back to door you just came through [SEP] move back to door you just came through <\s> 
+move to right wall [SEP] move to right wall [SEP] move to right wall  <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+rotate left twenty degrees [SEP] turn left 20 degrees [SEP] turn left twenty degrees <\s> 
+turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+please wait [SEP] please wait [SEP] please wait  <\s> 
+<pause> uh robot turn ninety degrees left [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+and continue forward until you reach the wall [SEP] move to front wall ahead [SEP] move to front wall ahead <\s> 
+and go forward ten feet [SEP] move forward 10ft [SEP] move forward ten feet <\s> 
+go through the doorway on your left front [SEP] move forward to doorway ahead of you on the left [SEP] move forward to doorway ahead of you on the left <\s> 
+continue going through through the doorway [SEP] I'm not sure what you mean. Should I move to the center of the room? <beep> [SEP] i'm not sure what you mean.  should i move to the center of the room? <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+turn left forty five degrees [SEP] turn left 45 degrees [SEP] turn left forty five degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn ninety degrees to the right [SEP] turn right 90 degrees [SEP] turn right ninety degrees  <\s> 
+move to right chair two [SEP] none [SEP] move to right chair two  <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+robot take a photo [SEP] send image [SEP] send image <\s> 
+turn right eighty degrees [SEP] turn right 80 degrees [SEP] turn right eighty degrees <\s> 
+and take a photo [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move to front wall ahead [SEP] move to front wall ahead [SEP] move to front wall ahead  <\s> 
+robot face west [SEP] turn to face West [SEP] turn to face west <\s> 
+do a three hundred and sixty degree spin [SEP] turn right 360 degrees [SEP] turn right three hundred and sixty degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and take a photo [SEP] send image [SEP] send image <\s> 
+move halfway down tv hallway [SEP] none [SEP] move halfway down tv hallway  <\s> 
+can you do ano <another> turn another ten degree angle to your right [SEP] turn right 10 degrees [SEP] turn right ten degrees <\s> 
+robot take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+back up two feet [SEP] move back 2 feet [SEP] move back two feet <\s> 
+robot turn forty five degrees to the left [SEP] turn left 45 degrees [SEP] turn left forty five degrees <\s> 
+<pause> turn due north [SEP] turn to face North [SEP] turn to face north <\s> 
+move forward until parallel with conf room   hall doorway [SEP] none [SEP] move forward until parallel with conf room   hall doorway  <\s> 
+take a photo [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+can you do a ninety degree turn to your left [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+can you go into the center of that room [SEP] The center of which room? <beep> [SEP] the center of which room? <\s> 
+turn ninety degrees to the left [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+okay turn right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees <\s> 
+send photo [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+robot move a couple of inches closer <pause> [SEP] move forward 2 inches [SEP] move forward two inches <\s> 
+enter the room [SEP] move to room [SEP] move to room <\s> 
+turn to face alley door three [SEP] none [SEP] turn to face alley door three  <\s> 
+turn one hundred and eighty degrees [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a picture of what's in front of you [SEP] send image [SEP] send image <\s> 
+pivot right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees  <\s> 
+turn t tur turn fifteen degrees to your right [SEP] turn right 15 degrees [SEP] turn right fifteen degrees <\s> 
+can you move forward [SEP] none [SEP] i'm not sure where or when to stop moving forward.  <beep> <\s> 
+did you pass any cones [SEP] If you describe an object, you can help me to learn what it is. <beep> [SEP] i'm not sure which object you are referring to. <beep> <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+can you turn five degrees to your right [SEP] turn right 5 degrees [SEP] turn right five degrees <\s> 
+can you move forward <pause> one feet [SEP] move forward 1 foot [SEP] move forward one foot <\s> 
+send a picture when done [SEP] send image [SEP] send image <\s> 
+pivot right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees  <\s> 
+rotate left twenty degrees [SEP] turn left 20 degrees [SEP] turn left twenty degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and face south [SEP] turn to face South [SEP] turn to face south <\s> 
+move to far left chair [SEP] none [SEP] move to far left chair  <\s> 
+and face north [SEP] turn to face North [SEP] turn to face north <\s> 
+turn right fifty degrees [SEP] turn right 50 degrees [SEP] turn right fifty degrees <\s> 
+stop [SEP] stop [SEP] stop <\s> 
+and then take a picture [SEP] send image [SEP] send image <\s> 
+and go forward five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+move forward three feet [SEP] move forward 3 feet [SEP] move forward three feet <\s> 
+move forward two feet [SEP] move forward 2 feet [SEP] move forward two feet <\s> 
+move forward until parallel with dark room   hall doorway [SEP] none [SEP] move forward until parallel with dark room   hall doorway  <\s> 
+go back to your left and go to the first doorway that you see the doorway immediately to your left [SEP] move to the doorway closest to you and to the left [SEP] move to the doorway closest to you and to the left <\s> 
+send a picture [SEP] none [SEP] send image <\s> 
+send photo [SEP] send image [SEP] send image <\s> 
+<deep breath> turn twenty five degrees right [SEP] turn right 25 degrees [SEP] turn right twenty five degrees <\s> 
+robot take a picture [SEP] send image [SEP] send image <\s> 
+robot turn forty five degrees <pause> northeast [SEP] none [SEP] turn right forty five degrees <\s> 
+turn to the right forty five degrees [SEP] none [SEP] turn right forty five degrees  <\s> 
+go through doorway in front [SEP] move forward to doorway in front of you directly [SEP] move forward to doorway in front of you directly <\s> 
+<pause> turn left [SEP] none [SEP] how far should i turn to the left?  <beep> <\s> 
+rotate one hundred and eighty degrees [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+back up one foot [SEP] move back 1 foot [SEP] move back one foot <\s> 
+go through the doorway on your left [SEP] move forward to doorway on left [SEP] move forward to doorway on the left <\s> 
+and face south [SEP] turn to face South [SEP] turn to face south <\s> 
+move forward into the next room [SEP] move into room [SEP] move forward to next space <\s> 
+can you take a photo [SEP] send image [SEP] send image <\s> 
+move forward until parallel with alley door three [SEP] none [SEP] move forward until parallel with alley door three  <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+move to the room to your left do not take pictures after new movements turn to your left ninety degrees [SEP] none [SEP] turn left ninety degrees <\s> 
+move forward until parallel with dark room   conference room doorway [SEP] none [SEP] move forward until parallel with dark room   conference room doorway  <\s> 
+robot move forward one foot [SEP] move forward 1 foot [SEP] move forward one foot <\s> 
+turn left one hundred and eighty [SEP] turn left 180 [SEP] turn left one hundred and eighty  <\s> 
+send photo [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+could you take a photo shot of where you are [SEP] send image [SEP] send image <\s> 
+<pause> turn left uhh <pause> forty five degrees [SEP] turn left 45 degrees [SEP] turn left forty five degrees <\s> 
+rotate left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn right twenty degrees [SEP] turn right 20 degrees [SEP] turn right twenty degrees <\s> 
+turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+to the left ninety degrees [SEP] none [SEP] turn left ninety degrees <\s> 
+go forward two feet [SEP] move forward 2 feet [SEP] move forward two feet <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+<pause> turn ninety degrees to the left [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+turn <pause> right [SEP] none [SEP] how far should i turn to the right?  <beep> <\s> 
+robot take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+can you move <long pause> two feet forward [SEP] move forward 2 feet [SEP] move forward two feet <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+rotate three hundred and sixty degrees to your left taking a picture every forty [SEP] rotate 360 degrees right, image every 30 [SEP] do the following eight times: turn left forty five degrees; send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+go east three feet [SEP] turn to face East; move forward 3 feet [SEP] turn to face east; move forward three feet <\s> 
+<pause> can you move forward towards the orange object [SEP] How much closer should I get? <beep> [SEP] how much closer should i get?  <beep> <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+<pause> turn around a hundred and eighty degrees [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+robot face south [SEP] turn to face South [SEP] turn to face south <\s> 
+turn ninety degrees to your left [SEP] none [SEP] turn left ninety degrees <\s> 
+move to dark room plant [SEP] none [SEP] move to dark room plant  <\s> 
+<pause>turn ninety degrees right [SEP] none [SEP] turn right ninety degrees <\s> 
+turn south thirty degrees [SEP] I'm not sure what you mean by turn south 30 degrees. Should I turn further to the south by 30 degrees? <beep> [SEP] i'm not sure what you mean by turn south thirty degrees.  should i turn further to the south by thirty degrees? <\s> 
+can you do a thirty degree angle to your right [SEP] turn right 30 degrees [SEP] turn right thirty degrees <\s> 
+<pause> robot take a picture [SEP] send image [SEP] send image <\s> 
+can you turn a ten degree angle to your right [SEP] turn right 10 degrees [SEP] turn right ten degrees <\s> 
+turn to face office   hall doorway [SEP] none [SEP] turn to face office   hall doorway  <\s> 
+move to rake [SEP] move to rake [SEP] move to rake  <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+<pause> then turn west [SEP] turn to face West [SEP] turn to face west <\s> 
+move to water jug [SEP] move to water jug [SEP] move to water jug  <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+back up one foot and take a picture okay [SEP] move back 1 foot, send image [SEP] move back one foot <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+move to conf room   hall doorway [SEP] none [SEP] move to conf room   hall doorway  <\s> 
+ninety degrees [SEP] turn left 90 degrees [SEP] can you repeat that?  <beep> <\s> 
+turn left sixty degrees [SEP] turn left 60 degrees [SEP] turn left sixty degrees <\s> 
+move forward until parallel with stairwell   hall doorway [SEP] none [SEP] move forward until parallel with stairwell   hall doorway  <\s> 
+turn ninety degrees to the right [SEP] turn right 90 degrees [SEP] turn right ninety degrees <\s> 
+<pause> turn right ninety degrees [SEP] none [SEP] turn right ninety degrees <\s> 
+do you detect any threats [SEP] I think that you are better at understanding a threat than I am. I can help you find evidence if you guide me. [SEP] i think that you are better at understanding a threat than i am.  i can help you find evidence if you guide me. <\s> 
+and tas take a picture [SEP] send image [SEP] send image <\s> 
+turn around a hundred and eighty degrees [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+how many doors have you seen [SEP] I think you are more familiar with doors than I am. [SEP] i think you are more familiar with doors than i am. <\s> 
+move to cleaning room   hall doorway [SEP] none [SEP] move to cleaning room   hall doorway  <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn right ten degrees [SEP] turn right 10 degrees [SEP] turn right ten degrees <\s> 
+and travel three feet [SEP] move forward 3 feet [SEP] move forward three feet <\s> 
+move through the doorway [SEP] move into room [SEP] the one directly ahead of me?  <beep> <\s> 
+move forward three feet [SEP] move forward 3 feet [SEP] move forward three feet <\s> 
+turn right one hundred degrees [SEP] turn right 100 degrees [SEP] turn right one hundred degrees <\s> 
+and rotate ninety degrees right [SEP] turn right 90 degrees [SEP] turn right ninety degrees <\s> 
+take a photo [SEP] send image [SEP] send image <\s> 
+<pause> turn around and face the door that you just came into [SEP] turn 180; face the door [SEP] turn one hundred and eighty; move to door <\s> 
+send photo [SEP] send image [SEP] send image <\s> 
+<pause> robot turn to your right forty five degrees [SEP] none [SEP] turn right forty five degrees <\s> 
+move to door on left [SEP] move to door on left [SEP] move to door on left <\s> 
+move to sneakers [SEP] move to sneakers [SEP] move to sneakers  <\s> 
+move to broom [SEP] move to broom [SEP] move to broom  <\s> 
+and send me a picture of the hallway [SEP] none [SEP] send image <\s> 
+rotate right <long pause> forty five degrees [SEP] turn right 45 degrees [SEP] turn right forty five degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move forward one foot [SEP] move forward 1 foot [SEP] move forward one foot <\s> 
+stop there [SEP] stop [SEP] stop <\s> 
+to the right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees  <\s> 
+and turn a hundred and eighty degrees after that [SEP] turn right 180 [SEP] turn right one hundred and eighty <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and turn right ten degrees [SEP] turn right 10 degrees [SEP] turn right ten degrees <\s> 
+move to crate with cleaning supplies [SEP] move to crate with cleaning supplies [SEP] move to crate with cleaning supplies  <\s> 
+robot take a picture [SEP] send image [SEP] send image <\s> 
+move to cement block [SEP] move to cement block [SEP] move to cement block  <\s> 
+turn fff twenty degrees to your left [SEP] turn left 20 degrees [SEP] turn left twenty degrees <\s> 
+travel two feet [SEP] move forward 2 feet [SEP] move forward two feet <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+can you move back five more steps <pause> ff five feet backwards [SEP] none [SEP] move back five feet <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+and turn right [SEP] none [SEP] how far should i turn right? <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+send photo [SEP] send image [SEP] send image <\s> 
+turn left ten degrees [SEP] turn left 10 degrees [SEP] turn left ten degrees <\s> 
+move forward fifteen feet [SEP] move forward 15ft [SEP] move forward fifteen feet  <\s> 
+robot turn forty five degrees to your <pause> right [SEP] turn right 45 degrees [SEP] turn right forty five degrees <\s> 
+robot take a picture [SEP] send image [SEP] send image <\s> 
+move halfway down alley [SEP] move halfway down alley [SEP] move halfway down alley  <\s> 
+back up two feet [SEP] move back 2 feet [SEP] move back two feet <\s> 
+face the door we just left [SEP] turn to face doorway of the room you just left [SEP] turn to face doorway of the room you just left <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and face <pause> east [SEP] turn to face East [SEP] turn to face east <\s> 
+turn left to look down the hallway [SEP] turn to face the left end of the hallway [SEP] turn to face the left end of the hallway <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+are you able to move that orange cone in front of you [SEP] No, I'm not able to manipulate objects. [SEP] no <\s> i'm not able to manipulate objects. <\s> 
+<pause> move two more feet [SEP] move forward 2 feet [SEP] move forward two feet <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn left forty five degrees [SEP] turn left 45 degrees [SEP] turn left forty five degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn to the right one foot [SEP] I don't know what you mean by turn right two feet. Do you want me to move to face something? <beep> [SEP] i'm not sure how to turn to the right one foot.  you can tell me to turn to face something or about how many degrees i should turn. <\s> 
+kitchen hallway [SEP] none [SEP] kitchen hallway  <\s> 
+<sigh> turn twenty degrees left [SEP] turn left 20 degrees [SEP] turn left twenty degrees <\s> 
+move forward three feet [SEP] move forward 3 feet [SEP] move forward three feet <\s> 
+turn left two feet [SEP] I don't know what you mean by turn right two feet. Do you want me to move to face something? <beep> [SEP] i don't know what you mean by turn left two feet.  do you want me to move to face something? <\s> 
+move to construction room shovel [SEP] none [SEP] move to construction room shovel  <\s> 
+<pause> and face south [SEP] turn to face South [SEP] turn to face south <\s> 
+face <pause> south [SEP] none [SEP] turn to face south <\s> 
+back up four feet [SEP] none [SEP] i move back four feet <\s> 
+how many shovels do you see [SEP] Can you describe it another way, using its color, size, or position? <beep> [SEP] can you describe it another way <\s> using its color <\s> size <\s> or position?  <beep> <\s> 
+can take another photo [SEP] send image [SEP] send image <\s> 
+move forward until parallel with tv   hall doorway [SEP] none [SEP] move forward until parallel with tv   hall doorway  <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+back up five feet [SEP] move back 5ft [SEP] move back five feet <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+rotate left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+<pause> robot go forward five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+can you start from the beginning [SEP] return to starting point [SEP] return to starting point <\s> 
+<long pause> <sigh> turn fifteen degrees to your right> [SEP] turn right 15 degrees [SEP] turn right fifteen degrees <\s> 
+turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+turn around one hundred and eighty degrees [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+robot turn a hundred eighty degrees [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+can you do a five degree <pause> turn to the right [SEP] turn right 5 degrees [SEP] turn right five degrees <\s> 
+send a picture [SEP] none [SEP] send image <\s> 
+send photo [SEP] send image [SEP] send image <\s> 
+turn around [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+go to nearest doorway [SEP] move to nearest doorway [SEP] move to nearest doorway <\s> 
+can you take a photo of where you are [SEP] send image [SEP] send image <\s> 
+move forward six feet [SEP] move forward 6 [SEP] i move forward six feet <\s> 
+turn around and go back the opposite direction [SEP] turn 180 degrees [SEP] turn one hundred and eighty <\s> 
+change of command turn back around and go <laughter> <pause> back down the end of the hallway [SEP] none [SEP] move to other end of hallway <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+move forward to red pail [SEP] move to red bucket [SEP] move to red bucket <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+send a picture [SEP] none [SEP] send image <\s> 
+mkay turn left forty five degrees [SEP] turn left 45 degrees [SEP] turn left forty five degrees <\s> 
+send photo [SEP] send image [SEP] send image <\s> 
+rotate three hundred and sixty degrees right, image every thirty [SEP] rotate 360 degrees right, image every 30 [SEP] rotate three hundred and sixty degrees right <\s> image every thirty <\s> 
+go forward ten feet [SEP] move forward 10ft [SEP] move forward ten feet <\s> 
+<pause> robot take a picture [SEP] send image [SEP] send image <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+move forward five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+turn left uhh <pause> forty five degrees [SEP] turn left 45 degrees [SEP] turn left forty five degrees <\s> 
+okay turn left forty five degrees [SEP] turn left 45 degrees [SEP] turn left forty five degrees <\s> 
+robot take a picture [SEP] send image [SEP] send image <\s> 
+move forward uh twenty feet [SEP] move forward 20 [SEP] move forward twenty feet <\s> 
+turn forty five degrees left [SEP] none [SEP] turn left forty five degrees <\s> 
+turn to your left a hundred and seventy degrees [SEP] turn left 170 degrees [SEP] turn left one hundred and seventy degrees <\s> 
+move into shoe start room [SEP] none [SEP] move into shoe start room  <\s> 
+move to alley cone [SEP] none [SEP] move to alley cone  <\s> 
+to the left fourty [SEP] turn left 40 degrees [SEP] turn left thirty five degrees <\s> 
+move down the hall five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+robot take a picture <unintelligible whisper> [SEP] send image [SEP] send image <\s> 
+robot turn forty five degrees [SEP] turn left 45 degrees [SEP] which direction should i turn?  <beep> <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+travel three feet [SEP] move forward 3 feet [SEP] move forward three feet <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+pivot left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+<pause> turn right fifteen degrees [SEP] turn right 15 degrees [SEP] turn right fifteen degrees <\s> 
+move to shoe start    tv doorway [SEP] none [SEP] move to shoe start    tv doorway  <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move to sign for conference room [SEP] none [SEP] move to sign for conference room  <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and move forward five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move forward five feet [SEP] move forward 5 feet [SEP] move forward five feet <\s> 
+<pause> turn ten degrees right [SEP] turn right 10 degrees [SEP] turn right ten degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+can you do a twenty degree angle to your right [SEP] turn right 20 degrees [SEP] turn right twenty degrees <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+face north [SEP] turn to face North [SEP] turn to face north <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+send photo [SEP] send image [SEP] send image <\s> 
+<laughter> send photo [SEP] send image [SEP] send image <\s> 
+and go north [SEP] How far forward should I go? <beep> [SEP] how far forward should i go?  <beep> <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+<pause> turn east ninety degrees [SEP] none [SEP] turn left ninety degrees <\s> 
+move forward two feet [SEP] move forward 2 feet [SEP] move forward two feet <\s> 
+move forward seven feet [SEP] move forward 7 [SEP] move forward seven feet <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move forward until parallel with closed foyer door [SEP] none [SEP] move forward until parallel with closed foyer door  <\s> 
+turn left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+robot take a picture [SEP] send image [SEP] send image <\s> 
+send photo [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move forward two feet [SEP] move forward 2 feet [SEP] move forward two feet <\s> 
+rotate three hundred and sixty degrees right, image every forty five [SEP] rotate 360 degrees right, image every 45 [SEP] rotate three hundred and sixty degrees right <\s> image every forty five <\s> 
+move closer to the table three feet [SEP] move 3 feet towards table [SEP] move three feet towards table <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+move forward one foot [SEP] move forward 1 foot [SEP] move forward one foot <\s> 
+turn a hundred and eighty degrees to the right [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+move to door on right [SEP] move to door on right [SEP] move to door on right <\s> 
+robot move forward one foot [SEP] move forward 1 foot [SEP] move forward one foot <\s> 
+can you turn twenty degrees to your right [SEP] turn right 20 degrees [SEP] turn right twenty degrees <\s> 
+robot turn forty five degrees left [SEP] turn left 45 degrees [SEP] turn left forty five degrees <\s> 
+send me a photo [SEP] send image [SEP] send image <\s> 
+move to first cone [SEP] I'm not sure which object you are referring to. Can you describe it in another way, using color or its location? <beep> [SEP] i'm not sure which object you are referring to.  can you describe it another way <\s> using color or its location? <\s> 
+turn left uh <pause> thirty five degrees [SEP] turn right 35 degrees [SEP] turn left thirty five degrees <\s> 
+robot send a picture [SEP] send image [SEP] send image <\s> 
+move to right chair one [SEP] none [SEP] move to right chair one  <\s> 
+turn right twenty degrees [SEP] turn right 20 degrees [SEP] turn right twenty degrees <\s> 
+<pause> turn <small pause> ninety degrees <pause> left [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+go north three feet [SEP] turn to face North; move forward 3 feet [SEP] turn to face north; move forward three feet <\s> 
+turn right ninety degrees [SEP] turn right 90 degrees [SEP] turn right ninety degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn right uhhh <pause>sixty five degrees [SEP] turn right 65 degrees [SEP] turn right sixty five degrees <\s> 
+move forward <pause> uhhh <pause> and slightly right ten feet [SEP] move forward 10ft [SEP] move forward ten feet <\s> 
+move to construction room cone [SEP] none [SEP] move to construction room cone  <\s> 
+can you take a photo [SEP] send image [SEP] send image <\s> 
+move forward <pause> two feet [SEP] move forward 2 feet [SEP] move forward two feet <\s> 
+can you move forward <pause, tapping> two <long pause> two feet <pause> towards the door [SEP] move forward 2 feet [SEP] move forward two feet <\s> 
+turn right fifteen degrees [SEP] turn right 15 degrees [SEP] turn right fifteen degrees <\s> 
+move forward three feet [SEP] move forward 3 feet [SEP] move forward three feet  <\s> 
+can you turn at least <pause> five and a half degrees to your left [SEP] turn left 5.5 degrees [SEP] turn left five.five degrees <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+do you see <pause> any <pause> square containers [SEP] I'm not sure. [SEP] i'm not sure. <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+go to the first orange cone on your right [SEP] move to first orange cone on right [SEP] move to first orange cone on right <\s> 
+stop [SEP] stop [SEP] stop <\s> 
+rotate right ninety degrees taking a picture every forty [SEP] rotate 90 degrees right, image every 45 [SEP] do the following two times: turn right forty five degrees; send image <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+robot face <pause> southwest [SEP] turn to face South West [SEP] turn to face southwest <\s> 
+<notification sound> <pause> travel straight down the hallway four feet [SEP] move forward 4 feet [SEP] move forward four feet <\s> 
+turn right forty five degrees [SEP] turn right 45 degrees [SEP] turn right forty five degrees <\s> 
+pivot three hundred and sixty degrees to your right taking a picture every forty [SEP] rotate 360 degrees right, image every 30 [SEP] do the following eight times: turn left forty five degrees; send image <\s> 
+send me a picture [SEP] send image [SEP] send image <\s> 
+the material is <pause> square brown in color [SEP] none [SEP] i'm detecting wood. <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+turn around [SEP] turn 180 [SEP] turn one hundred and eighty <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+and face the doorway at the other end of the room <pause> [SEP] none [SEP] move to doorway on the right side of the room <\s> 
+turn sixty degrees right [SEP] none [SEP] turn right sixty degrees <\s> 
+move to laying shovel [SEP] none [SEP] move to laying shovel  <\s> 
+<pause> uh rotate ninety le <left> [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+go west twenty feet [SEP] turn to face West; move forward 20 feet [SEP] turn to face west; move forward twenty feet <\s> 
+move to bucket with rope [SEP] move to bucket with rope [SEP] move to bucket with rope  <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+move to left wall [SEP] move to left wall [SEP] move to left wall  <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+okay move forward ten feet [SEP] move forward 10ft [SEP] move forward ten feet <\s> 
+turn to your left ninety degrees [SEP] turn left 90 degrees [SEP] turn left ninety degrees <\s> 
+take a photo to your right [SEP] How far should I turn to the right? <beep> [SEP] how far should i turn to the right?  <beep> <\s> 
+can you send a picture [SEP] send image [SEP] send image <\s> 
+stop [SEP] stop [SEP] stop <\s> 
+<pause> face northwest [SEP] turn to face North West [SEP] turn to face northwest <\s> 
+face that door [SEP] turn to face that door [SEP] turn to face that door <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+and take a photo [SEP] send image [SEP] send image <\s> 
+<pause> turn left forty five degrees [SEP] turn left 45 degrees [SEP] turn left forty five degrees <\s> 
+and take a picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn to your right and go down the hallway go through the doorway to your right [SEP] none [SEP] move forward to doorway to your right <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+robot move forward unto until the second column [SEP] I'm unsure which object you mean. <beep> [SEP] i'm unsure which object you mean.  <beep> <\s> 
+move to cleaning room sign [SEP] none [SEP] move to cleaning room sign  <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn one hundred and eighty [SEP] turn 180 [SEP] turn one hundred and eighty  <\s> 
+send picture [SEP] send image [SEP] send image <\s> 
+take a picture [SEP] send image [SEP] send image <\s> 
+turn to face shoe start   tv doorway [SEP] none [SEP] turn to face shoe start   tv doorway  <\s> 
+and take a photo [SEP] send image [SEP] send image <\s> 
+move down the hallway to your left <pause> ffff twenty feet [SEP] move to hall to the left; move forward 20 feet [SEP] move to hall to the left; move forward twenty feet <\s> 
+turn right one hundred thirty five degrees [SEP] turn right 135 degrees [SEP] turn right one hundred and thirty five degrees <\s> 
+turn <pause> eighty degrees south [SEP] none [SEP] turn left eighty degrees <\s> 
+turn right thirty degrees [SEP] turn right 30 degrees [SEP] turn right thirty degrees <\s> 

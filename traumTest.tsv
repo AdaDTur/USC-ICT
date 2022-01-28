@@ -1,0 +1,184 @@
+Question	Text	ID	Domain	Type
+Calibrate	calibrate	w-task_calibrate	response	tr
+ready	I'm also ready.  <beep>	r-task_also_ready	response	reciprocal-response
+ready	participant is ready	w-task_ready	response	tr
+move forward one foot	move forward 1 foot	w-move_1foot	response	tr
+take a picture	send image	w-image	response	tr
+face north	turn to face North	w-turn_North	response	tr
+take a picture	send image	w-image	response	tr
+face <pause> west	turn to face West	w-turn_West	response	tr
+hm take picture	send image	w-image	response	tr
+face south	turn to face South	w-turn_South	response	tr
+take picture	send image	w-image	response	tr
+face south east	turn left 45 degrees	w-turn_left_45	response	tr
+take picture	send image	w-image	response	tr
+go to water jug	move to water jug	w-move_water_jug	response	tr
+face east	turn to face East	w-turn_East	response	tr
+go three feet	move forward 3 feet	w-move_3feet	response	tr
+face bucket	move to bucket with rope	w-move_bucket	response	tr
+take picture	send image	w-image	response	tr
+go to plant	move to Dark room plant	w-move_dark_room	response	tr
+turn one eighty	turn right 180	w-turn_right_180	response	tr
+take picture	send image	w-image	response	tr
+move forward one foot	move forward 1 foot	w-move_1foot	response	tr
+face north	turn to face North	w-turn_North	response	tr
+take picture	send image	w-image	response	tr
+go to dining room table	move to Conference table	w-move_table	response	tr
+rotate < extended pause> ninety degrees left	turn left 90 degrees	w-turn_left_90	response	tr
+take picture	send image	w-image	response	tr
+go to map	move to map	w-move_map	response	tr
+take picture	send image	w-image	response	tr
+rotate toward camera towards calendar	move to Conference calendar	w-move_conf_calendar	response	tr
+take picture	send image	w-image	response	tr
+center in front of calendar	move forward to front of calendar	w-move_conf_calendar	response	tr
+and take picture	send image	w-image	response	tr
+go back <pause> to table	move back towards table	w-move_table	response	tr
+face east	turn to face East	w-turn_East	response	tr
+take picture	send image	w-image	response	tr
+rotate forty five degrees <pause> right	turn right 45 degrees	w-turn_right_45	response	tr
+head forward	How far should I move forward? <beep>	r-clarify_distance_forward_move	response	req-clar
+ten feet	move forward 10	w-move_10feet	response	tr
+face south	turn to face South	w-turn_South	response	tr
+go three feet	move forward 3 feet	w-move_3feet	response	tr
+face east	turn to face East	w-turn_East	response	tr
+take picture	send image	w-image	response	tr
+face south	turn to face South	w-turn_South	response	tr
+go forward to nearest doorwell	move to Dark room - hall doorway	w-move_dark_hall_door	response	tr
+go west<pause> five feet	turn to face West then � move forward 5 feet	w-turn_West; w-move_5feet	response	tr
+face south	turn to face South	w-turn_South	response	tr
+take picture	send image	w-image	response	tr
+go towards poster on left	move to Budapest poster	w-move_Budapest_poster	response	tr
+take picture	send image	w-image	response	tr
+go back to prior position	Can you rephrase that?  <beep>	r-request_rephrase	response	req-clar
+face uh southwest	turn right 90 degrees	w-turn_right_90	response	tr
+take picture	send image	w-image	response	tr
+go to fire hydrant or not fire hydrant uh go to fire extinguisher	move into Shoe Start room	w-move_shoe_start_room	response	tr
+face <pause> east	turn to face East	w-turn_East	response	tr
+take picture	send image	w-image	response	tr
+face west	turn to face West	w-turn_West	response	tr
+take picture	send image	w-image	response	tr
+stop two feet before shovel	move to Shoe Start room shovel	w-move_shoe_start_shovel	response	tr
+face north	turn to face North	w-turn_North	response	tr
+take picture	send image	w-image	response	tr
+go two feet north	move forward 2 feet	w-move_2feet	response	tr
+go one foot north	move forward 1 foot	w-move_1foot	response	tr
+face west	turn to face West	w-turn_West	response	tr
+take picture	send image	w-image	response	tr
+go to nearest <pause> doorwell	move into Kitchen	w-move_kitchen	response	tr
+(calibrate)	calibrate	w-task_calibrate	response	tr
+i'm ready	participant is ready	w-task_ready	response	tr
+take a picture looking forward	send image	w-image	response	tr
+rotate to the right <pause> fifteen degrees	turn right 15 degrees	w-turn_right_degrees (15)	response	tr
+then take a photo	send image	w-image	response	tr
+rotate to the left ninety degrees	turn right 90 degrees	w-turn_right_90	response	tr
+and take a photo	send image	w-image	response	tr
+rotate a hundred and eighty degrees	turn 180	w-turn_right_180	response	tr
+and take a photo	send image	w-image	response	tr
+move to the east four feet	turn to face East then. . . move forward 4	w-turn_East; w-move_forward_distance (4 feet)	response	tr
+rotate <pause> one hundred degrees to the left	turn left 100 degrees	w-turn_left_degrees (100)	response	tr
+um take a photo	send image	w-image	response	tr
+rotate forty five grees<disfl> degrees to the right	turn right 45 degrees	w-turn_right_45	response	tr
+and take a photo	send image	w-image	response	tr
+and move to the east five feet	turn to face East then. . . move forward 5 feet	w-turn_East; w-move_5feet	response	tr
+rotate to the left forty five degrees	turn left 45 degrees	w-turn_left_45	response	tr
+and take a photo	send image	w-image	response	tr
+take a photo of the east wall	send image of east wall	w-image	response	tr
+rotate to the left ninety degrees	turn left 90 degrees	w-turn_left_90	response	tr
+and take a photo	send image	w-image	response	tr
+move forward as far as you can	move to cement block	w-move_cement_block	response	tr
+take a photo	send image	w-image	response	tr
+take a photo of looking west	turn to face West then. . . send image	w-turn_West; w-image	response	tr
+take a photo looking south	turn to face South then. . . send image	w-turn_South; w-image	response	tr
+move forward five feet	move forward 5 feet	w-move_5feet	response	tr
+take a photo	send image	w-image	response	tr
+take a picture looking east	turn to face East then. . . send image	w-turn_East; w-image	response	tr
+proceed forward ten feet	move forward 10 feet	w-move_10feet	response	tr
+take a photo	send image	w-image	response	tr
+take a photo looking south	turn to face South then. . . send image	w-turn_South; w-image	response	tr
+rotate to the left ninety degrees	turn left 90 degrees	w-turn_left_90	response	tr
+move forward two feet	move forward 2 feet	w-move_2feet	response	tr
+take a picture of the north wall	turn to face North then. . . send image	w-turn_North; w-image	response	tr
+move <pause> west <pause> fifteen feet	turn to face West then. . . move forward 15	w-turn_West; w-move_forward_distance (15 feet)	response	tr
+take a photo	send image	w-image	response	tr
+move move <pause> forward through doorway	move into Cleaning room	w-move_cleaning_room	response	tr
+take a photo	send image	w-image	response	tr
+take a photo looking south	turn to face South then. . . send image	w-turn_South; w-image	response	tr
+move forward <pause> five feet	move forward 5 feet	w-move_5feet	response	tr
+turn right <pause> forty five degrees	turn right 45 degrees	w-turn_right_45	response	tr
+move forward as far as you can	move forward to as far as can	w-move_forward_target (wall)	response	tr
+rotate <pause> forty degrees <pause> to your left	turn left 40 degrees	w-turn_left_degrees (40)	response	tr
+and take a photo	send image	w-image	response	tr
+move forward <pause> two feet	move forward 2 feet	w-move_2feet	response	tr
+move forward two feet	move forward 2 feet	w-move_2feet	response	tr
+take a picture towards looking  uh east	turn to face East then. . . send image	w-turn_East; w-image	response	tr
+move south <pause> east <pause> er four feet	turn right 45 degrees then. . . move forward 4	w-turn_right_45; w-move_forward_distance (4 feet)	response	tr
+take a photo	send image	w-image	response	tr
+move east through doorway<disfl> doorway	move into Office hallway	w-move_office_hall	response	tr
+take a photo	send image	w-image	response	tr
+take a photo of looking south	turn to face South then. . . send image	w-turn_South; w-image	response	tr
+take a photo looking north	turn to face North send image	w-turn_North; w-image	response	tr
+rotate uh forty five degrees no ninety degrees <pause> to the right	turn right 90 degrees	w-turn_right_90	response	tr
+take a photo	send image	w-image	response	tr
+proceed through opening <pause> to the east	move halfway down Kitchen hallway stop	w-move_kitchen_hall_half; w-stop	response	tr
+take a photo	send image	w-image	response	tr
+(calibrate)	calibrate	w-task_calibrate	response	tr
+I'm ready	participant is ready	w-task_ready	response	tr
+i'm looking for doors can you help me	I need your help to find doors. You can tell me to move a certain distance or to move to an object.  <beep> You can tell me to turn a number of degrees or to face something.  <beep>	r-request_help (find doors); r-describe_capability_move; r-describe_capability_turn	response	answer
+can you face the north wall	turn to face North	w-turn_North	response	tr
+can i see what you're seeing	send image	w-image	response	tr
+can you turn a little bit to your right	How much is a little bit?  <beep>	r-clarify_much_little_bit	response	req-clar
+twenty degrees	turn right 20 degrees	w-turn_right_degrees (20)	response	tr
+can i see what you're seeing	send image	w-image	response	tr
+just take a picture of that	Would you like me to move to take a good picture?  <beep>	r-describe_plan_good_picture	response	req-clar
+can you move now twenty degrees more to the right	turn right 20 degrees	w-turn_right_degrees (20)	response	tr
+can i see what you're seeing	send image	w-image	response	tr
+please move forward um five feet	move forward 5 feet	w-move_5feet	response	tr
+and can i see what you're seeing	send image	w-image	response	tr
+please turn forty five degrees i'm sorry turn forty five degrees to your right	turn right 45 degrees	w-turn_right_45	response	tr
+please move another forty five degrees to your right	turn right 45 degrees	w-turn_right_45	response	tr
+and can i see what you're looking at	send image	w-image	response	tr
+move to your left <pause> fifteen degrees	turn left 15 degrees	w-turn_left_degrees (15)	response	tr
+and give me a visual	send image	w-image	response	tr
+please take a picture	send image	w-image	response	tr
+could you move <pause> twenty five degrees to your right please	turn right 25 degrees	w-turn_right_degrees (25)	response	tr
+and give me a visual	send image	w-image	response	tr
+please turn another twenty five degrees to your right	turn right 25 degrees	w-turn_right_degrees (25)	response	tr
+and give me a visual	send image	w-image	response	tr
+ten degrees to your right	turn right 10 degrees	w-turn_right_degrees (10)	response	tr
+and a visual	send image	w-image	response	tr
+please move ten degrees to your right	turn right 10 degrees	w-turn_right_degrees (10)	response	tr
+and take another photo	send image	w-image	response	tr
+and you took a photo correct	yes	w-yes	response	answer
+please move fifteen degrees to your right	turn right 15 degrees	w-turn_right_degrees (15)	response	tr
+and take another ph<disfl> and uh let me see what you see	send image	w-image	response	tr
+please move forward <pause> umm fff <pause> three feet	move forward 3 feet	w-move_3feet	response	tr
+rotate to your right <pause> ten degrees	turn right 10 degrees	w-turn_right_degrees (10)	response	tr
+and let me see what you're seeing	send image	w-image	response	tr
+rotate <pause> twenty five degrees to your right	turn right 25 degrees	w-turn_right_degrees (25)	response	tr
+and give me a visual	send image	w-image	response	tr
+please move <pause> twenty degrees to your right	turn right 20 degrees	w-turn_right_degrees (20)	response	tr
+and give me a visual	send image	w-image	response	tr
+five degrees more to your right	turn right 5 degrees	w-turn_right_degrees (5)	response	tr
+and  <pause> give me a visual and take a photo	send image	w-image	response	tr
+fifteen degrees to your right	turn right 15 degrees	w-turn_right_degrees (15)	response	tr
+and give me a visual	send image	w-image	response	tr
+thirty degrees to your right and can you keep the camera on so i can see without having to ask each time	Our connection is too slow for me to send video data.  <beep>	r-describe_capability_video	response	answer
+please move twenty <pause>five degrees to your right	turn right 25 degrees	w-turn_right_degrees (25)	response	tr
+please show me what you can see	send image	w-image	response	tr
+could you give me <disfl> could you turn to your right uhhh hmmm <pause> fifty degrees	turn right 50 degrees	w-turn_right_degrees (50)	response	tr
+please send me a visual	send image	w-image	response	tr
+please turn forty five degrees to your right	turn right 45 degrees	w-turn_right_45	response	tr
+move five deg <disfl> five feet forward	move forward 5 feet	w-move_5feet	response	tr
+ten degrees to your right	turn right 10 degrees	w-turn_right_degrees (10)	response	tr
+and move five feet forward	move forward 5 feet	w-move_5feet	response	tr
+please give me a visual	send image	w-image	response	tr
+turn five degrees to your right	turn right 5 degrees	w-turn_right_degrees (5)	response	tr
+and move forward <pause> eight feet	move forward 8ft	w-move_forward_distance (8 feet)	response	tr
+please send me a visual	send image	w-image	response	tr
+mhm move five feet forward	move forward 5 feet	w-move_5feet	response	tr
+five degrees to your left	turn left 5 degrees	w-turn_left_degrees (5)	response	tr
+and move five feet forward	move forward 5 feet	w-move_5feet	response	tr
+move three feet forward	move forward 3 feet	w-move_3feet	response	tr
+and <pause>fifteen degrees <pause>turn turn to your left	turn left 15 degrees	w-turn_left_degrees (15)	response	tr
+and give me a visual	send image	w-image	response	tr
+turn fifteen degrees to your left	turn left 15 degrees	w-turn_left_degrees (15)	response	tr

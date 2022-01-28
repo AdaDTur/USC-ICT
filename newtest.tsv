@@ -1,0 +1,400 @@
+Question	Text	ID	Domain	Type
+and send me a photo of the hallway	send image	w-image	response	tr
+take a picture	send image	w-image	response	tr
+take a picture	send image	w-image	response	tr
+ can you do ano <another> turn another ten degree angle to your right	turn right 10 degrees	w-turn_right_degrees (10)	response	tr
+take picture	send image	w-image	response	tr
+<pause>turn ninety degrees right	turn right 90 degrees	w-turn_right_90	response	tr
+take a picture	send image	w-image	response	tr
+can you take a photo	send image	w-image	response	tr
+"rotate 90 degrees left, image every 45"	"rotate 90 degrees left, image every 45"	w-repeat_command_iteration(2:  w-rotate_left_45; w-image)	response	tr
+and take a picture	send image	w-image	response	tr
+ and face south	turn to face South	w-turn_South	response	tr
+<pause> turn forty five degrees right	turn right 45 degrees	w-turn_right_45	response	tr
+turn right 90 degrees 	turn right 90 degrees 	w-turn_right_90	response	tr
+take a picture	send image	w-image	response	tr
+send photo	send image	w-image	response	tr
+take a picture	send image	w-image	response	tr
+move forward five feet	move forward 5 feet	w-move_5feet	response	tr
+ rotate right ninety degrees	turn right 90 degrees 	w-turn_right_90	response	tr
+take a photo	send image	w-image	response	tr
+take a picture	send image	w-image	response	tr
+robot move forward one foot	move forward 1 foot	w-move_1foot	response	tr
+move forward one foot	move forward 1 foot	w-move_1foot	response	tr
+and rotate ninety degrees right	turn right 90 degrees	w-turn_right_90	response	tr
+turn left ninety degrees	turn left 90 degrees	w-turn_left_90	response	tr
+uh move um five feet	move forward 5 feet	w-move_5feet	response	tr
+ make a right <pause> well about three feet and a quick left	How far should I turn to the right?	r-clarify_turn_right	response	req-clar
+move to stop sign 	move to stop sign 	w-move_stop_sign	response	tr
+take a picture	send image	w-image	response	tr
+turn right uhhh <pause>sixty five degrees	turn right 65 degrees	w-turn_right_degrees (65)	response	tr
+ and take a photo	send image	w-image	response	tr
+go in to the door on your left	move to doorway on the left	"w-move_target (""doorway on the left""); "	response	tr
+send picture	send image	w-image	response	tr
+then take a photo	send image	w-image	response	tr
+take a photo	send image	w-image	response	tr
+turn right forty five degrees	turn right 45 degrees	w-turn_right_45	response	tr
+take a picture	send image	w-image	response	tr
+rotate left ninety degrees	turn left 90 degrees	w-turn_left_90	response	tr
+move to far-right chair 	move to far-right chair 	w-move_right_chair	response	tr
+take a picture	send image	w-image	response	tr
+and take a picture	send image	w-image	response	tr
+ move forward three feet	move forward 3 feet	w-move_3feet	response	tr
+turn right ninety degrees	turn right 90 degrees	w-turn_right_90	response	tr
+<pause> robot turn <pause> a hundred and eighty degrees <pause> to your left	turn left 180	w-turn_left_180	response	tr
+and take a picture of the object	send image	w-image	response	tr
+take a picture	send image	w-image	response	tr
+please turn another twenty five degrees to your right	turn right 25 degrees	w-turn_right_degrees (25)	response	tr
+are you calibrated to detect shoes	No.  I need your help to find shoes.	"r-feedback_no; r-request_help (""find shoes"")"	response	answer
+go through the doorway on your left	move forward to doorway on the left	"w-move_forward_target (""doorway on the left"")"	response	tr
+move to nearest hallway	move to nearest hallway	"w-move_target (""nearest hallway"")"	response	tr
+turn around	turn 180	w-turn_180	response	tr
+robot stop	stop	w-stop	response	tr
+turn around	turn 180	w-turn_180	response	tr
+and take a picture	send image	w-image	response	tr
+turn ten degrees left	turn left 10 degrees	w-turn_left_degrees (10)	response	tr
+and take a picture	send image	w-image	response	tr
+take picture	send image	w-image	response	tr
+go forward five feet	move forward 5 feet	w-move_5feet	response	tr
+take a picture	send image	w-image	response	tr
+and take a picture	send image	w-image	response	tr
+take a photo	send image	w-image	response	tr
+rotate right ninety degrees	turn right 90 degrees	w-turn_right_90	response	tr
+and take a picture	send image	w-image	response	tr
+take a picture	send image	w-image	response	tr
+go through doorway in front	move forward to doorway in front of you directly	"w-move_forward_target (""doorway in front of you directly"")"	response	tr
+continue going through through the doorway	I'm not sure what you mean.  Should I move to the center of the room?	"r-clarify_where_go; r-describe_plan_ok (""I will move to the center of the room"")"	response	req-clar
+ back up four feet	I move back 4 feet	"r-moved_back_distance (""4 feet"")"	response	tr
+turn ninety degrees left	turn left 90 degrees	w-turn_left_90	response	tr
+ pivot right	turn right 10 degrees	w-turn_right_degrees (10)	response	tr
+and <pause>fifteen degrees <pause>turn turn to your left	turn left 15 degrees	w-turn_left_degrees (15)	response	tr
+rotate right ninety degrees	turn right 90 degrees	w-turn_right_90	response	tr
+ turn to your right thirty five degrees	turn right 35 degrees	w-turn_right_degrees (35)	response	tr
+robot turn left ninety degrees	turn right 90 degrees	w-turn_right_90	response	tr
+take a picture	send image	w-image	response	tr
+move forward	You can tell me to move a certain distance or to move to an object.  <beep>	r-describe_capability_move	response	ack-try
+ back up four feet	I move back 4 feet	"r-moved_back_distance (""4 feet"")"	response	tr
+"rotate 360 degrees left, image every 30"	"rotate 360 degrees left, image every 30"	w-repeat_command_iteration(12:  w-rotate_left_degrees (30); w-image)	response	tr
+send picture	send image	w-image	response	tr
+turn ninety degrees to the left	turn left 90 degrees	w-turn_left_90	response	tr
+move forward	how far should I move forward?	r-clarify_distance_forward_move	response	req-clar
+take a picture	send image	w-image	response	tr
+robot face west <pause>	turn to face West	w-turn_West	response	tr
+turn fff twenty degrees to your left	turn left 20 degrees	w-turn_left_degrees (20)	response	tr
+and take a picture	send image	w-image	response	tr
+robot move forward <pause> five feet	move forward 5 feet	w-move_5feet	response	tr
+ robot turn ninety degrees to the left	turn left 90 degrees	w-turn_left_90	response	tr
+face south east	turn left 45 degrees	w-turn_left_45	response	tr
+take a picture	send image	w-image	response	tr
+ move to where you see the first cone <pause> move to the cone on the right a red cone on the right	move forward to cone on the right	"w-move_forward_target (""cone on the right"")"	response	tr
+send picture	send image	w-image	response	tr
+and face <pause> east	turn to face East	w-turn_East	response	tr
+<pause> move forward	I'm not sure where or when to stop moving forward.  <beep>	r-clarify_unsure_distance_move	response	req-clar
+robot <pause> face north	turn to face North	w-turn_North	response	tr
+turn right thirty degrees	turn right 30 degrees	w-turn_right_degrees (30)	response	tr
+robot take a picture	send image	w-image	response	tr
+ turn left forty five degrees	turn left 45 degrees	w-turn_left_45	response	tr
+can you take a photo	send image	w-image	response	tr
+proceed through opening <pause> to the east	move halfway down Kitchen hallway stop	w-move_kitchen_hall_half; w-stop	response	tr
+robot turn left ninety degrees	turn left 90 degrees	w-turn_left_90	response	tr
+take a picture	send image	w-image	response	tr
+<pause> robot move <pause> three feet past the doorway	move forward 3 feet	w-move_3feet	response	tr
+move into Kitchen hallway 	move into Kitchen hallway 	w-move_kitchen_hall	response	tr
+ face south	turn to face South	w-turn_South	response	tr
+turn to the cone on your right	turn to face cone on right	"w-turn_target (""cone on right"")"	response	tr
+<pause> turn right forty degrees	turn right 40 degrees	w-turn_right_degrees (40)	response	tr
+can you turn at least <pause> thirty degrees <pause> to your right	turn right 30 degrees	w-turn_right_degrees (30)	response	tr
+turn left another fifteen degrees	turn left 15 degrees	w-turn_left_degrees (15)	response	tr
+take a picture	send image	w-image	response	tr
+back up one foot	move back 1 foot	w-move_back_1foot	response	tr
+<pause> take a picture	send image	w-image	response	tr
+take a picture	send image	w-image	response	tr
+turn west	turn to face West	w-turn_West	response	tr
+can you take another pic <pause> picture	send image	w-image	response	tr
+can take another photo	send image	w-image	response	tr
+robot face south	turn to face South	w-turn_South	response	tr
+turn around a hundred and eighty degrees	turn 180	w-turn_180	response	tr
+robot turn right ninety degrees	turn right 90 degrees	w-turn_right_90	response	tr
+move to Room 3 box 	move to Room 3 box 	w-move_room3_box	response	tr
+return to your starting position	return to starting point	w-return_start	response	tr
+take a picture	send image	w-image	response	tr
+take a picture	send image	w-image	response	tr
+take a picture	send image	w-image	response	tr
+take a picture	send image	w-image	response	tr
+ and take a photo <laughter>	send image	w-image	response	tr
+<pause> turn around	turn 180	w-turn_180	response	tr
+can you zoom in into that picture slash blue thing	"I can't zoom in, but I can move closer, ok?"	"r-describe_capability_zoom; r-feedback_but; r-describe_plan_ok (""Move closer"")"	response	answer
+ move to the room to your left do not take pictures after new movements turn to your left ninety degrees	turn left 90 degrees	w-turn_left_90	response	tr
+send picture	send image	w-image	response	tr
+robot take a picture <unintelligible whisper>	send image	w-image	response	tr
+can you take a picture	send image	w-image	response	tr
+take picture	send image	w-image	response	tr
+and take a photo	send image	w-image	response	tr
+<pause> fff face west	turn to face West	w-turn_West	response	tr
+take a picture	send image	w-image	response	tr
+can you t	Can you repeat that?  <beep>	r-request_repeat	response	req-repeat
+go forward two feet	move forward 2 feet	w-move_2feet	response	tr
+turn <pause> right	How far should I turn to the right?  <beep>	r-clarify_turn_right	response	req-clar
+and travel eight feet	move forward 8 feet	w-move_forward_distance (8 feet)	response	tr
+go to water jug	move to water jug	w-move_water_jug	response	tr
+ and send me a picture of the hallway	send image	w-image	response	tr
+ move forward five feet	move forward 5 feet	w-move_5feet	response	tr
+send photo	send image	w-image	response	tr
+robot turn forty five degrees to your <pause> right	turn right 45 degrees	w-turn_right_45	response	tr
+can you take a picture uh three hundred and sixty degrees except for the wall that's behind you er in front of you i mean	Would you like photos every 30 degrees?	"r-describe_plan_ok (""I will send photos every 30 degrees"")"	response	req-clar
+turn left uhh <pause> forty five degrees	turn left 45 degrees	w-turn_left_45	response	tr
+turn left ninety degrees	turn left 90 degrees	w-turn_left_90	response	tr
+ pivot left ninety degrees	turn left 90 degrees	w-turn_left_90	response	tr
+ send picture	send image	w-image	response	tr
+move forward ten feet	move forward 10 feet	w-move_10feet	response	tr
+back up to the wall behind you	move back to back wall behind you	w-move_back_wall	response	tr
+ go through the doorway on your left	move forward to doorway on the left	"w-move_forward_target (""doorway on the left"")"	response	tr
+turn left uhh thirty five degrees	turn left 35 degrees	w-turn_left_degrees (35)	response	tr
+ move forward three feet	move forward 3 feet	w-move_3feet	response	tr
+to the right ninety degrees	turn right 90 degrees 	w-turn_right_90	response	tr
+turn around a hundred and eighty degrees	turn 180	w-turn_180	response	tr
+send picture	send image	w-image	response	tr
+move forward <pause> two feet	move forward 2 feet	w-move_2feet	response	tr
+send picture	send image	w-image	response	tr
+go forward five feet	move forward 5 feet	w-move_5feet	response	tr
+ move forward two feet	move forward 2 feet	w-move_2feet	response	tr
+can i see what you're seeing	send image	w-image	response	tr
+turn left ninety degrees	turn left 90 degrees	w-turn_left_90	response	tr
+move forward until parallel with Cleaning room - hall doorway 	move forward until parallel with Cleaning room - hall doorway 	w-parallel_cleaning_hall_door	response	tr
+please move fifteen degrees to your right	turn right 15 degrees	w-turn_right_degrees (15)	response	tr
+take a picture	send image	w-image	response	tr
+ robot turn forty five <xxx unintelligible> degrees left	turn left 45 degrees	w-turn_left_45	response	tr
+face east	turn to face East	w-turn_East	response	tr
+okay can you detect any water sources near you	I think that you are better at recognizing water sources than I am.  I can help you find water sources if you guide me.	"r-describe_capability_familiarity (""recognizing water sources""); r-describe_capability_good_picture"	response	answer
+and face north	turn to face North	w-turn_North	response	tr
+move to picture of buildings 	move to picture of buildings 	w-move_building_picture	response	tr
+and take a picture	send image	w-image	response	tr
+take a picture	send image	w-image	response	tr
+move forward seven feet	move forward 7 feet	w-move_forward_distance (7 feet)	response	tr
+ turn right eighty degrees	turn right 80 degrees	w-turn_right_degrees (80)	response	tr
+stop there	stop	w-stop	response	tr
+take photo	send image	w-image	response	tr
+stop	stop	w-stop	response	tr
+<pause> robot turn to your right forty five degrees	turn right 45 degrees	w-turn_right_45	response	tr
+<pause> robot turn right ninety degrees	turn right 90 degrees	w-turn_right_90	response	tr
+rotate right <long pause> forty five degrees	turn right 45 degrees	w-turn_right_45	response	tr
+and take a picture	send image	w-image	response	tr
+turn around one hundred and eighty degrees	turn 180	w-turn_180	response	tr
+turn to the right twenty five degrees	turn right 25 degrees	w-turn_right_degrees (25)	response	tr
+turn right fifteen degrees	turn right 15 degrees	w-turn_right_degrees (15)	response	tr
+take a photo of looking south	turn to face South then. . . send image	w-turn_South; w-image	response	tr
+turn right one hundred thirty five degrees	turn right 135 degrees	w-turn_right_degrees (135)	response	tr
+take a picture	send image	w-image	response	tr
+can i see what you're seeing	send image	w-image	response	tr
+move forward three feet	move forward 3 feet	w-move_3feet	response	tr
+turn left <pause> twenty degrees	turn left 20 degrees	w-turn_left_degrees (20)	response	tr
+take a photo	send image	w-image	response	tr
+take a picture	send image	w-image	response	tr
+move to closed Foyer door 	move to closed Foyer door 	w-move_closed_foyer_door	response	tr
+ go to the room that's on your right uh there is a white door and a red sign	move forward to red sign on the white door on your right	"w-move_forward_target (""red sign on the white door on your right"")"	response	tr
+turn one hundred eighty degrees	turn 180	w-turn_180	response	tr
+turn around and go back the opposite direction	turn 180	w-turn_180	response	tr
+and a visual	send image	w-image	response	tr
+move halfway down Stairwell hallway 	move halfway down Stairwell hallway 	w-move_stairwell_hall_half	response	tr
+<pause> <sigh> turn to the left uh fifteen degrees	turn left 15 degrees	w-turn_left_degrees (15)	response	tr
+and take a picture	send image	w-image	response	tr
+take a photo	send image	w-image	response	tr
+ move forward five feet	move forward 5 feet	w-move_5feet	response	tr
+robot face east	turn to face East	w-turn_East	response	tr
+<pause> take a picture	send image	w-image	response	tr
+ rotate right ninety degrees taking a picture every forty	Do the following 2 times: turn right 45 degrees; send image	w-repeat_command_iteration(2:  w-turn_right_45; w-image)	response	tr
+take a picture	send image	w-image	response	tr
+move to laying shovel 	move to laying shovel 	w-move_laying_shovel	response	tr
+ and take a picture	send image	w-image	response	tr
+and send another pic picture	send image	w-image	response	tr
+can you move <pause> two feet towards the white door	move forward 2 feet	w-move_2feet	response	tr
+take picture	send image	w-image	response	tr
+turn right 10 degrees	turn right 10 degrees	w-turn_right_degrees (10)	response	tr
+ and go forward ten feet	move forward 10 feet	w-move_10feet	response	tr
+take a picture	send image	w-image	response	tr
+ and take a picture	send image	w-image	response	tr
+and take a picture	send image	w-image	response	tr
+take a picture	send image	w-image	response	tr
+<pause> proceed into the door to your right	move forward to door on your right	"w-move_forward_target (""door on your right"")"	response	tr
+move to Foyer - hall doorway 	move to Foyer - hall doorway 	w-move_foyer_hall_door	response	tr
+move to the end of alley 	move to the end of alley 	w-move_end_alley	response	tr
+stop	stop	w-stop	response	tr
+<pause> robot turn around	turn 180	w-turn_180	response	tr
+move to Conf room - hall doorway 	move to Conf room - hall doorway 	w-move_conf_hall_door	response	tr
+and send a picture	send image	w-image	response	tr
+move to the right side of the orange cone	move to the right side of the orange cone	"w-move_target (""the right side of the orange cone"") "	response	tr
+ move forward four feet	move forward 4 feet	w-move_forward_distance (4 feet)	response	tr
+head forward	How far should I move forward? <beep>	r-clarify_distance_forward_move	response	req-clar
+and take a picture	send image	w-image	response	tr
+ and take a photo	send image	w-image	response	tr
+can you turn at least maybe ten more degrees to your left	turn left 10 degrees	w-turn_left_degrees (10)	response	tr
+take a picture	send image	w-image	response	tr
+robot turn forty five degrees <pause> northeast	turn right 45 degrees	w-turn_right_45	response	tr
+take a picture	send image	w-image	response	tr
+take a picture	send image	w-image	response	tr
+move to first cone	"I'm not sure which object you are referring to.  Can you describe it another way, using color or its location?"	r-clarify_unsure_object_refer; r-clarify_describe_options	response	req-clar
+send photo	send image	w-image	response	tr
+Calibrate	calibrate	w-task_calibrate	response	tr
+turn right <pause> like <pause> ten degrees	turn right 10 degrees	w-turn_right_degrees (10)	response	tr
+take a picture	send image	w-image	response	tr
+and take a picture	send image	w-image	response	tr
+ go further inside the doorway to your left about <pause> four feet	move to the room; turn left 90 degrees; move forward 4 feet	"w-move_target (""the room""); w-turn_left_90; w-move_forward_distance (4 feet)"	response	tr
+and take a picture	send image	w-image	response	tr
+turn right a hundred and eighty degrees	turn right 180	w-turn_right_180	response	tr
+send photo	send image	w-image	response	tr
+do you think there's some type of container that a soldier might be able to use to move things	I think that you are better at recognizing containers than I am.  I can help you find a container if you guide me.	"r-describe_capability_familiarity (""recognizing containers""); r-describe_capability_good_picture"	response	answer
+ robot <pause> turn nine <pause> robot turn ninety degrees left	turn left 90 degrees	w-turn_left_90	response	tr
+go through doorway	move forward to doorway ahead of you	"w-move_forward_target (""doorway ahead of you"")"	response	tr
+robot take a picture	send image	w-image	response	tr
+<pause> move <pause> two feet from the wall ahead	move forward to 2 feet from wall ahead	w-move_forward_path (to 2 feet from wall ahead)	response	tr
+thirty degrees to your right	turn right 30 degrees	w-turn_right_degrees (30)	response	tr
+please show me what you can see	send image	w-image	response	tr
+go forward robot	How far forward should I go?  You can tell me to move a distance or to move to an object.  Would you like me to send a picture so you can see the space?	r-clarify_distance_forward_go ; r-describe_capability_move; r-describe_plan_like_picture	response	req-clar
+robot go forward <pause> ten feet	move forward 10 feet	w-move_10feet	response	tr
+move forward until parallel with Foyer - Kitchen doorway 	move forward until parallel with Foyer - Kitchen doorway 	w-parallel_foyer_kitchen_door	response	tr
+take a photo of looking west	turn to face West then. . . send image	w-turn_West; w-image	response	tr
+take a picture	send image	w-image	response	tr
+"rotate 360 degrees right, image every 30"	"rotate 360 degrees right, image every 30"	w-repeat_command_iteration(12:  w-rotate_right_degrees (30); w-image)	response	tr
+and<pause> turn to your left turn forty five degrees to your left	turn left 45 degrees	w-turn_left_45	response	tr
+ send picture	send image	w-image	response	tr
+ Take a picture	send image	w-image	response	tr
+move forward three feet	move forward 3 feet	w-move_3feet	response	tr
+stop	stop	w-stop	response	tr
+move south <pause> east <pause> er four feet	turn right 45 degrees then. . . move forward 4	w-turn_right_45; w-move_forward_distance (4 feet)	response	tr
+and continue to the farther wall	I'm not sure what you mean by the farther wall.  Where should I continue to?	r-clarify_unsure_wall; r-request_what_next	response	req-clar
+take a picture	send image	w-image	response	tr
+move to crocs 	move to crocs 	w-move_crocs	response	tr
+move closer to the table	About how much closer to the table should I move?	r-clarify_distance_closer	response	req-clar
+turn right ten degrees	turn right 10 degrees	w-turn_right_degrees (10)	response	tr
+take a picture	send image	w-image	response	tr
+take a photo	send image	w-image	response	tr
+take a picture	send image	w-image	response	tr
+send picture	send image	w-image	response	tr
+and take a picture	send image	w-image	response	tr
+ rotate three hundred and sixty degrees to your left taking a picture every forty	Do the following 8 times: turn left 45 degrees; send image	w-repeat_command_iteration(8:  w-turn_left_45; w-image)	response	tr
+rotate left forty degrees	turn left 40 degrees	w-turn_left_degrees (40)	response	tr
+move forward	I'm not sure where or when to stop moving forward. You can tell me to move a certain distance or to an object that you see.	r-clarify_unsure_distance_move; r-describe_capability_move	response	req-clar
+back up two p back up two feet	move back 2 feet	w-move_back_distance (2 feet)	response	tr
+take a photo	send image	w-image	response	tr
+move to bucket with rope 	move to bucket with rope 	w-move_bucket	response	tr
+and take a picture	send image	w-image	response	tr
+take a picture	send image	w-image	response	tr
+ turn left thirty degrees	turn left 30 degrees	w-turn_left_degrees (30)	response	tr
+take picture	send image	w-image	response	tr
+and take a picture	send image	w-image	response	tr
+and take a photo	send image	w-image	response	tr
+mhm move five feet forward	move forward 5 feet	w-move_5feet	response	tr
+turn northwest	turn to face Northwest	w-turn_target (northwest)	response	tr
+face west	turn to face West	w-turn_West	response	tr
+first doorway on left	move forward to first doorway on the left	"w-move_forward_target (""first doorway on the left"")"	response	tr
+move to nearest door	move to nearest door	"w-move_target (""nearest door"")"	response	tr
+move to Dark room - conference room doorway 	move to Dark room - conference room doorway 	w-move_dark_conf_door	response	tr
+ and take a picture	send image	w-image	response	tr
+robot turn forty five degrees	Which direction should I turn?  <beep>	r-clarify_turn_direction	response	req-clar
+take picture	send image	w-image	response	tr
+fifteen degrees to your right	turn right 15 degrees	w-turn_right_degrees (15)	response	tr
+how did you get to this building from last time	I'm not sure.  My history shows a starting point within the building.  Would you like me to return to the start?	"r-feedback_unsure; r-describe_plan_ok (""I will return to the start"")"	response	answer
+take photo	send image	w-image	response	tr
+ and take a photo in front and behind you	send image	w-image	response	tr
+robot take a picture	send image	w-image	response	tr
+take a picture	send image	w-image	response	tr
+sent a picture	send image	w-image	response	tr
+take a photo	send image	w-image	response	tr
+five degrees to your left	turn left 5 degrees	w-turn_left_degrees (5)	response	tr
+ move forward three feet	move forward 3 feet	w-move_3feet	response	tr
+and take a picture	send image	w-image	response	tr
+take a picture	send image	w-image	response	tr
+back up three feet	move back 3 feet	w-move_back_distance (3 feet);	response	tr
+move forward five feet	move forward 5 feet	w-move_5feet	response	tr
+send photo	send image	w-image	response	tr
+take a picture	send image	w-image	response	tr
+can you take a photo	send image	w-image	response	tr
+ send picture	send image	w-image	response	tr
+turn around and go back the opposite direction	"I can turn around and then how far should I go back the opposite direction?  You can tell me to move to any object or part of the building you can see, or a distance to move."	r-will_turn_180; r-clarify_distance_forward_go; r-describe_capability_move	response	req-clar
+rotate right ten degrees	turn right 10 degrees	w-turn_right_degrees (10)	response	tr
+move forward <pause> fifteen feet	move forward 15 feet	w-move_forward_distance (15 feet)	response	tr
+can you do a <pause> twenty degree angle to your right	turn right 20 degrees	w-turn_right_degrees (20)	response	tr
+take another photo	send image	w-image	response	tr
+ turn left forty five degrees	turn left 45 degrees	w-turn_left_45	response	tr
+take a picture	send image	w-image	response	tr
+take a photo looking south	turn to face South then. . . send image	w-turn_South; w-image	response	tr
+turn to your right <pause>	How far should I rotate right? <beep>	r-clarify_rotate_right	response	req-clar
+go back two feet	move back 2 feet	w-move_back_distance (2 feet); 	response	tr
+face <pause> south	turn to face South	w-turn_South	response	tr
+take a photo looking south	turn to face South then. . . send image	w-turn_South; w-image	response	tr
+<pause> turn right eighty degrees 	turn right 80 degrees	w-turn_right_degrees (80)	response	tr
+move to Cleaning room sign 	move to Cleaning room sign 	w-move_sign_cleaning 	response	tr
+take a picture	send image	w-image	response	tr
+take a picture	send image	w-image	response	tr
+take a picture	send image	w-image	response	tr
+move to rake 	move to rake 	w-move_rake	response	tr
+ and take a picture	send image	w-image	response	tr
+rotate right <long pause> sixty degrees	turn right 60 degrees	w-turn_right_degrees (60)	response	tr
+<pause> turn forty five degrees	turn right 45 degrees	w-turn_right_45	response	tr
+<pause> turn forty five degrees to the right	turn right 45 degrees	w-turn_right_45	response	tr
+move forward ten feet	move forward 10 feet	w-move_10feet	response	tr
+turn one eighty	turn right 180	w-turn_right_180	response	tr
+take a picture	send image	w-image	response	tr
+ go back out into the hallway	move back to hall	"w-move_back_target (""hall"")"	response	tr
+and go to your left	How far left should I go?	r-clarify_distance_direction (left)	response	req-clar
+move forward until parallel with alley Door 3 	move forward until parallel with alley Door 3 	w-parallel_alley_door3	response	tr
+<pause> leave the room and go left	How far left should I go?	r-clarify_distance_direction (left)	response	req-clar
+could you take a photo shot of where you are	send image	w-image	response	tr
+take a picture	send image	w-image	response	tr
+thirty degrees right	I couldn't hear all of that.  Should I turn 30 degrees right?	"r-describe_problem_hearing; r_describe_plan_ok (""Turn 30 degrees right"")"	response	req-clar
+robot turn to the left	I'm unsure where or when I should stop turning.  <beep>	r-clarify_unsure_should_turn	response	ack-unsure
+turn right <pause> eighty degrees	turn right 80 degrees	w-turn_right_degrees (80)	response	tr
+take a picture	send image	w-image	response	tr
+stop there	stop	w-stop	response	tr
+ go back out of the door and proceed down further down the hallway to the next door <pause> on your right	move to next doorway on your right via returning to the hall	"w-move_target (""next doorway on your right by returning to the hall"")"	response	tr
+take a picture	send image	w-image	response	tr
+move forward and stop in front of orange object	move forward to orange object; send image	"w-move_forward_target (""orange object""); w-image"	response	tr
+turn left forty five degrees	turn left 45 degrees	w-turn_left_45	response	tr
+turn left ninety degrees	turn left 90 degrees	w-turn_left_90	response	tr
+face the end of the hallway	turn to face end of hallway	"w-turn_target (""end of hallway"")"	response	tr
+move into TV room 	move into TV room 	w-move_tv_room	response	tr
+take a picture looking east	turn to face East then. . . send image	w-turn_East; w-image	response	tr
+robot take a picture	send image	w-image	response	tr
+take a picture	send image	w-image	response	tr
+send a pic picture	send image	w-image	response	tr
+Kitchen 	Kitchen 	w-kitchen	response	tr
+take a picture	send image	w-image	response	tr
+take a picture	send image	w-image	response	tr
+<pause> make a u turn	turn 180	w-turn_180	response	tr
+move forward two feet	move forward 2 feet	w-move_2feet	response	tr
+robot take a photo	send image	w-image	response	tr
+ turn left forty five <four uh five> degrees	turn left 45 degrees	w-turn_left_45	response	tr
+and you took a photo correct	yes	w-yes	response	answer
+turn southwest	turn to face southwest	w-turn_target (southwest)	response	tr
+<pause> turn <small pause> ninety degrees <pause> left	turn left 90 degrees	w-turn_left_90	response	tr
+take a picture	send image	w-image	response	tr
+move to Construction room cone 	move to Construction room cone 	w-move_cxn_cone	response	tr
+go forward ten feet	move forward 10 feet	w-move_10feet	response	tr
+and take a picture	send image	w-image	response	tr
+turn left ninety degrees	turn left 90 degrees	w-turn_left_90	response	tr
+move forward until parallel with Office - hall doorway 	move forward until parallel with Office - hall doorway 	w-parallel_office_hall_door	response	tr
+turn left	How far should I turn left?  You can tell me to turn a certain number of degrees or to face an object.	r-clarify_turn_left; r-describe_capability_turn	response	req-clar
+take a picture	send image	w-image	response	tr
+can you turn ten more degrees to your right	turn right 10 degrees	w-turn_right_degrees (10)	response	tr
+turn right <pause> twenty five degrees	turn right 25 degrees	w-turn_right_degrees (25)	response	tr
+robot take a picture	send image	w-image	response	tr
+take a picture	send image	w-image	response	tr
+robot move past the door past the cone <pause> yellow cone on your right	move forward past yellow cone	w-move_forward_path (past yellow cone)	response	tr
+ turn right ninety degrees	turn right 90 degrees 	w-turn_right_90	response	tr
+take a picture	send image	w-image	response	tr
+take a picture	send image	w-image	response	tr
+ rotate three hundred and sixty degrees to your left taking a picture every forty	Do the following 8 times: turn left 45 degrees; send image	w-repeat_command_iteration(8:  w-turn_left_45; w-image)	response	tr
+robot do you read arabic	No.  Do you?	r-feedback_no; r-request_thoughts	response	answer
+turn left <pause> ninety degrees	turn left 90 degrees	w-turn_left_90	response	tr
+ move forward <pause> five feet	move forward 5 feet	w-move_5feet	response	tr
+face east	turn to face East	w-turn_East	response	tr
+turn left ninety degrees	turn left 90 degrees	w-turn_left_90	response	tr
+ pivot left fourty	turn left 45 degrees	w-turn_left_45	response	tr
+take a picture	send image	w-image	response	tr
+robot <pause> turn right <pause> twenty degrees	turn right 20 degrees	w-turn_right_degrees (20)	response	tr
+ and take a picture	send image	w-image	response	tr
+and take a picture	send image	w-image	response	tr
+send picture	send image	w-image	response	tr
+ rotate right ninety degrees	turn right 90 degrees 	w-turn_right_90	response	tr
+go to end of hallway	move to end of hallway in front of you	"w-move_target (""end of hallway in front of you"")"	response	tr
+move forward five feet	move forward 5 feet	w-move_5feet	response	tr

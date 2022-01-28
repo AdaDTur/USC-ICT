@@ -1,0 +1,200 @@
+rotate left seventy degrees	turn left 70 degrees <\s>
+can you take another pic <pause> picture	send image <\s>
+robot turn um ninety degrees left	turn left 90 degrees <\s>
+move back to your left ninety degrees	turn left 90 degrees <\s>
+and forward four feet	move forward 4 feet <\s>
+rotate one hundred and eighty degrees	turn 180 <\s>
+move to hallway on right	move to hallway on right <\s>
+move two feet	move forward 2 feet <\s>
+can you turn ten degrees to your right	turn right 10 degrees <\s>
+move to the second doorway on the left	move to second doorway on the left <\s>
+go to end of hallway	move to the end of the hallway <\s>
+enter room directly on your right	move into room <\s>
+go forward ten feet	move forward 10ft <\s>
+can you turn around	turn 180 <\s>
+can you face can you face west	turn to face West <\s>
+rotate ninety degrees right, image every thirty	rotate 90 degrees right <\s> image every 30 <\s>
+let's move four four five feet down	move forward 5 feet <\s>
+can you move forward <pause, tapping> two <long pause> two feet <pause> towards the door	move forward 2 feet <\s>
+to your right turn thirty degrees	turn right 30 degrees <\s>
+robot turn right <pause> thirteen degrees	turn right 13 degrees <\s>
+mkay turn left forty five degrees	turn left 45 degrees <\s>
+turn east and move until you encounter a doorway	go through doorway <\s>
+and take a picuture	send image <\s>
+rotate ninety degrees	turn right 90 degrees <\s>
+robot turn forty five degrees left	turn left 45 degrees <\s>
+let's go with the one on the right	go through doorway on your right <\s>
+go through the doorway in front of you and to the right	move into room <\s>
+move directly south to the end of the hallway	move to the end of the hallway <\s>
+okay uh can you uh continue moving forward	move forward 3 feet <\s>
+turn southeast	turn to face South East <\s>
+continue to the next room on the right	move into room <\s>
+move backwards for feet and take a picture yes	move back 4 feet <\s>
+travel four feet	move forward 4 feet <\s>
+okay now take another picture	send image <\s>
+exit the doorway closest to you	go through doorway <\s>
+can you move down to um there's a small bump on the wall closest to you according to my map could you move down to that	move to plant <\s>
+okay can you move maybe fifteen degrees to your left	turn left 15 degrees <\s>
+face south and take a picture	turn to face South <\s>
+go thirty degrees to your left	turn left 30 degrees <\s>
+turn to the right and take a picture ninety degrees to the right	turn right 90 degrees <\s> send image <\s>
+and move up five feet	move forward 5 feet <\s>
+move forward into the next space	move forward to next space <\s>
+move to left wall	move to left wall <\s>
+can you do ano <another> turn another ten degree angle to your right	turn right 10 degrees <\s>
+turn three hundred and sixty degrees to the left and take a picture every ninety degrees	Do the following turn left 90 and take a pic 4 times. . . <\s>
+robot turn right 180 degrees	turn right 180 <\s>
+face south	turn to face South <\s>
+move to doorway	go through doorway <\s>
+move inside the room in front of you	move into room <\s>
+return to the beginning	return to starting point <\s>
+move through the open door to your left	go through doorway on your left <\s>
+turn due south	turn to face South <\s>
+to the right ninety degrees	turn right 90 degrees <\s>
+go forward to the nearest doorway on the right	go through doorway on your right <\s>
+<pause> uh rotate ninety le <left>	turn left 90 degrees <\s>
+go straight for two meters	move forward 2 meters <\s>
+take photo please	send image <\s>
+and then take a picture	send image <\s>
+move to bamboo	move to bamboo <\s>
+go through doorways to the left	move into room <\s>
+go open door	go through doorway <\s>
+move forward a foot	move forward 1 foot <\s>
+hm like a foot or to feet	move forward 2 feet <\s>
+turn another forty degrees to your right	turn right 40 degrees <\s>
+fifty feet	move forward 50 feet <\s>
+turn left forty five <four uh five> degrees	turn left 45 degrees <\s>
+can you move around the object in front of you and continue to move down	move into room <\s>
+can you move towards um the object positioned along the wall yes	move to ladder <\s>
+okay so move forward ten feet	move forward 10ft <\s>
+and rotate ninety degrees right	turn right 90 degrees <\s>
+move to shovel	move to shovel <\s>
+turn northeast and take a picture turn east and take a picture	turn to face North; turn right 45 degrees; send image <\s>
+move back through the doorway	move into room <\s>
+turn left <pause> twenty degrees	turn left 20 degrees <\s>
+turn to face north	turn to face North <\s>
+robot continue <pause> moving forward to the right of the red bucket	move forward to space to the right of bucket <\s>
+alright go back to your right ninety degrees	turn right 90 degrees <\s>
+and proceed forward <pause> ten feet	move forward 10ft <\s>
+can you turn north north	turn to face North <\s>
+look south	turn to face South <\s>
+robot send a picture	send image <\s>
+move closer and take a picture	send image of map <\s>
+take a picture and send it please	send image <\s>
+move forward past the plant and then keep moving until you hit something	move down alley <\s>
+turn left <pause> ninety degrees	turn left 90 degrees <\s>
+and then continue on uh west through um that doorway the about four four five feet	move into room <\s>
+uh turn west	turn to face West <\s>
+could you move through the doorway in front of you	go through doorway <\s>
+and send a pic picture	send image <\s>
+drive through the doorway	move into room <\s>
+okay i'm ready	participant is ready <\s>
+proceed through the room to your left	move into room <\s>
+back up one feet	move back 1 foot <\s>
+move forward to feet	move forward 2 feet <\s>
+go back to feet	move back 2 feet <\s>
+the one straight in front of you	move into room <\s>
+travel down the hallway <pause> six feet	move forward 6 <\s>
+can you move uh can you turn uh forty five degrees to your right	turn right 45 degrees <\s>
+uh can you keep going down the hallway five or six feet i think should do it	move forward 5 feet <\s>
+okay so to your right turn fifteen degrees	turn right 15 degrees <\s>
+move forward um five feet	move forward 5 feet <\s>
+proceed through opening <pause> to the east	move halfway down hallway stop <\s>
+navigate through the next doorway on the left	go through doorway on your left <\s>
+can you locate another doorway doorway to your left	turn to face doorway <\s>
+and then turn back north yeah just turn back north	turn to face North <\s>
+move through doorway move through nearest doorway	move into room <\s>
+move to the middle of the room	move into the center of the current room <\s>
+can you move further down from the left	move forward 5 feet <\s>
+<pause> robot take a picture	send image <\s>
+and send another pic picture	send image <\s>
+okay can you move maybe like five or ten degrees to your right	turn right 10 degrees <\s>
+turn left eighty five degrees	turn left 85 degrees <\s>
+<pause> <whisper: let's see> turn right and take a picture <pause> ninety degrees	turn right 90 degrees <\s> send image <\s>
+the doorway to your right	move to the doorway to the right <\s>
+send photo	send image <\s>
+turn thirty degrees to the left	turn left 30 degrees <\s>
+can you keep moving down till the end of what you can see yep that's good	move down alley <\s>
+robot go back to the start	return to starting point <\s>
+alright can you move forward till the end of what you can um move to	move to front wall ahead <\s>
+navigate to the room on the right please navigate to the next room to the next room on the right	move into room <\s>
+robot move forward two feet	move forward 2 feet <\s>
+do you see any shovels	send image <\s>
+robot turn ninety degrees to the left	turn left 90 degrees <\s>
+can you turn about forty five degrees uh to the right	turn right 45 degrees <\s>
+move forward <pause> three feet	move forward 3 feet <\s>
+turn right fifty degrees	turn right 50 degrees <\s>
+okay another forty five degrees to the right	turn right 45 degrees <\s>
+pivot left ninety degrees	turn left 90 degrees <\s>
+rotate to your right ten degrees	turn right 10 degrees <\s>
+can you stop now	stop <\s>
+<pause> turn south	turn to face South <\s>
+move towards the chair	move to chair <\s>
+no	no <\s>
+and take another photo	send image <\s>
+do you see a hallway on the right if you do go through the hallway	move into room <\s>
+let's make a sharp left turn	turn left 90 degrees <\s>
+rotate right thirty degrees	turn right 30 degrees <\s>
+move halfway down hallway	move halfway down hallway <\s>
+then turn to the right ninety degrees	turn right 90 degrees <\s>
+perfect move forward four feet	move forward 4 feet <\s>
+can you stop	stop <\s>
+go through nearest doorway yes	go through doorway <\s>
+turn left another fifteen degrees	turn left 15 degrees <\s>
+turn to your left a hundred and seventy degrees	turn left 170 degrees <\s>
+okay can you move back about four feet	move back 4 feet <\s>
+uh turn around turn to the east	turn to face East <\s>
+and then move uh forward three feet through that doorway	move into room <\s>
+go through the doorway forward and to your right	move into hallway on right <\s>
+okay could you move forward one or two feet and then go through the doorway to the west of you	move into room <\s>
+<pause> move forward <pause> two feet	move forward 2 feet <\s>
+now take a picture	send image <\s>
+and turn north	turn to face North <\s>
+move toward the red bucket	move to bucket with rope <\s>
+turn a hundred and eighty degrees to the right	turn right 180 <\s>
+uh recalibrate	calibrate <\s>
+uh turn ninety degrees to your left	turn left 90 degrees <\s>
+move to where you see the first cone <pause> move to the cone on the right a red cone on the right	move forward to cone on the right <\s>
+<pause> face northwest	turn to face North West <\s>
+move to shovel	move to shovel <\s>
+take a picture of the ladder	send image of the ladder <\s>
+move forward until you meet the wall	move to the end of the hallway <\s>
+move in front of the cone	move to cone <\s>
+<pause> turn right by ten degrees	turn right 10 degrees <\s>
+turn one eighty to the right	turn right 180 <\s>
+go forward for feet	move forward 4 feet <\s>
+move through an open doorway doorway to your right	move into room <\s>
+okay move forward three feet	move to box <\s>
+and show me what you see	send image <\s>
+move to door on left	move to door on left <\s>
+<pause> robot go forward five feet	move forward 5 feet <\s>
+can you go to the next doorway the one to your left the one closest to you	go through doorway on your left <\s>
+uh turn around please	turn 180 <\s>
+move to alley cone	move to cone <\s>
+move to single shoe	move to shoe <\s>
+go back to the plant	move to plant <\s>
+stop there	stop <\s>
+go ahead	go ahead <\s>
+can you um can you turn to face the opposite direction and then move out of the room	go through doorway <\s>
+exit room	go through doorway <\s>
+and make a ninety degree turn right please	turn right 90 degrees <\s>
+move forward until parallel with doorway	move forward until parallel with doorway <\s>
+to your right turn another thirty degrees	turn right 30 degrees <\s>
+rotate 90 degrees right, image every 45	rotate 90 degrees right <\s> image every 45 <\s>
+robot turn around	turn 180 <\s>
+robot return to the main hallway	move to hallway from entrance you came in <\s>
+go forward ten ten feet	move forward 10ft <\s>
+turn twenty degrees to the right	turn right 20 degrees <\s>
+navigate to the next doorway on the left	go through doorway on your left <\s>
+please move forward check the doorways in your area please move forward turn to your left check and see if there's a doorway there go three steps forward	move forward 3 feet <\s>
+go to the opening in the northeast	go through doorway <\s>
+move forward for feet	move forward 4 feet <\s>
+make make a slight turn to the right slightly ten degrees	turn right 10 degrees <\s>
+and then take another photo of the object in front of you	send image <\s>
+please move ten degrees to your right	turn right 10 degrees <\s>
+could you give me could you turn to your right uhhh hmmm fifty degrees	turn right 50 degrees <\s>
+can you do a <pause> five degree <pause> turn to your left	turn left 5 degrees <\s>
+show me what you see	send image <\s>
+so there's an object to my right and i believe your left can you face it	turn left 45 degrees <\s>
+move to the right side of the orange cone	move to the right side of the orange cone <\s>
+continue moving forward fifty feet until i say stop ten feet	move forward 10ft <\s>
